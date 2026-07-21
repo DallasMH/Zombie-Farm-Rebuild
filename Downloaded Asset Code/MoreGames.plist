@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>appStoreURL</key>
+		<string></string>
+		<key>appSwtichURL</key>
+		<string></string>
+		<key>description</key>
+		<string>Farm zombies 100% organic!</string>
+		<key>icon</key>
+		<string>Icon.png</string>
+		<key>installed</key>
+		<string>YES</string>
+		<key>name</key>
+		<string>Zombie Farm 2</string>
+		<key>priority</key>
+		<integer>1</integer>
+		<key>showButton</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>appStoreURL</key>
+		<string>http://itunes.apple.com/ca/app/zombie-life/id419224311</string>
+		<key>appSwtichURL</key>
+		<string>ZombieLife://crosspromote?app=ZombieFarm2</string>
+		<key>description</key>
+		<string>Even zombies need a life!</string>
+		<key>icon</key>
+		<string>icon_zl.png</string>
+		<key>installed</key>
+		<string>NO</string>
+		<key>name</key>
+		<string>Zombie Life</string>
+		<key>priority</key>
+		<integer>10</integer>
+		<key>showButton</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>appStoreURL</key>
+		<string>http://itunes.apple.com/us/app/tree-world/id473130352?ls=1&amp;mt=8</string>
+		<key>appSwtichURL</key>
+		<string>TreeWorld://crosspromote?app=ZombieFarm2</string>
+		<key>description</key>
+		<string>Grow a home for forest critters!</string>
+		<key>icon</key>
+		<string>icon_tw.png</string>
+		<key>installed</key>
+		<string>NO</string>
+		<key>name</key>
+		<string>Tree World</string>
+		<key>priority</key>
+		<integer>20</integer>
+		<key>showButton</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>appStoreURL</key>
+		<string>http://promos.theplayforge.com/inbound</string>
+		<key>appSwtichURL</key>
+		<string>EatEatHooray://crosspromote?app=ZombieFarm2</string>
+		<key>requiresKey</key>
+		<string>EAT_EAT_HOORAY_RELEASED</string>
+		<key>appStoreURLParameters</key>
+		<dict>
+			<key>publisher_token</key>
+			<string>4uQmo-UbQTye4hMg8XbFkQ</string>
+			<key>game_token</key>
+			<string>Dk_87tZWTGiEMG8y2RcoNA</string>
+		</dict>
+		<key>description</key>
+		<string>Come hungry, eat happy!</string>
+		<key>icon</key>
+		<string>EEH_appicon_57.png</string>
+		<key>installed</key>
+		<string>NO</string>
+		<key>name</key>
+		<string>Eat Eat Hooray!</string>
+		<key>priority</key>
+		<integer>30</integer>
+		<key>showButton</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>appStoreURL</key>
+		<string>http://promos.theplayforge.com/inbound</string>
+		<key>appSwtichURL</key>
+		<string>fb226300820834794free://</string>
+		<key>appStoreURLParameters</key>
+		<dict>
+			<key>publisher_token</key>
+			<string>4uQmo-UbQTye4hMg8XbFkQ</string>
+			<key>game_token</key>
+			<string>dCadnkORQ6C8r3bV70gSiw</string>
+		</dict>
+		<key>description</key>
+		<string>Run with Zombies!</string>
+		<key>icon</key>
+		<string>appiconfree_57x57.png</string>
+		<key>installed</key>
+		<string>NO</string>
+		<key>name</key>
+		<string>ZF Escape</string>
+		<key>priority</key>
+		<integer>40</integer>
+		<key>showButton</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>appStoreURL</key>
+		<string></string>
+		<key>appSwtichURL</key>
+		<string></string>
+		<key>description</key>
+		<string>More games coming soon!</string>
+		<key>icon</key>
+		<string>icon_comingSoon.png</string>
+		<key>installed</key>
+		<string>NO</string>
+		<key>lastEntry</key>
+		<true/>
+		<key>name</key>
+		<string>Coming Soon!</string>
+		<key>priority</key>
+		<integer>0</integer>
+		<key>showButton</key>
+		<false/>
+	</dict>
+</array>
+</plist>

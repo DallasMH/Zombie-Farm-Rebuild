@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>item_earthday_windsculpture_fr01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{14, 7}, {66, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{66, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{94, 154}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{406, 0}, {66, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_windsculpture_fr02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 6}, {78, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{78, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{94, 154}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 148}, {78, 146}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_windsculpture_fr03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 7}, {82, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{82, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{94, 154}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{86, 0}, {82, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_windsculpture_fr04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 7}, {82, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{82, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{94, 154}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{166, 146}, {82, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_windsculpture_fr05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 7}, {82, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{82, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{94, 154}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{170, 0}, {82, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_windsculpture_fr06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 7}, {72, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{72, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{94, 154}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{332, 0}, {72, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_windsculpture_fr07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{23, 8}, {60, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -3}</string>
+			<key>spriteSize</key>
+			<string>{60, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{94, 154}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{250, 146}, {60, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_windsculpture_fr08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 7}, {76, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -2}</string>
+			<key>spriteSize</key>
+			<string>{76, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{94, 154}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{254, 0}, {76, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_windsculpture_fr09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 6}, {84, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -2}</string>
+			<key>spriteSize</key>
+			<string>{84, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{94, 154}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {84, 146}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_windsculpture_fr10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 7}, {84, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -2}</string>
+			<key>spriteSize</key>
+			<string>{84, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{94, 154}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 296}, {84, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_windsculpture_fr11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 8}, {84, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSize</key>
+			<string>{84, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{94, 154}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{80, 148}, {84, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_windsculpture_fr12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 8}, {82, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{82, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{94, 154}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{86, 294}, {82, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_windsculpture_fr13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 7}, {78, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{78, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{94, 154}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{170, 292}, {78, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>windSculpture</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>target</key>
+		<dict>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>coordinatesFileName</key>
+			<string>windSculpture_default</string>
+			<key>name</key>
+			<string>default</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>textureFileName</key>
+			<string>windSculpture_default</string>
+		</dict>
+		<key>version</key>
+		<string>1.5.5</string>
+	</dict>
+</dict>
+</plist>

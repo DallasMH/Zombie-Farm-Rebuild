@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseHP</key>
+	<integer>2000</integer>
+	<key>LevelMultiplier</key>
+	<array>
+		<integer>1</integer>
+		<real>1.4</real>
+		<real>2.2</real>
+		<real>3.6</real>
+		<real>6.8</real>
+		<real>7.4</real>
+		<real>8.1</real>
+		<real>9.4</real>
+		<real>14</real>
+		<real>23</real>
+		<real>31.3</real>
+		<real>34.3</real>
+		<real>39.6</real>
+		<real>50</real>
+		<real>66.3</real>
+		<real>73</real>
+		<real>80</real>
+		<real>92.5</real>
+		<real>110</real>
+		<real>134</real>
+		<real>134</real>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>swamp_crocodile_base.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {328, 166}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSize</key>
+			<string>{328, 166}</string>
+			<key>spriteSourceSize</key>
+			<string>{330, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {328, 166}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>swamp_crocodile_fr01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{46, 11}, {238, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 6}</string>
+			<key>spriteSize</key>
+			<string>{238, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{330, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{272, 168}, {238, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>swamp_crocodile_fr02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{42, 18}, {244, 136}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 1}</string>
+			<key>spriteSize</key>
+			<string>{244, 136}</string>
+			<key>spriteSourceSize</key>
+			<string>{330, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{252, 858}, {244, 136}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>swamp_crocodile_fr03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{46, 13}, {252, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 5}</string>
+			<key>spriteSize</key>
+			<string>{252, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{330, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{258, 452}, {252, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>swamp_crocodile_fr04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{46, 21}, {256, 134}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -1}</string>
+			<key>spriteSize</key>
+			<string>{256, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{330, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 434}, {256, 134}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>swamp_crocodile_fr05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{46, 22}, {262, 130}}</string>
+			<key>spriteOffset</key>
+			<string>{12, -0}</string>
+			<key>spriteSize</key>
+			<string>{262, 130}</string>
+			<key>spriteSourceSize</key>
+			<string>{330, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 302}, {262, 130}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>swamp_crocodile_fr06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{39, 25}, {270, 132}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -4}</string>
+			<key>spriteSize</key>
+			<string>{270, 132}</string>
+			<key>spriteSourceSize</key>
+			<string>{330, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 168}, {270, 132}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>swamp_crocodile_fr07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{46, 25}, {250, 126}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -1}</string>
+			<key>spriteSize</key>
+			<string>{250, 126}</string>
+			<key>spriteSourceSize</key>
+			<string>{330, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{252, 730}, {250, 126}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>swamp_crocodile_fr08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{46, 25}, {250, 128}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -2}</string>
+			<key>spriteSize</key>
+			<string>{250, 128}</string>
+			<key>spriteSourceSize</key>
+			<string>{330, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 700}, {250, 128}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>swamp_crocodile_fr09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{46, 25}, {250, 136}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -6}</string>
+			<key>spriteSize</key>
+			<string>{250, 136}</string>
+			<key>spriteSourceSize</key>
+			<string>{330, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{254, 592}, {250, 136}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>swamp_crocodile_fr10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{46, 22}, {250, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 3}</string>
+			<key>spriteSize</key>
+			<string>{250, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{330, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 830}, {250, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>swamp_crocodile_fr11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{46, 18}, {252, 128}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 5}</string>
+			<key>spriteSize</key>
+			<string>{252, 128}</string>
+			<key>spriteSourceSize</key>
+			<string>{330, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 570}, {252, 128}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>swamp_crocodile_fr12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{46, 11}, {248, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 6}</string>
+			<key>spriteSize</key>
+			<string>{248, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{330, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{264, 310}, {248, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>swamp_crocodile</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>size</key>
+		<string>{512, 1024}</string>
+		<key>target</key>
+		<dict>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>coordinatesFileName</key>
+			<string>swamp_crocodile_default</string>
+			<key>name</key>
+			<string>default</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>textureFileName</key>
+			<string>swamp_crocodile_default</string>
+		</dict>
+		<key>version</key>
+		<string>1.5.5</string>
+	</dict>
+</dict>
+</plist>

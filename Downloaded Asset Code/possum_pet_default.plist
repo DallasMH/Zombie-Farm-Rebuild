@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>possum_pet_blink_fr01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 29}, {85, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{-26, 5}</string>
+			<key>spriteSize</key>
+			<string>{85, 51}</string>
+			<key>spriteSourceSize</key>
+			<string>{141, 119}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{87, 159}, {85, 51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>possum_pet_blink_fr02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 29}, {85, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{-26, 5}</string>
+			<key>spriteSize</key>
+			<string>{85, 51}</string>
+			<key>spriteSourceSize</key>
+			<string>{141, 119}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 106}, {85, 51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>possum_pet_blink_fr03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 29}, {85, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{-26, 5}</string>
+			<key>spriteSize</key>
+			<string>{85, 51}</string>
+			<key>spriteSourceSize</key>
+			<string>{141, 119}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {85, 51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>possum_pet_blink_fr04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 29}, {85, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{-26, 5}</string>
+			<key>spriteSize</key>
+			<string>{85, 51}</string>
+			<key>spriteSourceSize</key>
+			<string>{141, 119}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 159}, {85, 51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>possum_pet_blink_fr05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 29}, {85, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{-26, 5}</string>
+			<key>spriteSize</key>
+			<string>{85, 51}</string>
+			<key>spriteSourceSize</key>
+			<string>{141, 119}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{87, 0}, {85, 51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>possum_pet_blink_fr06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 29}, {85, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{-26, 5}</string>
+			<key>spriteSize</key>
+			<string>{85, 51}</string>
+			<key>spriteSourceSize</key>
+			<string>{141, 119}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 53}, {85, 51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>possum_pet_blink_fr07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 29}, {85, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{-26, 5}</string>
+			<key>spriteSize</key>
+			<string>{85, 51}</string>
+			<key>spriteSourceSize</key>
+			<string>{141, 119}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{87, 106}, {85, 51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>possum_pet_idle_fr01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 29}, {85, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{-26, 5}</string>
+			<key>spriteSize</key>
+			<string>{85, 51}</string>
+			<key>spriteSourceSize</key>
+			<string>{141, 119}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{87, 53}, {85, 51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>possum_pet_walk_fr01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 10}, {71, 59}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, 20}</string>
+			<key>spriteSize</key>
+			<string>{71, 59}</string>
+			<key>spriteSourceSize</key>
+			<string>{141, 119}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 212}, {71, 59}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>possum_pet_walk_fr02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 12}, {73, 53}}</string>
+			<key>spriteOffset</key>
+			<string>{-28, 21}</string>
+			<key>spriteSize</key>
+			<string>{73, 53}</string>
+			<key>spriteSourceSize</key>
+			<string>{141, 119}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{174, 110}, {73, 53}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>possum_pet_walk_fr03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 15}, {75, 53}}</string>
+			<key>spriteOffset</key>
+			<string>{-27, 18}</string>
+			<key>spriteSize</key>
+			<string>{75, 53}</string>
+			<key>spriteSourceSize</key>
+			<string>{141, 119}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{174, 0}, {75, 53}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>possum_pet_walk_fr04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 12}, {75, 53}}</string>
+			<key>spriteOffset</key>
+			<string>{-28, 21}</string>
+			<key>spriteSize</key>
+			<string>{75, 53}</string>
+			<key>spriteSourceSize</key>
+			<string>{141, 119}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{174, 55}, {75, 53}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>possum_pet_walk_fr05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 11}, {71, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{-29, 18}</string>
+			<key>spriteSize</key>
+			<string>{71, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{141, 119}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{174, 165}, {71, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.5</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{256, 512}</string>
+		<key>name</key>
+		<string>possum_pet</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>possum_pet_default</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>possum_pet_default</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

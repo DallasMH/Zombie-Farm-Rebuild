@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>promoIcon</key>
+		<string>zombieLifeIcon.png</string>
+		<key>id</key>
+		<integer>4</integer>
+		<key>level</key>
+		<integer>5</integer>
+		<key>installedBodyText2</key>
+		<string>Mr. Wiggles has come from the city to hang out at your farm!</string>
+		<key>completionNotificationID</key>
+		<string>zombieLifeQuestComplete</string>
+		<key>showAsQuest</key>
+		<true/>
+		<key>promoButtonText</key>
+		<string>Try it out</string>
+		<key>installedButtonText</key>
+		<string>Claim your prize</string>
+		<key>promoBodyText1</key>
+		<string>You&apos;ve got a new visitor!</string>
+		<key>installedBodyText1</key>
+		<string>Thanks for checking out Zombie Life!</string>
+		<key>prizeSprite</key>
+		<string>mrWigglesPrizeIcon.png</string>
+		<key>prizeTile</key>
+		<string>mrWigglesActor</string>
+		<key>promoName</key>
+		<string>Play Zombie Life</string>
+		<key>questIcon</key>
+		<string>Icon_Quest_MrWiggles.png</string>
+		<key>gotoURL</key>
+		<string>http://api.zombiefarmgame.com/promos/click</string>
+		<key>gotoURLParameters</key>
+		<dict>
+			<key>publisher_token</key>
+			<string>M6Etws3PTFqHkCTzTZTuag</string>
+			<key>game_token</key>
+			<string>hkqKC2YET6S1Qxt5GVG8lA</string>
+		</dict>
+		<key>installedURL</key>
+		<string>ZombieLife://crosspromote</string>
+		<key>promoBodyText2</key>
+		<string>Check out Zombie Life to learn more!</string>
+		<key>prizeName</key>
+		<string>Mr. Wiggles</string>
+	</dict>
+	<dict>
+		<key>questIcon</key>
+		<string>Icon_Quest_exclamationpoint.png</string>
+		<key>promoName</key>
+		<string>Skittles</string>
+		<key>openToMarketItem</key>
+		<string>Skittles Zombie</string>
+		<key>level</key>
+		<integer>5</integer>
+		<key>id</key>
+		<integer>3</integer>
+		<key>showMarketIcon</key>
+		<true/>
+		<key>completionNotificationID</key>
+		<string>skittlesQuestComplete</string>
+		<key>showAsQuest</key>
+		<true/>
+		<key>promoBodyText1</key>
+		<string>Have a Skittles Zombie, on Skittles! Go to the market to get your free Skittles Zombie. Zombie the Rainbow. Taste the Rainbow.</string>
+		<key>prizeActor</key>
+		<string>ZombieActorRegularData</string>
+		<key>prizeName</key>
+		<string>Skittles Zombie</string>
+		<key>promoButtonText</key>
+		<string>Check it out</string>
+	</dict>
+	<dict>
+		<key>promoIcon</key>
+		<string>TreeWorldIcon.png</string>
+		<key>id</key>
+		<integer>5</integer>
+		<key>level</key>
+		<integer>5</integer>
+		<key>installedBodyText2</key>
+		<string>Poppy the forest fairy is visiting your farm! You can find her in your Storage. &lt;3</string>
+		<key>completionNotificationID</key>
+		<string>treeWorldQuestComplete</string>
+		<key>showAsQuest</key>
+		<true/>
+		<key>promoButtonText</key>
+		<string>Try it out</string>
+		<key>installedButtonText</key>
+		<string>Claim your prize</string>
+		<key>promoBodyText1</key>
+		<string>You&apos;ve got a new visitor!</string>
+		<key>installedBodyText1</key>
+		<string>Thanks for checking out Tree World!</string>
+		<key>prizeSprite</key>
+		<string>PoppyPrizeIcon.png</string>
+		<key>prizeTile</key>
+		<string>poppyActor</string>
+		<key>promoName</key>
+		<string>Play Tree World</string>
+		<key>questIcon</key>
+		<string>Icon_Quest_TW.png</string>
+		<key>gotoURL</key>
+		<string>http://promos.theplayforge.com/inbound</string>
+		<key>gotoURLParameters</key>
+		<dict>
+			<key>publisher_token</key>
+			<string>p7V8NYJJQ3eK8LWuY_ZMFw</string>
+			<key>game_token</key>
+			<string>NhWLJUj7RB6Pzoqducp1EA</string>
+		</dict>
+		<key>installedURL</key>
+		<string>TreeWorld://crosspromote</string>
+		<key>promoBodyText2</key>
+		<string>Check out Tree World to learn more!</string>
+		<key>prizeName</key>
+		<string>Poppy</string>
+	</dict>
+	<dict>
+		<key>promoIcon</key>
+		<string>EEH_appicon_40.png</string>
+		<key>id</key>
+		<integer>6</integer>
+		<key>level</key>
+		<integer>5</integer>
+		<key>installedBodyText2</key>
+		<string>A Morp has followed you home! You can find it in your Storage.</string>
+		<key>completionNotificationID</key>
+		<string>eatEatHoorayQuestComplete</string>
+		<key>showAsQuest</key>
+		<true/>
+		<key>promoButtonText</key>
+		<string>Try it out</string>
+		<key>installedButtonText</key>
+		<string>Claim your prize</string>
+		<key>promoBodyText1</key>
+		<string>You&apos;ve got a new visitor!</string>
+		<key>installedBodyText1</key>
+		<string>Thanks for checking out Eat Eat Hooray!</string>
+		<key>prizeSprite</key>
+		<string>MorpPrizeIcon.png</string>
+		<key>prizeTile</key>
+		<string>morpActor</string>
+		<key>promoName</key>
+		<string>Eat Eat Hooray!</string>
+		<key>promoFontSize</key>
+		<integer>20</integer>
+		<key>gotoURL</key>
+		<string>http://promos.theplayforge.com/inbound</string>
+		<key>gotoURLParameters</key>
+		<dict>
+			<key>publisher_token</key>
+			<string>V0eM5GigRpS88LZc2Ws8Ow</string>
+			<key>game_token</key>
+			<string>Dk_87tZWTGiEMG8y2RcoNA</string>
+		</dict>
+		<key>questIcon</key>
+		<string>Icon_Quest_EEH.png</string>
+		<key>installedURL</key>
+		<string>EatEatHooray://crosspromote</string>
+		<key>promoBodyText2</key>
+		<string>Check out Eat Eat Hooray! to learn more!</string>
+		<key>prizeName</key>
+		<string>Morp</string>
+	</dict>
+	<dict>
+		<key>promoName</key>
+		<string>Vortexx Promo</string>
+		<key>level</key>
+		<integer>5</integer>
+		<key>id</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>showMarketIcon</key>
+		<true/>
+		<key>promoIcon</key>
+		<string>ZFBattles_appicon_57.png</string>
+		<key>id</key>
+		<integer>8</integer>
+		<key>level</key>
+		<integer>5</integer>
+		<key>installedBodyText2</key>
+		<string>Brock Coley joined your team! You can find him in your Storage.</string>
+		<key>completionNotificationID</key>
+		<string>zombieFarmBattlesQuestComplete</string>
+		<key>showAsQuest</key>
+		<true/>
+		<key>promoButtonText</key>
+		<string>Check it out</string>
+		<key>installedButtonText</key>
+		<string>Okay</string>
+		<key>promoBodyText1</key>
+		<string>Brock Coley has discovered your farm.</string>
+		<key>installedBodyText1</key>
+		<string>Thanks for checking out Zombie Farm Battles!</string>
+		<key>prizeTile</key>
+		<string>Brock Coley</string>
+		<key>promoName</key>
+		<string>ZF Battles!</string>
+		<key>promoFontSize</key>
+		<integer>20</integer>
+		<key>gotoURL</key>
+		<string>http://promos.theplayforge.com/inbound</string>
+		<key>gotoURLParameters</key>
+		<dict>
+			<key>publisher_token</key>
+			<string>Iwmq5EFHSb6BD1j4B6CMqw</string>
+			<key>game_token</key>
+			<string>bL07mCLsTJan9jSr9CmDsQ</string>
+		</dict>
+		<key>questIcon</key>
+		<string>Icon_Quest_BROCK_COLEY.png</string>
+		<key>installedURL</key>
+		<string>zfbattles://crosspromote</string>
+		<key>promoBodyText2</key>
+		<string>Take a peek at Zombie Farm Battles to learn more.</string>
+		<key>prizeName</key>
+		<string>Brock Coley</string>
+	</dict>
+	<dict>
+		<key>showMarketIcon</key>
+		<true/>
+		<key>promoIcon</key>
+		<string>appiconfree_57x57.png</string>
+		<key>id</key>
+		<integer>9</integer>
+		<key>level</key>
+		<integer>5</integer>
+		<key>installedBodyText2</key>
+		<string>A Flying Pig has made a home on your farm! You can find it in your Storage.</string>
+		<key>completionNotificationID</key>
+		<string>zombieFarmBattlesQuestComplete</string>
+		<key>showAsQuest</key>
+		<true/>
+		<key>promoButtonText</key>
+		<string>Check it out</string>
+		<key>installedButtonText</key>
+		<string>Okay</string>
+		<key>promoBodyText1</key>
+		<string>A Flying Pig has discovered your farm.</string>
+		<key>installedBodyText1</key>
+		<string>Thanks for checking out Zombie Farm Escape!</string>
+		<key>prizeTile</key>
+		<string>flyingPig</string>
+		<key>promoName</key>
+		<string>ZF Escape!</string>
+		<key>promoFontSize</key>
+		<integer>20</integer>
+		<key>gotoURL</key>
+		<string>http://promos.theplayforge.com/inbound</string>
+		<key>gotoURLParameters</key>
+		<dict>
+			<key>publisher_token</key>
+			<string>Iwmq5EFHSb6BD1j4B6CMqw</string>
+			<key>game_token</key>
+			<string>dCadnkORQ6C8r3bV70gSiw</string>
+		</dict>
+		<key>questIcon</key>
+		<string>Icon_Quest_ZF_Escape_pet.png</string>
+		<key>installedURL</key>
+		<string>fb226300820834794free://</string>
+		<key>promoBodyText2</key>
+		<string>Take a peek at Zombie Farm Escape to learn more.</string>
+		<key>prizeName</key>
+		<string>Flying Pig</string>
+	</dict>
+</array>
+</plist>

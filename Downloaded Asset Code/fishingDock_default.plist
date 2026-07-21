@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>tile_fishingdock_BASE_UPDATE.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 21}, {337, 174}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -8}</string>
+			<key>spriteSize</key>
+			<string>{337, 174}</string>
+			<key>spriteSourceSize</key>
+			<string>{345, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {337, 174}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tile_fishingdock_fr01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{89, 5}, {53, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{-57, 45}</string>
+			<key>spriteSize</key>
+			<string>{53, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{345, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{404, 0}, {53, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tile_fishingdock_fr02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{80, 5}, {61, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{-62, 42}</string>
+			<key>spriteSize</key>
+			<string>{61, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{345, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{339, 102}, {61, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tile_fishingdock_fr03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{89, 5}, {53, 114}}</string>
+			<key>spriteOffset</key>
+			<string>{-57, 38}</string>
+			<key>spriteSize</key>
+			<string>{53, 114}</string>
+			<key>spriteSourceSize</key>
+			<string>{345, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{110, 292}, {53, 114}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tile_fishingdock_fr04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{89, 5}, {53, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{-57, 33}</string>
+			<key>spriteSize</key>
+			<string>{53, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{345, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{55, 176}, {53, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tile_fishingdock_fr05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{89, 5}, {53, 132}}</string>
+			<key>spriteOffset</key>
+			<string>{-57, 29}</string>
+			<key>spriteSize</key>
+			<string>{53, 132}</string>
+			<key>spriteSourceSize</key>
+			<string>{345, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 176}, {53, 132}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tile_fishingdock_fr06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{85, 5}, {57, 134}}</string>
+			<key>spriteOffset</key>
+			<string>{-59, 28}</string>
+			<key>spriteSize</key>
+			<string>{57, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{345, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{402, 102}, {57, 134}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tile_fishingdock_fr07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 5}, {55, 114}}</string>
+			<key>spriteOffset</key>
+			<string>{-59, 38}</string>
+			<key>spriteSize</key>
+			<string>{55, 114}</string>
+			<key>spriteSourceSize</key>
+			<string>{345, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{110, 176}, {55, 114}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tile_fishingdock_fr08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 5}, {55, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{-59, 42}</string>
+			<key>spriteSize</key>
+			<string>{55, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{345, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{226, 210}, {55, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tile_fishingdock_fr09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{78, 7}, {63, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{-63, 43}</string>
+			<key>spriteSize</key>
+			<string>{63, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{345, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{339, 0}, {63, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tile_fishingdock_fr10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 23}, {55, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-59, 36}</string>
+			<key>spriteSize</key>
+			<string>{55, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{345, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{165, 292}, {55, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tile_fishingdock_fr11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{85, 37}, {57, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{-59, 29}</string>
+			<key>spriteSize</key>
+			<string>{57, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{345, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 310}, {57, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tile_fishingdock_fr12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 31}, {55, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{-59, 32}</string>
+			<key>spriteSize</key>
+			<string>{55, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{345, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{222, 318}, {55, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tile_fishingdock_fr13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{85, 31}, {57, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{-59, 32}</string>
+			<key>spriteSize</key>
+			<string>{57, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{345, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{167, 210}, {57, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tile_fishingdock_fr14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 31}, {55, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{-59, 32}</string>
+			<key>spriteSize</key>
+			<string>{55, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{345, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{283, 238}, {55, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tile_fishingdock_fr15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{89, 1}, {53, 104}}</string>
+			<key>spriteOffset</key>
+			<string>{-57, 47}</string>
+			<key>spriteSize</key>
+			<string>{53, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{345, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 380}, {53, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tile_fishingdock_fr16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{89, 6}, {53, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{-57, 45}</string>
+			<key>spriteSize</key>
+			<string>{53, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{345, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{340, 238}, {53, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tile_fishingdock_fr17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{89, 5}, {53, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{-57, 45}</string>
+			<key>spriteSize</key>
+			<string>{53, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{345, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{55, 380}, {53, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tile_fishingdock_fr18.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{89, 5}, {53, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{-57, 45}</string>
+			<key>spriteSize</key>
+			<string>{53, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{345, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{459, 0}, {53, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.5</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>name</key>
+		<string>fishingDock</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>fishingDock_default</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>fishingDock_default</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

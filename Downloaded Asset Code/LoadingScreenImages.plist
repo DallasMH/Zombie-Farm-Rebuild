@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iPad</key>
+	<dict>
+		<key>en</key>
+		<array>
+			<string>zf2photo-4_iPad.png</string>
+			<string>ZFBattles_xpromo_1024x768.jpg</string>
+			<string>ZF_fbLikeUs_LS_Ipad.png</string>
+			<string>Halloween_2013_LoadingScreen_ipad.png</string>
+		</array>
+	</dict>
+	<key>iPhone</key>
+	<dict>
+		<key>en</key>
+		<array>
+			<string>zf2photo-4.png</string>
+			<string>ZFBattles_xpromo_480x320.jpg</string>
+			<string>ZF_fbLikeUs_LS_Iphone.png</string>
+			<string>Halloween_2013_LoadingScreen_iphone.png</string>
+		</array>
+	</dict>
+	<key>iPhone586</key>
+	<dict>
+		<key>en</key>
+		<array>
+			<string>zf2photo-4_iPhone5.png</string>
+			<string>ZFBattles_xpromo_1136x640.jpg</string>
+			<string>ZF_fbLikeUs_LS_Iphone.png</string>
+			<string>Halloween_2013_LoadingScreen_iphone.png</string>
+		</array>
+	</dict>
+</dict>
+</plist>

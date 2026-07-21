@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>item_earthday_watermill_base.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {206, 194}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{206, 194}</string>
+			<key>spriteSourceSize</key>
+			<string>{206, 196}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {206, 194}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_watermill_blink_fr01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{68, 117}, {18, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{-26, -25}</string>
+			<key>spriteSize</key>
+			<string>{18, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{206, 196}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{128, 274}, {18, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_watermill_blink_fr02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{67, 116}, {20, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{-26, -24}</string>
+			<key>spriteSize</key>
+			<string>{20, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{206, 196}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{128, 246}, {20, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_watermill_blink_fr03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{67, 115}, {20, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{-26, -25}</string>
+			<key>spriteSize</key>
+			<string>{20, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{206, 196}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{128, 196}, {20, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_watermill_blink_fr04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{67, 115}, {20, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{-26, -25}</string>
+			<key>spriteSize</key>
+			<string>{20, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{206, 196}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{128, 214}, {20, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_watermill_blink_fr05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{67, 116}, {20, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{-26, -24}</string>
+			<key>spriteSize</key>
+			<string>{20, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{206, 196}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{128, 232}, {20, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_watermill_blink_hold.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{68, 117}, {18, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{-26, -25}</string>
+			<key>spriteSize</key>
+			<string>{18, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{206, 196}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{128, 260}, {18, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_watermill_fr01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{67, 0}, {126, 182}}</string>
+			<key>spriteOffset</key>
+			<string>{27, 7}</string>
+			<key>spriteSize</key>
+			<string>{126, 182}</string>
+			<key>spriteSourceSize</key>
+			<string>{206, 196}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 196}, {126, 182}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_watermill_fr02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{67, 0}, {126, 184}}</string>
+			<key>spriteOffset</key>
+			<string>{27, 6}</string>
+			<key>spriteSize</key>
+			<string>{126, 184}</string>
+			<key>spriteSourceSize</key>
+			<string>{206, 196}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{208, 186}, {126, 184}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_watermill_fr03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{67, 0}, {126, 182}}</string>
+			<key>spriteOffset</key>
+			<string>{27, 7}</string>
+			<key>spriteSize</key>
+			<string>{126, 182}</string>
+			<key>spriteSourceSize</key>
+			<string>{206, 196}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{336, 0}, {126, 182}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>item_earthday_watermill_fr04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{67, 0}, {126, 184}}</string>
+			<key>spriteOffset</key>
+			<string>{27, 6}</string>
+			<key>spriteSize</key>
+			<string>{126, 184}</string>
+			<key>spriteSourceSize</key>
+			<string>{206, 196}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{208, 0}, {126, 184}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>waterMill</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>target</key>
+		<dict>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>coordinatesFileName</key>
+			<string>waterMill_default</string>
+			<key>name</key>
+			<string>default</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>textureFileName</key>
+			<string>waterMill_default</string>
+		</dict>
+		<key>version</key>
+		<string>1.5.5</string>
+	</dict>
+</dict>
+</plist>

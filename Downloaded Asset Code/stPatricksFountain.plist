@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>stpatricksdayitems_fountain_00.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {200, 183}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{200, 183}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 183}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {200, 183}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>stpatricksdayitems_fountain_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 53}, {122, 99}}</string>
+			<key>spriteOffset</key>
+			<string>{-17, -11}</string>
+			<key>spriteSize</key>
+			<string>{122, 99}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 183}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 185}, {122, 99}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>stpatricksdayitems_fountain_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{23, 52}, {120, 99}}</string>
+			<key>spriteOffset</key>
+			<string>{-17, -10}</string>
+			<key>spriteSize</key>
+			<string>{120, 99}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 183}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{122, 286}, {120, 99}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>stpatricksdayitems_fountain_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{24, 53}, {116, 99}}</string>
+			<key>spriteOffset</key>
+			<string>{-18, -11}</string>
+			<key>spriteSize</key>
+			<string>{116, 99}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 183}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{124, 185}, {116, 99}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>stpatricksdayitems_fountain_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 52}, {120, 101}}</string>
+			<key>spriteOffset</key>
+			<string>{-18, -11}</string>
+			<key>spriteSize</key>
+			<string>{120, 101}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 183}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 286}, {120, 101}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>stPatricksFountain</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>size</key>
+		<string>{256, 512}</string>
+		<key>target</key>
+		<dict>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>coordinatesFileName</key>
+			<string>default</string>
+			<key>name</key>
+			<string>default</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>textureFileName</key>
+			<string>default</string>
+		</dict>
+		<key>version</key>
+		<string>1.5 GM</string>
+	</dict>
+</dict>
+</plist>

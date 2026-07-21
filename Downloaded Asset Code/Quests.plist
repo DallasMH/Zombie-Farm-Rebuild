@@ -1,0 +1,5302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You completed Tomato Farmin&apos;!</string>
+		<key>prerequisiteQuest</key>
+		<integer>2</integer>
+		<key>questID</key>
+		<real>0</real>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>10</integer>
+				<key>notificationID</key>
+				<string>kCropPlantedNotification</string>
+				<key>notificationObject</key>
+				<string>Tomatoes</string>
+				<key>sprite</key>
+				<string>stex0004.png</string>
+				<key>text</key>
+				<string>Plant 10 Tomatoes</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>10</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedNotification</string>
+				<key>notificationObject</key>
+				<string>Tomatoes</string>
+				<key>sprite</key>
+				<string>stex0004.png</string>
+				<key>text</key>
+				<string>Harvest 10 Tomatoes</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>30</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_HarvestVegetables.png</string>
+		<key>tip</key>
+		<string>These take 4 hours to grow.</string>
+		<key>title</key>
+		<string>Tomato Farmin&apos;</string>
+	</dict>
+	<key>1</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>1</integer>
+		<key>messageComplete</key>
+		<string>You got yerself a farm!</string>
+		<key>prerequisiteQuest</key>
+		<integer>71</integer>
+		<key>questID</key>
+		<integer>1</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>10</integer>
+				<key>notificationID</key>
+				<string>kSoilPlowedNotification</string>
+				<key>notificationObject</key>
+				<string>Plow</string>
+				<key>sprite</key>
+				<string>stex0036.png</string>
+				<key>text</key>
+				<string>Plow 10 patches of soil</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>10</integer>
+				<key>notificationID</key>
+				<string>kCropPlantedNotification</string>
+				<key>notificationObject</key>
+				<string>Carrots</string>
+				<key>sprite</key>
+				<string>stex0006.png</string>
+				<key>text</key>
+				<string>Plant 10 carrots</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>20</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Plowing.png</string>
+		<key>tip</key>
+		<string>Tap on the Multi-Tool and select the Plow Tool.</string>
+		<key>title</key>
+		<string>Preparin&apos; The Farm</string>
+	</dict>
+	<key>10</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You completed Farm Essentials 2!</string>
+		<key>prerequisiteQuest</key>
+		<integer>9</integer>
+		<key>questID</key>
+		<integer>10</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>2</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Barrel</string>
+				<key>sprite</key>
+				<string>stex0040.png</string>
+				<key>text</key>
+				<string>Buy 2 Brown Barrels</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>2</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Hedge</string>
+				<key>sprite</key>
+				<string>stex0039.png</string>
+				<key>text</key>
+				<string>Buy 2 Green Hedges</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>40</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Decorating.png</string>
+		<key>tip</key>
+		<string>You don&apos;t want to know what&apos;s in those barrels.</string>
+		<key>title</key>
+		<string>Farm Essentials 2</string>
+	</dict>
+	<key>1000</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>ignoreCheckQuest</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Dr. Groundhog Level 5!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>1000</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>5</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Dr. Groundhog Level 5 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Zombie Bot</string>
+		<key>rewardItemKey</key>
+		<string>ZombieActorRegularData</string>
+		<key>rewardType</key>
+		<integer>5</integer>
+		<key>sprite</key>
+		<string>questicon_drgroundhog.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Zombie Bot</string>
+	</dict>
+	<key>1001</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Dr. Groundhog Level 10!</string>
+		<key>prerequisiteQuest</key>
+		<integer>1000</integer>
+		<key>questID</key>
+		<integer>1001</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>10</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Dr. Groundhog Level 10 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Invasion Voucher</string>
+		<key>rewardItemKey</key>
+		<string>Invasion Voucher</string>
+		<key>rewardType</key>
+		<integer>3</integer>
+		<key>sprite</key>
+		<string>questicon_drgroundhog.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Defeat Dr. Groundhog Level 10</string>
+	</dict>
+	<key>1002</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Dr. Groundhog Level 15!</string>
+		<key>prerequisiteQuest</key>
+		<integer>1001</integer>
+		<key>questID</key>
+		<integer>1002</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>15</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Dr. Groundhog Level 15 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>2</integer>
+		<key>rewardValue</key>
+		<integer>1</integer>
+		<key>sprite</key>
+		<string>questicon_drgroundhog.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Defeat Dr. Groundhog Level 15</string>
+	</dict>
+	<key>1003</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Dr. Groundhog Level 20!</string>
+		<key>prerequisiteQuest</key>
+		<integer>1002</integer>
+		<key>questID</key>
+		<integer>1003</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>20</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Dr. Groundhog Level 20 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Golden Dice</string>
+		<key>rewardItemKey</key>
+		<string>Golden Dice</string>
+		<key>rewardType</key>
+		<integer>3</integer>
+		<key>sprite</key>
+		<string>questicon_drgroundhog.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Defeat Dr. Groundhog Level 20</string>
+	</dict>
+	<key>1004</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Dr. Groundhog Level 25!</string>
+		<key>prerequisiteQuest</key>
+		<integer>1003</integer>
+		<key>questID</key>
+		<integer>1004</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>25</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Dr. Groundhog Level 25 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>2</integer>
+		<key>rewardValue</key>
+		<integer>2</integer>
+		<key>sprite</key>
+		<string>questicon_drgroundhog.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Defeat Dr. Groundhog Level 25</string>
+	</dict>
+	<key>1005</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Dr. Groundhog Level 30!</string>
+		<key>prerequisiteQuest</key>
+		<integer>1004</integer>
+		<key>questID</key>
+		<integer>1005</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>30</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Dr. Groundhog Level 30 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Golden Dice</string>
+		<key>rewardItemKey</key>
+		<string>Golden Dice</string>
+		<key>rewardType</key>
+		<integer>3</integer>
+		<key>sprite</key>
+		<string>questicon_drgroundhog.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Defeat Fould Owl Level 30</string>
+	</dict>
+	<key>1006</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Dr. Groundhog Level 35!</string>
+		<key>prerequisiteQuest</key>
+		<integer>1005</integer>
+		<key>questID</key>
+		<integer>1006</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>35</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Dr. Groundhog Level 35 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>2</integer>
+		<key>rewardValue</key>
+		<integer>5</integer>
+		<key>sprite</key>
+		<string>questicon_drgroundhog.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Defeat Dr. Groundhog Level 35</string>
+	</dict>
+	<key>1010</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>ignoreCheckQuest</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You pilfered Dr. Groundhog into poverty!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>1010</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Dr. Groundhog&apos;s Evil Device</string>
+				<key>sprite</key>
+				<string>questicon_drgroundhog.png</string>
+				<key>text</key>
+				<string>Dr. Groundhog&apos;s Evil Device</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Dr. Groundhog&apos;s Tricycle</string>
+				<key>sprite</key>
+				<string>questicon_drgroundhog.png</string>
+				<key>text</key>
+				<string>Dr. Groundhog&apos;s Tricycle</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Dr. Groundhog&apos;s Nut Stash</string>
+				<key>sprite</key>
+				<string>questicon_drgroundhog.png</string>
+				<key>text</key>
+				<string>Dr. Groundhog&apos;s Nut Stash</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Dr. Groundhog&apos;s Lab Shelves</string>
+				<key>sprite</key>
+				<string>questicon_drgroundhog.png</string>
+				<key>text</key>
+				<string>Dr. Groundhog&apos;s Lab Shelves</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Dr. Groundhog&apos;s Lab Table</string>
+				<key>sprite</key>
+				<string>questicon_drgroundhog.png</string>
+				<key>text</key>
+				<string>Dr. Groundhog&apos;s Lab Table</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Dr. Groundhog&apos;s Lab</string>
+				<key>sprite</key>
+				<string>questicon_drgroundhog.png</string>
+				<key>text</key>
+				<string>Dr. Groundhog&apos;s Lab</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Dr. Groundhog&apos;s Burrow</string>
+				<key>sprite</key>
+				<string>questicon_drgroundhog.png</string>
+				<key>text</key>
+				<string>Dr. Groundhog&apos;s Burrow</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Dr. Groundhog&apos;s Distillery</string>
+				<key>sprite</key>
+				<string>questicon_drgroundhog.png</string>
+				<key>text</key>
+				<string>Dr. Groundhog&apos;s Distillery</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>2</integer>
+		<key>rewardValue</key>
+		<integer>5</integer>
+		<key>sprite</key>
+		<string>questicon_drgroundhog.png</string>
+		<key>tip</key>
+		<string>Defeat Dr. Groundhog to collect these items</string>
+		<key>title</key>
+		<string>Dr. Groundhog&apos;s Evil Items</string>
+	</dict>
+	<key>1011</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>ignoreCheckQuest</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Dr. Groundhog Level 40!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>1011</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>40</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Dr. Groundhog Level 40 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Omega Zombie Bot</string>
+		<key>rewardItemKey</key>
+		<string>ZombieActorRegularData</string>
+		<key>rewardType</key>
+		<integer>5</integer>
+		<key>sprite</key>
+		<string>questicon_drgroundhog.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Omega Zombie Bot</string>
+	</dict>
+	<key>11</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>8</integer>
+		<key>messageComplete</key>
+		<string>You completed Grave Essentials!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>11</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>2</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Gravestone</string>
+				<key>sprite</key>
+				<string>stex0041.png</string>
+				<key>text</key>
+				<string>Buy 2 Gravestones</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>5</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Daisy</string>
+				<key>sprite</key>
+				<string>tex1021.png</string>
+				<key>text</key>
+				<string>Buy 5 Daisies</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>40</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Decorating.png</string>
+		<key>tip</key>
+		<string>No Zombie Farm is complete without a few gravestones.</string>
+		<key>title</key>
+		<string>Grave Essentials</string>
+	</dict>
+	<key>12</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>6</integer>
+		<key>messageComplete</key>
+		<string>You completed Gardening 101!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>12</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>2</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedZombieNotification</string>
+				<key>notificationObject</key>
+				<string>Garden Zombie</string>
+				<key>sprite</key>
+				<string>stex0000.png</string>
+				<key>text</key>
+				<string>Harvest 2 Garden Zombies</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>40</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_HarvestZombies.png</string>
+		<key>tip</key>
+		<string>Garden Zombies can fertilize your crops, making them worth double!</string>
+		<key>title</key>
+		<string>Gardening 101</string>
+	</dict>
+	<key>13</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>10</integer>
+		<key>messageComplete</key>
+		<string>You beat Old McDonnell 3 times!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>13</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>3</integer>
+				<key>notificationID</key>
+				<string>kInvasionSuccessfulNotification</string>
+				<key>notificationObject</key>
+				<string>Old McDonnell&apos;s Farm</string>
+				<key>sprite</key>
+				<string>Icon_Quest_OldMcDonnell.png</string>
+				<key>text</key>
+				<string>Beat Old McDonnell 3x</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>50</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_OldMcDonnell.png</string>
+		<key>tip</key>
+		<string>For the best results, invade with at least 16 zombies.</string>
+		<key>title</key>
+		<string>Farming the farmer</string>
+	</dict>
+	<key>14</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>16</integer>
+		<key>messageComplete</key>
+		<string>You beat CorporateVille 3 times!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>14</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>3</integer>
+				<key>notificationID</key>
+				<string>kInvasionSuccessfulNotification</string>
+				<key>notificationObject</key>
+				<string>Zombies vs Lawyers</string>
+				<key>sprite</key>
+				<string>Icon_Quest_City.png</string>
+				<key>text</key>
+				<string>Beat CorporateVille 3x</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>75</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_City.png</string>
+		<key>tip</key>
+		<string>Try investing in blue or red zombies.</string>
+		<key>title</key>
+		<string>Laying Down The Law</string>
+	</dict>
+	<key>15</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>21</integer>
+		<key>messageComplete</key>
+		<string>You beat The Dread Pirate Arrrnold 3 times!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>15</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>3</integer>
+				<key>notificationID</key>
+				<string>kInvasionSuccessfulNotification</string>
+				<key>notificationObject</key>
+				<string>Zombies vs Pirates</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Pirates.png</string>
+				<key>text</key>
+				<string>Beat The Dread Pirate Arrrnold 3x</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>150</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Pirates.png</string>
+		<key>tip</key>
+		<string>Speed might prove dangerous here.</string>
+		<key>title</key>
+		<string>Plundering the Pirates</string>
+	</dict>
+	<key>16</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>26</integer>
+		<key>messageComplete</key>
+		<string>You beat Mr. Whiskers 3 times!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>16</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>3</integer>
+				<key>notificationID</key>
+				<string>kInvasionSuccessfulNotification</string>
+				<key>notificationObject</key>
+				<string>Zombies vs Ninjas</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Ninjas.png</string>
+				<key>text</key>
+				<string>Beat Mr. Whiskers 3 times</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>500</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Ninjas.png</string>
+		<key>tip</key>
+		<string>Get a strong army of mutated and special zombies.</string>
+		<key>title</key>
+		<string>Looting the Ninjas</string>
+	</dict>
+	<key>17</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>12</integer>
+		<key>messageComplete</key>
+		<string>You took some great photos!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>17</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>3</integer>
+				<key>notificationID</key>
+				<string>kPhotoTakenNotification</string>
+				<key>notificationObject</key>
+				<string></string>
+				<key>sprite</key>
+				<string>Icon_Quest_Camera.png</string>
+				<key>text</key>
+				<string>Take 3 pictures with camera</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>50</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Camera.png</string>
+		<key>tip</key>
+		<string>Buy the camera in the store under Functional Items.</string>
+		<key>title</key>
+		<string>Farm Photography 1</string>
+	</dict>
+	<key>18</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>18</integer>
+		<key>messageComplete</key>
+		<string>You took some great photos!</string>
+		<key>prerequisiteQuest</key>
+		<integer>17</integer>
+		<key>questID</key>
+		<integer>18</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>3</integer>
+				<key>notificationID</key>
+				<string>kPhotoTakenNotification</string>
+				<key>notificationObject</key>
+				<string></string>
+				<key>sprite</key>
+				<string>Icon_Quest_Camera.png</string>
+				<key>text</key>
+				<string>Take 3 pictures with camera</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>100</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Camera.png</string>
+		<key>tip</key>
+		<string>Buy the camera in the store under Functional Items.</string>
+		<key>title</key>
+		<string>Farm Photography 2</string>
+	</dict>
+	<key>19</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>23</integer>
+		<key>messageComplete</key>
+		<string>You took some great photos!</string>
+		<key>prerequisiteQuest</key>
+		<integer>18</integer>
+		<key>questID</key>
+		<integer>19</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>3</integer>
+				<key>notificationID</key>
+				<string>kPhotoTakenNotification</string>
+				<key>notificationObject</key>
+				<string></string>
+				<key>sprite</key>
+				<string>Icon_Quest_Camera.png</string>
+				<key>text</key>
+				<string>Take 3 pictures with camera</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>150</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Camera.png</string>
+		<key>tip</key>
+		<string>Buy the camera in the store under Functional Items.</string>
+		<key>title</key>
+		<string>Farm Photography 3</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You completed A Bountiful Harvest!</string>
+		<key>prerequisiteQuest</key>
+		<integer>1</integer>
+		<key>questID</key>
+		<integer>2</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>15</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedNotification</string>
+				<key>notificationObject</key>
+				<string></string>
+				<key>sprite</key>
+				<string>stex0029.png</string>
+				<key>text</key>
+				<string>Harvest 15 crops</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>20</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_HarvestVegetables.png</string>
+		<key>tip</key>
+		<string>Any 15 crops will do!</string>
+		<key>title</key>
+		<string>A Bountiful Harvest</string>
+	</dict>
+	<key>20</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>28</integer>
+		<key>messageComplete</key>
+		<string>You took some great photos!</string>
+		<key>questID</key>
+		<integer>20</integer>
+		<key>removeQuest</key>
+		<true/>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>3</integer>
+				<key>notificationID</key>
+				<string>kPhotoTakenNotification</string>
+				<key>notificationObject</key>
+				<string></string>
+				<key>sprite</key>
+				<string>Icon_Quest_Camera.png</string>
+				<key>text</key>
+				<string>Take 3 pictures with camera</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>200</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Camera.png</string>
+		<key>tip</key>
+		<string>Buy the camera in the store under Functional Items.</string>
+		<key>title</key>
+		<string>Farm Photography 4</string>
+	</dict>
+	<key>2000</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>ignoreCheckQuest</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Loco Locust Level 5!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>2000</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>5</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Loco Locust Level 5 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Bandido Zombie</string>
+		<key>rewardItemKey</key>
+		<string>ZombieActorRegularData</string>
+		<key>rewardType</key>
+		<integer>5</integer>
+		<key>sprite</key>
+		<string>questicon_locolocust.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Bandido Zombie</string>
+	</dict>
+	<key>2001</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Loco Locust Level 10!</string>
+		<key>prerequisiteQuest</key>
+		<integer>2000</integer>
+		<key>questID</key>
+		<integer>2001</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>10</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Loco Locust Level 10 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Invasion Voucher</string>
+		<key>rewardItemKey</key>
+		<string>Invasion Voucher</string>
+		<key>rewardType</key>
+		<integer>3</integer>
+		<key>sprite</key>
+		<string>questicon_locolocust.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Defeat Loco Locust Level 10</string>
+	</dict>
+	<key>2002</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Loco Locust Level 15!</string>
+		<key>prerequisiteQuest</key>
+		<integer>2001</integer>
+		<key>questID</key>
+		<integer>2002</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>15</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Loco Locust Level 15 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>2</integer>
+		<key>rewardValue</key>
+		<integer>1</integer>
+		<key>sprite</key>
+		<string>questicon_locolocust.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Defeat Loco Locust Level 15</string>
+	</dict>
+	<key>2003</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Loco Locust Level 20!</string>
+		<key>prerequisiteQuest</key>
+		<integer>2002</integer>
+		<key>questID</key>
+		<integer>2003</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>20</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Loco Locust Level 20 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Golden Dice</string>
+		<key>rewardItemKey</key>
+		<string>Golden Dice</string>
+		<key>rewardType</key>
+		<integer>3</integer>
+		<key>sprite</key>
+		<string>questicon_locolocust.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Defeat Loco Locust Level 20</string>
+	</dict>
+	<key>2004</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Loco Locust Level 25!</string>
+		<key>prerequisiteQuest</key>
+		<integer>2003</integer>
+		<key>questID</key>
+		<integer>2004</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>25</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Loco Locust Level 25 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>2</integer>
+		<key>rewardValue</key>
+		<integer>2</integer>
+		<key>sprite</key>
+		<string>questicon_locolocust.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Defeat Loco Locust Level 25</string>
+	</dict>
+	<key>2005</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Loco Locust Level 30!</string>
+		<key>prerequisiteQuest</key>
+		<integer>2004</integer>
+		<key>questID</key>
+		<integer>2005</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>30</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Loco Locust Level 30 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Golden Dice</string>
+		<key>rewardItemKey</key>
+		<string>Golden Dice</string>
+		<key>rewardType</key>
+		<integer>3</integer>
+		<key>sprite</key>
+		<string>questicon_locolocust.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Defeat Loco Locust Level 30</string>
+	</dict>
+	<key>2006</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Loco Locust Level 35!</string>
+		<key>prerequisiteQuest</key>
+		<integer>2005</integer>
+		<key>questID</key>
+		<integer>2006</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>35</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Loco Locust Level 35 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>2</integer>
+		<key>rewardValue</key>
+		<integer>5</integer>
+		<key>sprite</key>
+		<string>questicon_locolocust.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Defeat Loco Locust Level 35</string>
+	</dict>
+	<key>2010</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>ignoreCheckQuest</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You pilfered Loco Locust into poverty!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>2010</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Loco Locust&apos;s Cactus Target</string>
+				<key>sprite</key>
+				<string>questicon_locolocust.png</string>
+				<key>text</key>
+				<string>Loco Locust&apos;s Cactus Target</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Loco Locust&apos;s Saddle</string>
+				<key>sprite</key>
+				<string>questicon_locolocust.png</string>
+				<key>text</key>
+				<string>Loco Locust&apos;s Saddle</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Loco Locust&apos;s Rocking Horse</string>
+				<key>sprite</key>
+				<string>questicon_locolocust.png</string>
+				<key>text</key>
+				<string>Loco Locust&apos;s Rocking Horse</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Loco Locust&apos;s Boots</string>
+				<key>sprite</key>
+				<string>questicon_locolocust.png</string>
+				<key>text</key>
+				<string>Loco Locust&apos;s Boots</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Loco Locust&apos;s Banjo</string>
+				<key>sprite</key>
+				<string>questicon_locolocust.png</string>
+				<key>text</key>
+				<string>Loco Locust&apos;s Banjo</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Loco Locust&apos;s Saloon</string>
+				<key>sprite</key>
+				<string>questicon_locolocust.png</string>
+				<key>text</key>
+				<string>Loco Locust&apos;s Saloon</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Loco Locust&apos;s Gun Rack</string>
+				<key>sprite</key>
+				<string>questicon_locolocust.png</string>
+				<key>text</key>
+				<string>Loco Locust&apos;s Gun Rack</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Loco Locust&apos;s Hideout</string>
+				<key>sprite</key>
+				<string>questicon_locolocust.png</string>
+				<key>text</key>
+				<string>Loco Locust&apos;s Hideout</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>2</integer>
+		<key>rewardValue</key>
+		<integer>5</integer>
+		<key>sprite</key>
+		<string>questicon_locolocust.png</string>
+		<key>tip</key>
+		<string>Defeat Loco Locust to collect these items</string>
+		<key>title</key>
+		<string>Loco Locust&apos;s Evil Items</string>
+	</dict>
+	<key>2011</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>ignoreCheckQuest</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Loco Locust Level 40!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>2011</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>40</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Loco Locust Level 40 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Vagabond Zombie</string>
+		<key>rewardItemKey</key>
+		<string>ZombieActorRegularData</string>
+		<key>rewardType</key>
+		<integer>5</integer>
+		<key>sprite</key>
+		<string>questicon_locolocust.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Vagabond Zombie</string>
+	</dict>
+	<key>21</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>25</integer>
+		<key>messageComplete</key>
+		<string>You completed Cook Up Some Zombies!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>21</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kCombinerHarvestedNotification</string>
+				<key>notificationObject</key>
+				<string>Robo Zombie</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Combining.png</string>
+				<key>text</key>
+				<string>Combine for a Robo Zombie</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kCombinerHarvestedNotification</string>
+				<key>notificationObject</key>
+				<string>Zombielocks</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Combining.png</string>
+				<key>text</key>
+				<string>Combine for a Zombielocks</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kCombinerHarvestedNotification</string>
+				<key>notificationObject</key>
+				<string>Imp Zombie</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Combining.png</string>
+				<key>text</key>
+				<string>Combine for an Imp Zombie</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>200</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Combining.png</string>
+		<key>tip</key>
+		<string>Experiment with the Zombie Pot to get these.</string>
+		<key>title</key>
+		<string>Cook Up Some Zombies</string>
+	</dict>
+	<key>22</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You completed Cook Up Some More Zombies!</string>
+		<key>prerequisiteQuest</key>
+		<integer>21</integer>
+		<key>questID</key>
+		<integer>22</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kCombinerHarvestedNotification</string>
+				<key>notificationObject</key>
+				<string>Party Zombie</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Combining.png</string>
+				<key>text</key>
+				<string>Combine for a Party Zombie</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kCombinerHarvestedNotification</string>
+				<key>notificationObject</key>
+				<string>Zombarian</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Combining.png</string>
+				<key>text</key>
+				<string>Combine for a Zombarian</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kCombinerHarvestedNotification</string>
+				<key>notificationObject</key>
+				<string>Zombee</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Combining.png</string>
+				<key>text</key>
+				<string>Combine for a Zombee</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>200</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Combining.png</string>
+		<key>tip</key>
+		<string>Experiment with the Zombie Pot to get these.</string>
+		<key>title</key>
+		<string>Cook Up Some More Zombies</string>
+	</dict>
+	<key>23</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>13</integer>
+		<key>messageComplete</key>
+		<string>You completed Plow Now Brown Cow!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>23</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>100</integer>
+				<key>notificationID</key>
+				<string>kSoilPlowedNotification</string>
+				<key>notificationObject</key>
+				<string></string>
+				<key>sprite</key>
+				<string>stex0036.png</string>
+				<key>text</key>
+				<string>Plow 100 patches of soil</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>50</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Plowing.png</string>
+		<key>tip</key>
+		<string>Why settle for 50 when you can have 85?</string>
+		<key>title</key>
+		<string>Plow Now Brown Cow</string>
+	</dict>
+	<key>24</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>17</integer>
+		<key>messageComplete</key>
+		<string>You completed It&apos;s Plow Or Never!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>24</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>150</integer>
+				<key>notificationID</key>
+				<string>kSoilPlowedNotification</string>
+				<key>notificationObject</key>
+				<string></string>
+				<key>sprite</key>
+				<string>stex0036.png</string>
+				<key>text</key>
+				<string>Plow 150 patches of soil</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>100</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Plowing.png</string>
+		<key>tip</key>
+		<string>Plots! Plots as far as the eye can see!</string>
+		<key>title</key>
+		<string>It&apos;s Plow Or Never</string>
+	</dict>
+	<key>25</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>22</integer>
+		<key>messageComplete</key>
+		<string>You completed Plow It Good!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>25</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>200</integer>
+				<key>notificationID</key>
+				<string>kSoilPlowedNotification</string>
+				<key>notificationObject</key>
+				<string></string>
+				<key>sprite</key>
+				<string>stex0036.png</string>
+				<key>text</key>
+				<string>Plow 200 patches of soil</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>100</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Plowing.png</string>
+		<key>tip</key>
+		<string>You can never have too many plots. Or maybe you can.</string>
+		<key>title</key>
+		<string>Plow It Good</string>
+	</dict>
+	<key>26</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>27</integer>
+		<key>messageComplete</key>
+		<string>You completed Live Laugh Plow!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>26</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>250</integer>
+				<key>notificationID</key>
+				<string>kSoilPlowedNotification</string>
+				<key>notificationObject</key>
+				<string></string>
+				<key>sprite</key>
+				<string>stex0036.png</string>
+				<key>text</key>
+				<string>Plow 250 patches of soil</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>250</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Plowing.png</string>
+		<key>tip</key>
+		<string>Now this is getting a bit silly.</string>
+		<key>title</key>
+		<string>Live Laugh Plow</string>
+	</dict>
+	<key>27</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>23</integer>
+		<key>messageComplete</key>
+		<string>You completed CandyLand!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>27</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>2</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Giant Lollipop</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Decorating.png</string>
+				<key>text</key>
+				<string>Buy 2 Giant Lollipops</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>2</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Cotton Candy Tree</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Decorating.png</string>
+				<key>text</key>
+				<string>Buy 2 Cotton Candy Trees</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>2</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Balloon</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Decorating.png</string>
+				<key>text</key>
+				<string>Buy 2 Red Balloons</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>200</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Decorating.png</string>
+		<key>tip</key>
+		<string>Not for human (or zombie) consumption.</string>
+		<key>title</key>
+		<string>Candyland</string>
+	</dict>
+	<key>28</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>13</integer>
+		<key>messageComplete</key>
+		<string>You completed Flower Power!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>28</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>2</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Red Flower Bed</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Decorating.png</string>
+				<key>text</key>
+				<string>Buy 2 Red Flower Beds</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>2</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Violet Flower Bed</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Decorating.png</string>
+				<key>text</key>
+				<string>Buy 2 Violet Flower Beds</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>2</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Yellow Flower Bed</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Decorating.png</string>
+				<key>text</key>
+				<string>Buy 2 Yellow Flower Beds</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>50</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Decorating.png</string>
+		<key>tip</key>
+		<string>Zombies love to stop and smell the roses.</string>
+		<key>title</key>
+		<string>Flower Power</string>
+	</dict>
+	<key>29</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>18</integer>
+		<key>messageComplete</key>
+		<string>You completed Man or Machine!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>29</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>8</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedZombieNotification</string>
+				<key>notificationObject</key>
+				<string>Zombot</string>
+				<key>sprite</key>
+				<string>stex0000.png</string>
+				<key>text</key>
+				<string>Harvest 8 Zombots</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>100</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_HarvestZombies.png</string>
+		<key>tip</key>
+		<string>Part robot. Part zombie. Not even a little bit cop.</string>
+		<key>title</key>
+		<string>Man or Machine</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You completed A Zombieful Harvest!</string>
+		<key>prerequisiteQuest</key>
+		<integer>1</integer>
+		<key>questID</key>
+		<integer>3</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>8</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedZombieNotification</string>
+				<key>notificationObject</key>
+				<string></string>
+				<key>sprite</key>
+				<string>stex0000.png</string>
+				<key>text</key>
+				<string>Harvest 8 Zombies</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>20</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_HarvestZombies.png</string>
+		<key>tip</key>
+		<string>This is an excellent start to your army.</string>
+		<key>title</key>
+		<string>A Zombieful Harvest</string>
+	</dict>
+	<key>3000</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>ignoreCheckQuest</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You completed all of Bully Frog&apos;s Prize Cards!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>3000</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>5</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 1</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>10</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 2</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>15</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 3</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>20</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 4</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Bully Frog Banner</string>
+		<key>rewardItemKey</key>
+		<string>Bully Frog Banner</string>
+		<key>rewardType</key>
+		<integer>5</integer>
+		<key>sprite</key>
+		<string>questicon_bullyfrog.png</string>
+		<key>tip</key>
+		<string>Keep defeating Bully Frog to collect stamps.</string>
+		<key>title</key>
+		<string>Collect Em All</string>
+	</dict>
+	<key>30</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>20</integer>
+		<key>messageComplete</key>
+		<string>You completed Dead Flowers!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>30</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>3</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedZombieNotification</string>
+				<key>notificationObject</key>
+				<string>Flower Zombie</string>
+				<key>sprite</key>
+				<string>stex0000.png</string>
+				<key>text</key>
+				<string>Harvest 3 Flower Zombies</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>100</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_HarvestZombies.png</string>
+		<key>tip</key>
+		<string>This fertilizes better than the Garden Zombie.</string>
+		<key>title</key>
+		<string>Dead Flowers</string>
+	</dict>
+	<key>31</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>24</integer>
+		<key>messageComplete</key>
+		<string>You completed Corpse Party!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>31</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>20</integer>
+				<key>notificationID</key>
+				<string>kCropPlantedNotification</string>
+				<key>notificationObject</key>
+				<string>Corpse Flower</string>
+				<key>sprite</key>
+				<string>stex0029.png</string>
+				<key>text</key>
+				<string>Plant 20 Corpse Flowers</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>20</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedNotification</string>
+				<key>notificationObject</key>
+				<string>Corpse Flower</string>
+				<key>sprite</key>
+				<string>stex0029.png</string>
+				<key>text</key>
+				<string>Harvest 20 Corpse Flowers</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>200</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_HarvestVegetables.png</string>
+		<key>tip</key>
+		<string>This is much more cheerful than you might think.</string>
+		<key>title</key>
+		<string>Corpse Party</string>
+	</dict>
+	<key>32</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>19</integer>
+		<key>messageComplete</key>
+		<string>You completed Broccoflower!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>32</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>10</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedNotification</string>
+				<key>notificationObject</key>
+				<string>Broccoli</string>
+				<key>sprite</key>
+				<string>stex0029.png</string>
+				<key>text</key>
+				<string>Harvest 10 Broccoli</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>10</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedNotification</string>
+				<key>notificationObject</key>
+				<string>Cauliflower</string>
+				<key>sprite</key>
+				<string>stex0029.png</string>
+				<key>text</key>
+				<string>Harvest 10 Cauliflower</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>100</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_HarvestVegetables.png</string>
+		<key>tip</key>
+		<string>The favored food for vegetarian zombies.</string>
+		<key>title</key>
+		<string>Broccoflower</string>
+	</dict>
+	<key>33</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>14</integer>
+		<key>messageComplete</key>
+		<string>You completed A Fruit and a Spine!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>33</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>10</integer>
+				<key>notificationID</key>
+				<string>kCropPlantedNotification</string>
+				<key>notificationObject</key>
+				<string>Spineapple</string>
+				<key>sprite</key>
+				<string>stex0029.png</string>
+				<key>text</key>
+				<string>Plant 10 Spineapples</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>10</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedNotification</string>
+				<key>notificationObject</key>
+				<string>Spineapple</string>
+				<key>sprite</key>
+				<string>stex0029.png</string>
+				<key>text</key>
+				<string>Harvest 10 Spineapples</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>75</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_HarvestVegetables.png</string>
+		<key>tip</key>
+		<string>This fast crop only takes 15 minutes to grow!</string>
+		<key>title</key>
+		<string>A Fruit and a Spine</string>
+	</dict>
+	<key>34</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>34</integer>
+		<key>messageComplete</key>
+		<string>You completed Chocoholic!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>34</integer>
+		<key>removeQuest</key>
+		<true/>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>6</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Chocolate Tile</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Valentines.png</string>
+				<key>text</key>
+				<string>Buy 6 chocolate tiles</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>75</integer>
+		<key>seasonal</key>
+		<true/>
+		<key>sprite</key>
+		<string>Icon_Quest_Valentines.png</string>
+		<key>tip</key>
+		<string>Create the most delicious of roads.</string>
+		<key>title</key>
+		<string>Chocoholic</string>
+	</dict>
+	<key>35</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You completed Have a Heart!</string>
+		<key>prerequisiteQuest</key>
+		<integer>34</integer>
+		<key>questID</key>
+		<integer>35</integer>
+		<key>removeQuest</key>
+		<true/>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Heart Gravestone</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Valentines.png</string>
+				<key>text</key>
+				<string>Buy 1 Heart Gravestone</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Heart Hedge</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Valentines.png</string>
+				<key>text</key>
+				<string>Buy 1 Heart Hedge</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Heart Candle</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Valentines.png</string>
+				<key>text</key>
+				<string>Buy 1 Heart Candle</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>75</integer>
+		<key>seasonal</key>
+		<true/>
+		<key>sprite</key>
+		<string>Icon_Quest_Valentines.png</string>
+		<key>tip</key>
+		<string>Love is in the air and on your farm.</string>
+		<key>title</key>
+		<string>Have a Heart</string>
+	</dict>
+	<key>36</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You completed Statuesque!</string>
+		<key>prerequisiteQuest</key>
+		<integer>35</integer>
+		<key>questID</key>
+		<integer>36</integer>
+		<key>removeQuest</key>
+		<true/>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Cupid Statue A</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Valentines.png</string>
+				<key>text</key>
+				<string>Buy 1 Cupid Statue A</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Cupid Statue B</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Valentines.png</string>
+				<key>text</key>
+				<string>Buy 1 Cupid Statue B</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Valentine Gift</string>
+		<key>rewardType</key>
+		<integer>3</integer>
+		<key>seasonal</key>
+		<true/>
+		<key>sprite</key>
+		<string>Icon_Quest_Valentines.png</string>
+		<key>tip</key>
+		<string>Nothing says love more than creepy zombie cupids.</string>
+		<key>title</key>
+		<string>Statuesque</string>
+	</dict>
+	<key>37</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>31</integer>
+		<key>messageComplete</key>
+		<string>You beat the Robots 3 times!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>37</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>3</integer>
+				<key>notificationID</key>
+				<string>kInvasionSuccessfulNotification</string>
+				<key>notificationObject</key>
+				<string>Zombies vs Robots</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Robots.png</string>
+				<key>text</key>
+				<string>Beat the Robots 3x</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>600</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Robots.png</string>
+		<key>tip</key>
+		<string>Having trouble? Buy a Zombie Monolith to get more reinforcements.</string>
+		<key>title</key>
+		<string>Raiding the Robots</string>
+	</dict>
+	<key>38</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You beat the Easter Badger 3 times!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>38</integer>
+		<key>removeQuest</key>
+		<true/>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>3</integer>
+				<key>notificationID</key>
+				<string>kInvasionSuccessfulNotification</string>
+				<key>notificationObject</key>
+				<string>Seasonal: Easter</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Easter.png</string>
+				<key>text</key>
+				<string>Beat the Easter Badger</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Golden Dice</string>
+		<key>rewardType</key>
+		<integer>3</integer>
+		<key>seasonal</key>
+		<true/>
+		<key>seasonalDate</key>
+		<string>5/7/2011</string>
+		<key>sprite</key>
+		<string>Icon_Quest_Easter.png</string>
+		<key>tip</key>
+		<string>Balloons are surprisingly dangerous.</string>
+		<key>title</key>
+		<string>Badger Badger Badger</string>
+	</dict>
+	<key>39</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You completed Egg Hunting</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>39</integer>
+		<key>removeQuest</key>
+		<true/>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>3</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Blue Easter Egg</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Easter.png</string>
+				<key>text</key>
+				<string>Buy 3 Blue Easter Egg</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>3</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Pink Easter Egg</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Easter.png</string>
+				<key>text</key>
+				<string>Buy 3 Pink Easter Egg</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>3</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Egg</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Easter.png</string>
+				<key>text</key>
+				<string>Buy 3 Eggs</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Golden Dice</string>
+		<key>rewardType</key>
+		<integer>3</integer>
+		<key>seasonal</key>
+		<true/>
+		<key>seasonalDate</key>
+		<string>5/7/2011</string>
+		<key>sprite</key>
+		<string>Icon_Quest_Easter.png</string>
+		<key>tip</key>
+		<string>You don&apos;t want to know where the Easter Badger got these.</string>
+		<key>title</key>
+		<string>Egg Hunting</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You completed Corpse Variety!</string>
+		<key>prerequisiteQuest</key>
+		<integer>3</integer>
+		<key>questID</key>
+		<integer>4</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>3</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedZombieNotification</string>
+				<key>notificationObject</key>
+				<string>Mini Zombie</string>
+				<key>sprite</key>
+				<string>stex0000.png</string>
+				<key>text</key>
+				<string>Harvest 3 Mini Zombies</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>2</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedZombieNotification</string>
+				<key>notificationObject</key>
+				<string>Zombie</string>
+				<key>sprite</key>
+				<string>stex0000.png</string>
+				<key>text</key>
+				<string>Harvest 2 Regular Zombies</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>2</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedZombieNotification</string>
+				<key>notificationObject</key>
+				<string>Girl Zombie</string>
+				<key>sprite</key>
+				<string>stex0000.png</string>
+				<key>text</key>
+				<string>Harvest 2 Girl Zombies</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>30</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_HarvestZombies.png</string>
+		<key>tip</key>
+		<string>Need more room for zombies? Buy a mausoleum!</string>
+		<key>title</key>
+		<string>Corpse Variety</string>
+	</dict>
+	<key>40</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You popped 99 red balloons!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>40</integer>
+		<key>removeQuest</key>
+		<true/>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>99</integer>
+				<key>notificationID</key>
+				<string>kStageActorDefeated</string>
+				<key>notificationObject</key>
+				<string>Red Balloon</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Easter.png</string>
+				<key>text</key>
+				<string>Pop the Badger&apos;s balloons</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>White Bunny</string>
+		<key>rewardType</key>
+		<integer>3</integer>
+		<key>seasonal</key>
+		<true/>
+		<key>seasonalDate</key>
+		<string>5/7/2011</string>
+		<key>sprite</key>
+		<string>Icon_Quest_Easter.png</string>
+		<key>tip</key>
+		<string>Persistence pays off.</string>
+		<key>title</key>
+		<string>99 Red Balloons</string>
+	</dict>
+	<key>4000</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>ignoreCheckQuest</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Foul Owl Level 5!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>4000</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>5</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Foul Owl Level 5 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Christmas Ghost Zombie</string>
+		<key>rewardItemKey</key>
+		<string>ZombieActorRegularData</string>
+		<key>rewardType</key>
+		<integer>5</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_FoulOwl.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Christmas Ghost Zombie</string>
+	</dict>
+	<key>4001</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Foul Owl Level 10!</string>
+		<key>prerequisiteQuest</key>
+		<integer>4000</integer>
+		<key>questID</key>
+		<integer>4001</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>10</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Foul Owl Level 10 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Invasion Voucher</string>
+		<key>rewardItemKey</key>
+		<string>Invasion Voucher</string>
+		<key>rewardType</key>
+		<integer>3</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_FoulOwl.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Defeat Foul Owl Level 10</string>
+	</dict>
+	<key>4002</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Foul Owl Level 15!</string>
+		<key>prerequisiteQuest</key>
+		<integer>4001</integer>
+		<key>questID</key>
+		<integer>4002</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>15</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Foul Owl Level 15 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>2</integer>
+		<key>rewardValue</key>
+		<integer>1</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_FoulOwl.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Defeat Foul Owl Level 15</string>
+	</dict>
+	<key>4003</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Foul Owl Level 20!</string>
+		<key>prerequisiteQuest</key>
+		<integer>4002</integer>
+		<key>questID</key>
+		<integer>4003</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>20</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Foul Owl Level 20 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Golden Dice</string>
+		<key>rewardItemKey</key>
+		<string>Golden Dice</string>
+		<key>rewardType</key>
+		<integer>3</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_FoulOwl.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Defeat Foul Owl Level 20</string>
+	</dict>
+	<key>4004</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Foul Owl Level 25!</string>
+		<key>prerequisiteQuest</key>
+		<integer>4003</integer>
+		<key>questID</key>
+		<integer>4004</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>25</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Foul Owl Level 25 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>2</integer>
+		<key>rewardValue</key>
+		<integer>2</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_FoulOwl.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Defeat Foul Owl Level 25</string>
+	</dict>
+	<key>4005</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Foul Owl Level 30!</string>
+		<key>prerequisiteQuest</key>
+		<integer>4004</integer>
+		<key>questID</key>
+		<integer>4005</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>30</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Foul Owl Level 30 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Golden Dice</string>
+		<key>rewardItemKey</key>
+		<string>Golden Dice</string>
+		<key>rewardType</key>
+		<integer>3</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_FoulOwl.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Defeat Fould Owl Level 30</string>
+	</dict>
+	<key>4006</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Foul Owl Level 35!</string>
+		<key>prerequisiteQuest</key>
+		<integer>4005</integer>
+		<key>questID</key>
+		<integer>4006</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>35</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Foul Owl Level 35 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>2</integer>
+		<key>rewardValue</key>
+		<integer>5</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_FoulOwl.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Defeat Foul Owl Level 35</string>
+	</dict>
+	<key>4010</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>ignoreCheckQuest</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You pilfered Foul Owl into poverty!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>4010</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Foul Owl&apos;s Gift Incinerator</string>
+				<key>sprite</key>
+				<string>Icon_Quest_FoulOwl.png</string>
+				<key>text</key>
+				<string>Foul Owl&apos;s Gift Incinerator</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Foul Owl&apos;s Evil Carriage</string>
+				<key>sprite</key>
+				<string>Icon_Quest_FoulOwl.png</string>
+				<key>text</key>
+				<string>Foul Owl&apos;s Evil Carriage</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Farmhand Snowman</string>
+				<key>sprite</key>
+				<string>Icon_Quest_FoulOwl.png</string>
+				<key>text</key>
+				<string>Farmhand Snowman</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Lumberjack Snowman</string>
+				<key>sprite</key>
+				<string>Icon_Quest_FoulOwl.png</string>
+				<key>text</key>
+				<string>Lumberjack Snowman</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Boss Farmer Snowman</string>
+				<key>sprite</key>
+				<string>Icon_Quest_FoulOwl.png</string>
+				<key>text</key>
+				<string>Boss Farmer Snowman</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Zombie Snowman</string>
+				<key>sprite</key>
+				<string>Icon_Quest_FoulOwl.png</string>
+				<key>text</key>
+				<string>Zombie Snowman</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Foul Owl&apos;s Gift Vault</string>
+				<key>sprite</key>
+				<string>Icon_Quest_FoulOwl.png</string>
+				<key>text</key>
+				<string>Foul Owl&apos;s Gift Vault</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicBossEpicItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Foul Owl&apos;s Colossal Snowman</string>
+				<key>sprite</key>
+				<string>Icon_Quest_FoulOwl.png</string>
+				<key>text</key>
+				<string>Foul Owl&apos;s Colossal Snowman</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>2</integer>
+		<key>rewardValue</key>
+		<integer>5</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_FoulOwl.png</string>
+		<key>tip</key>
+		<string>Defeat Foul Owl to collect these items</string>
+		<key>title</key>
+		<string>Foul Owl&apos;s Evil Items</string>
+	</dict>
+	<key>4011</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>ignoreCheckQuest</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You defeated Foul Owl Level 40!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>4011</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>40</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Foul Owl Level 40 Defeated</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Scrooge Zombie</string>
+		<key>rewardItemKey</key>
+		<string>ZombieActorRegularData</string>
+		<key>rewardType</key>
+		<integer>5</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_FoulOwl.png</string>
+		<key>tip</key>
+		<string>Harvest crops to reveal the Enemy.</string>
+		<key>title</key>
+		<string>Scrooge Zombie</string>
+	</dict>
+	<key>5000</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>ignoreCheckQuest</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You completed all of Skunkarella&apos;s Prize Cards!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>5000</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>5</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 1</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>10</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 2</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>15</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 3</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>20</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 4</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Diva Zombie</string>
+		<key>rewardItemKey</key>
+		<string>ZombieActorGirlData</string>
+		<key>rewardType</key>
+		<integer>5</integer>
+		<key>sprite</key>
+		<string>questIcon_EP_Boss7.png</string>
+		<key>tip</key>
+		<string>Keep defeating Skunkarella to collect stamps.</string>
+		<key>title</key>
+		<string>Collect Em All</string>
+	</dict>
+	<key>6000</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>ignoreCheckQuest</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You completed all of Rocky Rhino&apos;s Prize Cards!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>6000</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>5</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 1</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>10</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 2</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>15</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 3</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>20</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 4</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Rocky Rhino&apos;s Banner</string>
+		<key>rewardItemKey</key>
+		<string>Rocky Rhino&apos;s Banner</string>
+		<key>rewardType</key>
+		<integer>5</integer>
+		<key>sprite</key>
+		<string>epb8_quest_icon.png</string>
+		<key>tip</key>
+		<string>Keep defeating Rocky Rhino to collect stamps.</string>
+		<key>title</key>
+		<string>Collect Em All</string>
+	</dict>
+	<key>6001</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>ignoreCheckQuest</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You completed Rocky Rhino&apos;s 2nd Stamp Card!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>6001</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>10</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 2</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Ninjombie</string>
+		<key>rewardItemKey</key>
+		<string>ZombieActorRegularData</string>
+		<key>rewardType</key>
+		<integer>5</integer>
+		<key>sprite</key>
+		<string>epb8_quest_icon.png</string>
+		<key>tip</key>
+		<string>Keep defeating Rocky Rhino to collect stamps.</string>
+		<key>title</key>
+		<string>Ninjombie</string>
+	</dict>
+	<key>6002</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You completed Rocky Rhino&apos;s 3rd Stamp Card!</string>
+		<key>prerequisiteQuest</key>
+		<integer>6001</integer>
+		<key>questID</key>
+		<integer>6002</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>15</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 3</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Master Ninjombie</string>
+		<key>rewardItemKey</key>
+		<string>ZombieActorRegularData</string>
+		<key>rewardType</key>
+		<integer>5</integer>
+		<key>sprite</key>
+		<string>epb8_quest_icon.png</string>
+		<key>tip</key>
+		<string>Keep defeating Rocky Rhino to collect stamps.</string>
+		<key>title</key>
+		<string>Master Ninjombie</string>
+	</dict>
+	<key>7000</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>ignoreCheckQuest</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You completed all of General Larvaelus&apos; Prize Cards!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>7000</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>5</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 1</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>10</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 2</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>15</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 3</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>20</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 4</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>General Larvaelus&apos; Banner</string>
+		<key>rewardItemKey</key>
+		<string>General Larvaelus&apos; Banner</string>
+		<key>rewardType</key>
+		<integer>5</integer>
+		<key>sprite</key>
+		<string>EpicBoss9_QUEST_ICON.png</string>
+		<key>tip</key>
+		<string>Keep defeating General Larvaelus to collect stamps.</string>
+		<key>title</key>
+		<string>Collect Em All</string>
+	</dict>
+	<key>8000</key>
+	<dict>
+		<key>epicEvent</key>
+		<true/>
+		<key>ignoreCheckQuest</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You completed all of Mystical Mamba&apos;s Prize Cards!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>8000</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>5</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 1</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>10</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 2</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>15</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 3</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kEpicStageEnemyDefeatedNotification</string>
+				<key>notificationObject</key>
+				<string>20</string>
+				<key>sprite</key>
+				<string>stex1003.png</string>
+				<key>text</key>
+				<string>Complete Card 4</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Mystical Mamba Banner</string>
+		<key>rewardItemKey</key>
+		<string>Mystical Mamba Banner</string>
+		<key>rewardType</key>
+		<integer>5</integer>
+		<key>sprite</key>
+		<string>EPB_10_Quest_Icon.png</string>
+		<key>tip</key>
+		<string>Keep defeating Mystical Mamba to collect stamps.</string>
+		<key>title</key>
+		<string>Collect Em All</string>
+	</dict>
+	<key>41</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>36</integer>
+		<key>messageComplete</key>
+		<string>You beat the Aliens 3 times!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>41</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>3</integer>
+				<key>notificationID</key>
+				<string>kInvasionSuccessfulNotification</string>
+				<key>notificationObject</key>
+				<string>Zombies vs Aliens</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Invasion.png</string>
+				<key>text</key>
+				<string>Beat the Aliens 3x</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>700</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Invasion.png</string>
+		<key>tip</key>
+		<string>There sure are a lot of them.</string>
+		<key>title</key>
+		<string>Ambushing the Aliens</string>
+	</dict>
+	<key>42</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>8</integer>
+		<key>messageComplete</key>
+		<string>You beat the Dairy King 3 times!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>42</integer>
+		<key>removeQuest</key>
+		<true/>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>3</integer>
+				<key>notificationID</key>
+				<string>kInvasionSuccessfulNotification</string>
+				<key>notificationObject</key>
+				<string>Seasonal : Brain Freeze</string>
+				<key>sprite</key>
+				<string>quest_icon_brainfreeze.png</string>
+				<key>text</key>
+				<string>Beat the Dairy King 3x</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Golden Dice</string>
+		<key>rewardType</key>
+		<integer>3</integer>
+		<key>seasonal</key>
+		<true/>
+		<key>seasonalDate</key>
+		<string>6/30/2011</string>
+		<key>sprite</key>
+		<string>quest_icon_brainfreeze.png</string>
+		<key>tip</key>
+		<string>Watch out for the blizzard!</string>
+		<key>title</key>
+		<string>Lactose Intolerance</string>
+	</dict>
+	<key>43</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>8</integer>
+		<key>messageComplete</key>
+		<string>You collected all 3 ice cream cones!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>43</integer>
+		<key>removeQuest</key>
+		<true/>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kLootItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Vanilla Cone</string>
+				<key>sprite</key>
+				<string>quest_icon_brainfreeze.png</string>
+				<key>text</key>
+				<string>Win a vanilla cone</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kLootItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Chocolate Cone</string>
+				<key>sprite</key>
+				<string>quest_icon_brainfreeze.png</string>
+				<key>text</key>
+				<string>Win a chocolate cone</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kLootItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Strawberry Cone</string>
+				<key>sprite</key>
+				<string>quest_icon_brainfreeze.png</string>
+				<key>text</key>
+				<string>Win a strawberry cone</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>200</integer>
+		<key>seasonal</key>
+		<true/>
+		<key>seasonalDate</key>
+		<string>6/30/2011</string>
+		<key>sprite</key>
+		<string>quest_icon_brainfreeze.png</string>
+		<key>tip</key>
+		<string>Invade the Dairy King to win these!</string>
+		<key>title</key>
+		<string>Brain Freeze</string>
+	</dict>
+	<key>44</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>8</integer>
+		<key>messageComplete</key>
+		<string>You completed Survivin&apos; the Blizzard!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>44</integer>
+		<key>removeQuest</key>
+		<true/>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kInvasionPerfectGameNotification</string>
+				<key>notificationObject</key>
+				<string>Seasonal : Brain Freeze</string>
+				<key>sprite</key>
+				<string>quest_icon_brainfreeze.png</string>
+				<key>text</key>
+				<string>Beat the Dairy King unscathed</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>200</integer>
+		<key>seasonal</key>
+		<true/>
+		<key>seasonalDate</key>
+		<string>6/30/2011</string>
+		<key>sprite</key>
+		<string>quest_icon_brainfreeze.png</string>
+		<key>tip</key>
+		<string>Don&apos;t lose a single zombie in the fight.</string>
+		<key>title</key>
+		<string>Survivin&apos; the Blizzard</string>
+	</dict>
+	<key>45</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>12</integer>
+		<key>messageComplete</key>
+		<string>You beat the Ringmaster 3 times!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>45</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>3</integer>
+				<key>notificationID</key>
+				<string>kInvasionSuccessfulNotification</string>
+				<key>notificationObject</key>
+				<string>Zombies vs Circus</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Circus.png</string>
+				<key>text</key>
+				<string>Beat the Ringmaster 3x</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Circus Popcorn</string>
+		<key>rewardType</key>
+		<integer>3</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Circus.png</string>
+		<key>tip</key>
+		<string>Watch out for the trapeze!</string>
+		<key>title</key>
+		<string>Big Top Bash</string>
+	</dict>
+	<key>46</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>12</integer>
+		<key>messageComplete</key>
+		<string>You collected all 3 circus flags!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>46</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kLootItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Circus Flag: Blue</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Circus.png</string>
+				<key>text</key>
+				<string>Win a blue circus flag</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kLootItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Circus Flag: Green</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Circus.png</string>
+				<key>text</key>
+				<string>Win a green circus flag</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kLootItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Circus Flag: Yellow</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Circus.png</string>
+				<key>text</key>
+				<string>Win a yellow circus flag</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>200</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Circus.png</string>
+		<key>tip</key>
+		<string>Invade the Ringmaster to win these!</string>
+		<key>title</key>
+		<string>Capture the Flag</string>
+	</dict>
+	<key>47</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>12</integer>
+		<key>messageComplete</key>
+		<string>You completed Ringmastered!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>47</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kInvasionPerfectGameNotification</string>
+				<key>notificationObject</key>
+				<string>Zombies vs Circus</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Circus.png</string>
+				<key>text</key>
+				<string>Defeat the Ringmaster unscathed</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>200</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Circus.png</string>
+		<key>tip</key>
+		<string>Don&apos;t lose a single zombie in the fight.</string>
+		<key>title</key>
+		<string>Ringmastered</string>
+	</dict>
+	<key>48</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>8</integer>
+		<key>messageComplete</key>
+		<string>You beat Count von Uberbiss 3 times!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>48</integer>
+		<key>removeQuest</key>
+		<true/>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>3</integer>
+				<key>notificationID</key>
+				<string>kInvasionSuccessfulNotification</string>
+				<key>notificationObject</key>
+				<string>Seasonal : Halloween</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Halloween.png</string>
+				<key>text</key>
+				<string>Beat the Count 3x</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Spooky Tree</string>
+		<key>rewardType</key>
+		<integer>3</integer>
+		<key>seasonal</key>
+		<true/>
+		<key>sprite</key>
+		<string>Icon_Quest_Halloween.png</string>
+		<key>tip</key>
+		<string>Break down the pumpkin!</string>
+		<key>title</key>
+		<string>Down for the Count</string>
+	</dict>
+	<key>49</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>8</integer>
+		<key>messageComplete</key>
+		<string>You collected all 3 coffins!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>49</integer>
+		<key>removeQuest</key>
+		<true/>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kLootItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Coffin 1</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Halloween.png</string>
+				<key>text</key>
+				<string>Win Coffin 1</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kLootItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Coffin 2</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Halloween.png</string>
+				<key>text</key>
+				<string>Win Coffin 2</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kLootItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Coffin 3</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Halloween.png</string>
+				<key>text</key>
+				<string>Win Coffin 3</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>200</integer>
+		<key>seasonal</key>
+		<true/>
+		<key>sprite</key>
+		<string>Icon_Quest_Halloween.png</string>
+		<key>tip</key>
+		<string>Invade Count von Uberbiss to win these!</string>
+		<key>title</key>
+		<string>Six Feet Under</string>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You completed Ruff n&apos; Tuff!</string>
+		<key>prerequisiteQuest</key>
+		<integer>4</integer>
+		<key>questID</key>
+		<integer>5</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>2</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedZombieNotification</string>
+				<key>notificationObject</key>
+				<string>Headless Zombie</string>
+				<key>sprite</key>
+				<string>stex0000.png</string>
+				<key>text</key>
+				<string>Harvest 2 Headless Zombies</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedZombieNotification</string>
+				<key>notificationObject</key>
+				<string>ZomBumpkin</string>
+				<key>sprite</key>
+				<string>stex0000.png</string>
+				<key>text</key>
+				<string>Harvest 1 Zombumpkin</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>30</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_HarvestZombies.png</string>
+		<key>tip</key>
+		<string>These zombies are great front line fighters.</string>
+		<key>title</key>
+		<string>Ruff n&apos; Tuff</string>
+	</dict>
+	<key>50</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>8</integer>
+		<key>messageComplete</key>
+		<string>You completed Uber Loser!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>50</integer>
+		<key>removeQuest</key>
+		<true/>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kInvasionPerfectGameNotification</string>
+				<key>notificationObject</key>
+				<string>Seasonal : Halloween</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Halloween.png</string>
+				<key>text</key>
+				<string>Defeat the Count unscathed</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>200</integer>
+		<key>seasonal</key>
+		<true/>
+		<key>sprite</key>
+		<string>Icon_Quest_Halloween.png</string>
+		<key>tip</key>
+		<string>Don&apos;t lose a single zombie in the fight.</string>
+		<key>title</key>
+		<string>Uber Loser</string>
+	</dict>
+	<key>51</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>8</integer>
+		<key>messageComplete</key>
+		<string>You beat Goffy!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>51</integer>
+		<key>removeQuest</key>
+		<true/>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kInvasionSuccessfulNotification</string>
+				<key>notificationObject</key>
+				<string>Tree World</string>
+				<key>sprite</key>
+				<string>Icon_Quest_TW.png</string>
+				<key>text</key>
+				<string>Defeat Goffy, the evil fairy</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<string>200</string>
+		<key>seasonal</key>
+		<true/>
+		<key>sprite</key>
+		<string>Icon_Quest_TW.png</string>
+		<key>tip</key>
+		<string>Watch out for her spells!</string>
+		<key>title</key>
+		<string>Breaking the Spell</string>
+	</dict>
+	<key>52</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>8</integer>
+		<key>messageComplete</key>
+		<string>You beat Goffy 5 times!</string>
+		<key>prerequisiteQuest</key>
+		<integer>51</integer>
+		<key>questID</key>
+		<integer>52</integer>
+		<key>removeQuest</key>
+		<true/>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>5</integer>
+				<key>notificationID</key>
+				<string>kInvasionSuccessfulNotification</string>
+				<key>notificationObject</key>
+				<string>Tree World</string>
+				<key>sprite</key>
+				<string>Icon_Quest_TW.png</string>
+				<key>text</key>
+				<string>Defeat Goffy five times</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardItem</key>
+		<string>Poppy</string>
+		<key>rewardType</key>
+		<integer>3</integer>
+		<key>seasonal</key>
+		<true/>
+		<key>sprite</key>
+		<string>Icon_Quest_TW.png</string>
+		<key>tip</key>
+		<string>Watch out for her spells!</string>
+		<key>title</key>
+		<string>Poppy Power</string>
+	</dict>
+	<key>53</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>8</integer>
+		<key>messageComplete</key>
+		<string>You collected all 3 bushes!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>53</integer>
+		<key>removeQuest</key>
+		<true/>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kLootItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Bunnypig Bush</string>
+				<key>sprite</key>
+				<string>Icon_Quest_TW.png</string>
+				<key>text</key>
+				<string>Win Bunnypig Bush</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kLootItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Mosscrab Bush</string>
+				<key>sprite</key>
+				<string>Icon_Quest_TW.png</string>
+				<key>text</key>
+				<string>Win Mosscrab Bush</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kLootItemWonNotification</string>
+				<key>notificationObject</key>
+				<string>Cobrahawk Bush</string>
+				<key>sprite</key>
+				<string>Icon_Quest_TW.png</string>
+				<key>text</key>
+				<string>Win Cobrahawk Bush</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<string>200</string>
+		<key>seasonal</key>
+		<true/>
+		<key>sprite</key>
+		<string>Icon_Quest_TW.png</string>
+		<key>tip</key>
+		<string>Invade Goffy to win these!</string>
+		<key>title</key>
+		<string>Bushwhacked</string>
+	</dict>
+	<key>54</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>Yer very own Zombie!</string>
+		<key>prerequisiteQuest</key>
+		<integer>71</integer>
+		<key>questID</key>
+		<integer>54</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kCropPlantedNotification</string>
+				<key>notificationObject</key>
+				<string>Zombie</string>
+				<key>sprite</key>
+				<string>Icon_Quest_HarvestZombies.png</string>
+				<key>text</key>
+				<string>Plant a regular zombie</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>1</integer>
+		<key>rewardValue</key>
+		<integer>20</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_HarvestZombies.png</string>
+		<key>tip</key>
+		<string>Tap on the plowed land to open the Market.</string>
+		<key>title</key>
+		<string>Hello, Zombie!</string>
+		<key>tutorialQuest</key>
+		<true/>
+	</dict>
+	<key>55</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>3</integer>
+		<key>messageComplete</key>
+		<string>They&apos;re alive! Sort of.</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>55</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedZombieNotification</string>
+				<key>notificationObject</key>
+				<string>Tomato Zombie</string>
+				<key>sprite</key>
+				<string>stex0000.png</string>
+				<key>text</key>
+				<string>Harvest a Tomato Zombie</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedZombieNotification</string>
+				<key>notificationObject</key>
+				<string>Carrot Zombie</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Combining.png</string>
+				<key>text</key>
+				<string>Harvest a Carrot Zombie</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>35</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Combining.png</string>
+		<key>tip</key>
+		<string>You can find these in the Mutants section of Zombies in the store.</string>
+		<key>title</key>
+		<string>Mutation Nation</string>
+	</dict>
+	<key>56</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You&apos;ve completed It&apos;s Alive!</string>
+		<key>prerequisiteQuest</key>
+		<integer>55</integer>
+		<key>questID</key>
+		<integer>56</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kCombinerCombinedNotification</string>
+				<key>notificationObject</key>
+				<string>Carrot Zombie Tomato Zombie</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Combining.png</string>
+				<key>text</key>
+				<string>Combine Tomato and Carrot mutants</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>40</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Combining.png</string>
+		<key>tip</key>
+		<string>You need a Zombie Pot to combine zombies. Buy it in the store.</string>
+		<key>title</key>
+		<string>It&apos;s Alive!</string>
+	</dict>
+	<key>57</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>41</integer>
+		<key>messageComplete</key>
+		<string>You completed Eye See You!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>57</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>10</integer>
+				<key>notificationID</key>
+				<string>kCropPlantedNotification</string>
+				<key>notificationObject</key>
+				<string>Eyebiscus</string>
+				<key>sprite</key>
+				<string>stex0029.png</string>
+				<key>text</key>
+				<string>Plant 10 Eyebiscuses</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>10</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedNotification</string>
+				<key>notificationObject</key>
+				<string>Eyebiscus</string>
+				<key>sprite</key>
+				<string>stex0029.png</string>
+				<key>text</key>
+				<string>Harvest 10 Eyebiscuses</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>200</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_HarvestVegetables.png</string>
+		<key>tip</key>
+		<string>These take 12 hours to grow.</string>
+		<key>title</key>
+		<string>Eye See You</string>
+	</dict>
+	<key>58</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>43</integer>
+		<key>messageComplete</key>
+		<string>You completed We Heart Crops!</string>
+		<key>prerequisiteQuest</key>
+		<integer>57</integer>
+		<key>questID</key>
+		<integer>58</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>10</integer>
+				<key>notificationID</key>
+				<string>kCropPlantedNotification</string>
+				<key>notificationObject</key>
+				<string>Heartichoke</string>
+				<key>sprite</key>
+				<string>stex0029.png</string>
+				<key>text</key>
+				<string>Plant 10 Heartichokes</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>10</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedNotification</string>
+				<key>notificationObject</key>
+				<string>Heartichoke</string>
+				<key>sprite</key>
+				<string>stex0029.png</string>
+				<key>text</key>
+				<string>Harvest 10 Heartichokes</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>200</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_HarvestVegetables.png</string>
+		<key>tip</key>
+		<string>These take a full day to grow.</string>
+		<key>title</key>
+		<string>We Heart Crops</string>
+	</dict>
+	<key>59</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>44</integer>
+		<key>messageComplete</key>
+		<string>You completed Creepy Crops!</string>
+		<key>prerequisiteQuest</key>
+		<integer>58</integer>
+		<key>questID</key>
+		<integer>59</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>25</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedNotification</string>
+				<key>notificationObject</key>
+				<string>Eyebiscus</string>
+				<key>sprite</key>
+				<string>stex0029.png</string>
+				<key>text</key>
+				<string>Harvest 25 Eyebiscuses</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>25</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedNotification</string>
+				<key>notificationObject</key>
+				<string>Heartichoke</string>
+				<key>sprite</key>
+				<string>stex0029.png</string>
+				<key>text</key>
+				<string>Harvest 25 Heartichokes</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>200</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_HarvestVegetables.png</string>
+		<key>tip</key>
+		<string>This will take you at least a full day.</string>
+		<key>title</key>
+		<string>Creepy Crops</string>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>5</integer>
+		<key>messageComplete</key>
+		<string>You completed Bread Farm!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>6</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>15</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedNotification</string>
+				<key>notificationObject</key>
+				<string>Bread Fruit</string>
+				<key>sprite</key>
+				<string>stex0015.png</string>
+				<key>text</key>
+				<string>Harvest 15 Bread Fruits</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>30</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_HarvestVegetables.png</string>
+		<key>tip</key>
+		<string>These take 1 hour to grow.</string>
+		<key>title</key>
+		<string>Bread Farm</string>
+	</dict>
+	<key>60</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>44</integer>
+		<key>messageComplete</key>
+		<string>You completed Zombie Zen!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>60</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Zen Garden</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Decorating.png</string>
+				<key>text</key>
+				<string>Buy 1 Zen Garden</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Koi Pond</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Decorating.png</string>
+				<key>text</key>
+				<string>Buy 1 Koi Pond</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>200</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Decorating.png</string>
+		<key>tip</key>
+		<string>Even zombies need tranquility.</string>
+		<key>title</key>
+		<string>Zombie Zen</string>
+	</dict>
+	<key>61</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>44</integer>
+		<key>messageComplete</key>
+		<string>You completed The Perfect Yard!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>61</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Birdhouse</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Decorating.png</string>
+				<key>text</key>
+				<string>Buy 1 Birdhouse</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Croquet Set</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Decorating.png</string>
+				<key>text</key>
+				<string>Buy 1 Croquet Set</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Lawnmower</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Decorating.png</string>
+				<key>text</key>
+				<string>Buy 1 Lawnmower</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>200</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Decorating.png</string>
+		<key>tip</key>
+		<string>Be the envy of your neighborhood.</string>
+		<key>title</key>
+		<string>The Perfect Yard</string>
+	</dict>
+	<key>62</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>1</integer>
+		<key>messageComplete</key>
+		<string>You completed An Apple a Day!</string>
+		<key>prerequisiteQuest</key>
+		<integer>71</integer>
+		<key>questID</key>
+		<integer>62</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Apple Tree</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Decorating.png</string>
+				<key>text</key>
+				<string>Buy 1 Apple Tree</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>30</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Decorating.png</string>
+		<key>tip</key>
+		<string>Find this in the Market in the Trees category under Crops.</string>
+		<key>title</key>
+		<string>An Apple a Day...</string>
+	</dict>
+	<key>63</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You completed Apple Harvest!</string>
+		<key>prerequisiteQuest</key>
+		<integer>62</integer>
+		<key>questID</key>
+		<integer>63</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>10</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedNotification</string>
+				<key>notificationObject</key>
+				<string>Apple Tree</string>
+				<key>sprite</key>
+				<string>stex0004.png</string>
+				<key>text</key>
+				<string>Harvest Apple Tree 10 times</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>35</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_HarvestVegetables.png</string>
+		<key>tip</key>
+		<string>This is a very fast crop.</string>
+		<key>title</key>
+		<string>Apple Harvest</string>
+	</dict>
+	<key>64</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>15</integer>
+		<key>messageComplete</key>
+		<string>You completed Orange You Glad!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>64</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>15</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedNotification</string>
+				<key>notificationObject</key>
+				<string>Orange Tree</string>
+				<key>sprite</key>
+				<string>stex0004.png</string>
+				<key>text</key>
+				<string>Harvest Orange Tree 15 times</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>50</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_HarvestVegetables.png</string>
+		<key>tip</key>
+		<string>This is a very fast crop.</string>
+		<key>title</key>
+		<string>Orange You Glad</string>
+	</dict>
+	<key>65</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>10</integer>
+		<key>messageComplete</key>
+		<string>You completed If Life Gives You Lemons!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>65</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>15</integer>
+				<key>notificationID</key>
+				<string>kCropHarvestedNotification</string>
+				<key>notificationObject</key>
+				<string>Lemon Tree</string>
+				<key>sprite</key>
+				<string>stex0004.png</string>
+				<key>text</key>
+				<string>Harvest Lemon Tree 15 times</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>75</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_HarvestVegetables.png</string>
+		<key>tip</key>
+		<string>This is a very fast crop.</string>
+		<key>title</key>
+		<string>If Life Gives You Lemons</string>
+	</dict>
+	<key>66</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>6</integer>
+		<key>messageComplete</key>
+		<string>Adding neighbors has never been easier!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>66</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>5</integer>
+				<key>notificationID</key>
+				<string>kSocialManagerDidInvite</string>
+				<key>notificationObject</key>
+				<string></string>
+				<key>sprite</key>
+				<string>Icon_Quest_Social.png</string>
+				<key>text</key>
+				<string>Add 5 neighbors</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>30</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Social.png</string>
+		<key>tip</key>
+		<string>You can Search, use Facebook, or even add random neighbors!</string>
+		<key>title</key>
+		<string>Making Friends</string>
+	</dict>
+	<key>67</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>6</integer>
+		<key>messageComplete</key>
+		<string>Make sure you Collect from your neighbors every day!</string>
+		<key>prerequisiteQuest</key>
+		<integer>66</integer>
+		<key>questID</key>
+		<integer>67</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>5</integer>
+				<key>notificationID</key>
+				<string>kSocialManagerDidVisit</string>
+				<key>notificationObject</key>
+				<string></string>
+				<key>sprite</key>
+				<string>Icon_Quest_Social.png</string>
+				<key>text</key>
+				<string>Visit 5 neighbors</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>30</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Social.png</string>
+		<key>tip</key>
+		<string>Tap on the house button in the neighbor list to visit!</string>
+		<key>title</key>
+		<string>Party of Five</string>
+	</dict>
+	<key>68</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>6</integer>
+		<key>messageComplete</key>
+		<string>Playing tag gives you both XP!</string>
+		<key>prerequisiteQuest</key>
+		<integer>67</integer>
+		<key>questID</key>
+		<integer>68</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>5</integer>
+				<key>notificationID</key>
+				<string>kSocialManagerDidFinishTag</string>
+				<key>notificationObject</key>
+				<string></string>
+				<key>sprite</key>
+				<string>Icon_Quest_Social.png</string>
+				<key>text</key>
+				<string>Play tag with 5 neighbors</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>35</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Social.png</string>
+		<key>tip</key>
+		<string>Visit a neighbor&apos;s farm to play tag.</string>
+		<key>title</key>
+		<string>You&apos;re It!</string>
+	</dict>
+	<key>69</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>6</integer>
+		<key>messageComplete</key>
+		<string>Don&apos;t forget to give out 3 Brains every day!</string>
+		<key>prerequisiteQuest</key>
+		<integer>68</integer>
+		<key>questID</key>
+		<integer>69</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>5</integer>
+				<key>notificationID</key>
+				<string>kSocialManagerDidGiftBrain</string>
+				<key>notificationObject</key>
+				<string></string>
+				<key>sprite</key>
+				<string>Icon_Quest_Social.png</string>
+				<key>text</key>
+				<string>Give 3 Brains to neighbors</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>35</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Social.png</string>
+		<key>tip</key>
+		<string>You can give 3 Brains per day!</string>
+		<key>title</key>
+		<string>Thank You For Being A Friend</string>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>ignoreCheckQuest</key>
+		<true/>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You completed Overrun the Farm!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>7</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kInvasionSuccessfulNotification</string>
+				<key>notificationObject</key>
+				<string>Old McDonnell&apos;s Farm</string>
+				<key>sprite</key>
+				<string>Icon_Quest_Invasion.png</string>
+				<key>text</key>
+				<string>Win an invasion</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>30</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Invasion.png</string>
+		<key>tip</key>
+		<string>Make sure you have at least 8 zombies.</string>
+		<key>title</key>
+		<string>Overrun the Farm</string>
+	</dict>
+	<key>70</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You completed Learn to Plow!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>70</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>3</integer>
+				<key>notificationID</key>
+				<string>kNewSoilPlowedNotification</string>
+				<key>notificationObject</key>
+				<string></string>
+				<key>sprite</key>
+				<string>stex0036.png</string>
+				<key>text</key>
+				<string>Plow 3 new plots of land!</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>10</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Plowing.png</string>
+		<key>tip</key>
+		<string>Use the plow tool to make more plowed soil.</string>
+		<key>title</key>
+		<string>Learn to Plow</string>
+	</dict>
+	<key>71</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>-1</integer>
+		<key>messageComplete</key>
+		<string>You completed Learn to Plant!</string>
+		<key>prerequisiteQuest</key>
+		<integer>70</integer>
+		<key>questID</key>
+		<integer>71</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kCropPlantedNotification</string>
+				<key>notificationObject</key>
+				<string></string>
+				<key>sprite</key>
+				<string>stex0004.png</string>
+				<key>text</key>
+				<string>Plant a crop!</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>20</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_HarvestVegetables.png</string>
+		<key>tip</key>
+		<string>Open the market or tap on plowed land to plant!</string>
+		<key>title</key>
+		<string>Learn to Plant</string>
+	</dict>
+	<key>8</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>4</integer>
+		<key>messageComplete</key>
+		<string>You completed Clean Up After Yerself!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>8</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>50</integer>
+				<key>notificationID</key>
+				<string>kSoilPlowedNotification</string>
+				<key>notificationObject</key>
+				<string></string>
+				<key>sprite</key>
+				<string>stex0036.png</string>
+				<key>text</key>
+				<string>Plow 50 patches of soil</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>30</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Plowing.png</string>
+		<key>tip</key>
+		<string>You&apos;ll need these to create and fund your zombies.</string>
+		<key>title</key>
+		<string>Clean Up After Yerself</string>
+	</dict>
+	<key>9</key>
+	<dict>
+		<key>levelRequired</key>
+		<integer>7</integer>
+		<key>messageComplete</key>
+		<string>You completed Farm Essentials!</string>
+		<key>prerequisiteQuest</key>
+		<integer>-1</integer>
+		<key>questID</key>
+		<integer>9</integer>
+		<key>requirements</key>
+		<array>
+			<dict>
+				<key>countTotal</key>
+				<integer>4</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Fence</string>
+				<key>sprite</key>
+				<string>stex0037.png</string>
+				<key>text</key>
+				<string>Buy 4 White Fences</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>countTotal</key>
+				<integer>1</integer>
+				<key>notificationID</key>
+				<string>kItemBoughtNotification</string>
+				<key>notificationObject</key>
+				<string>Fence Gate</string>
+				<key>sprite</key>
+				<string>stex0038.png</string>
+				<key>text</key>
+				<string>Buy 1 White Fence Gate</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>rewardType</key>
+		<integer>0</integer>
+		<key>rewardValue</key>
+		<integer>40</integer>
+		<key>sprite</key>
+		<string>Icon_Quest_Decorating.png</string>
+		<key>tip</key>
+		<string>To keep intruders out, or to keep zombies in?</string>
+		<key>title</key>
+		<string>Farm Essentials</string>
+	</dict>
+</dict>
+</plist>

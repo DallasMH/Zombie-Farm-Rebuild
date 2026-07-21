@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>boss8_attack_fr01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{102, 82}, {212, 173}}</string>
+			<key>spriteOffset</key>
+			<string>{18, -36}</string>
+			<key>spriteSize</key>
+			<string>{212, 173}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1092}, {212, 173}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_attack_fr02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{102, 83}, {212, 171}}</string>
+			<key>spriteOffset</key>
+			<string>{18, -36}</string>
+			<key>spriteSize</key>
+			<string>{212, 171}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1136, 792}, {212, 171}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_attack_fr03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{98, 85}, {220, 169}}</string>
+			<key>spriteOffset</key>
+			<string>{18, -37}</string>
+			<key>spriteSize</key>
+			<string>{220, 169}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1748, 551}, {220, 169}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_attack_fr04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{94, 87}, {228, 167}}</string>
+			<key>spriteOffset</key>
+			<string>{18, -38}</string>
+			<key>spriteSize</key>
+			<string>{228, 167}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 579}, {228, 167}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_attack_fr05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{93, 86}, {230, 169}}</string>
+			<key>spriteOffset</key>
+			<string>{18, -38}</string>
+			<key>spriteSize</key>
+			<string>{230, 169}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{496, 503}, {230, 169}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_attack_fr06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{91, 83}, {240, 171}}</string>
+			<key>spriteOffset</key>
+			<string>{21, -36}</string>
+			<key>spriteSize</key>
+			<string>{240, 171}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{506, 330}, {240, 171}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_attack_fr07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{95, 75}, {248, 179}}</string>
+			<key>spriteOffset</key>
+			<string>{29, -32}</string>
+			<key>spriteSize</key>
+			<string>{248, 179}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1104, 0}, {248, 179}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_attack_fr08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{95, 77}, {248, 177}}</string>
+			<key>spriteOffset</key>
+			<string>{29, -33}</string>
+			<key>spriteSize</key>
+			<string>{248, 177}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1354, 0}, {248, 177}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_attack_fr09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{95, 80}, {250, 173}}</string>
+			<key>spriteOffset</key>
+			<string>{30, -34}</string>
+			<key>spriteSize</key>
+			<string>{250, 173}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{254, 205}, {250, 173}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_attack_fr10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{96, 81}, {248, 173}}</string>
+			<key>spriteOffset</key>
+			<string>{30, -35}</string>
+			<key>spriteSize</key>
+			<string>{248, 173}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1604, 0}, {248, 173}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_attack_fr11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{93, 89}, {240, 165}}</string>
+			<key>spriteOffset</key>
+			<string>{23, -39}</string>
+			<key>spriteSize</key>
+			<string>{240, 165}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{254, 380}, {240, 165}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_attack_fr12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{94, 128}, {216, 137}}</string>
+			<key>spriteOffset</key>
+			<string>{12, -64}</string>
+			<key>spriteSize</key>
+			<string>{216, 137}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{222, 1060}, {216, 137}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_attack_fr13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{102, 100}, {200, 155}}</string>
+			<key>spriteOffset</key>
+			<string>{12, -45}</string>
+			<key>spriteSize</key>
+			<string>{200, 155}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{200, 1856}, {200, 155}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_attack_fr14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{62, 71}, {226, 183}}</string>
+			<key>spriteOffset</key>
+			<string>{-15, -30}</string>
+			<key>spriteSize</key>
+			<string>{226, 183}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{728, 533}, {226, 183}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_attack_fr15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 59}, {260, 195}}</string>
+			<key>spriteOffset</key>
+			<string>{-37, -24}</string>
+			<key>spriteSize</key>
+			<string>{260, 195}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{842, 0}, {260, 195}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_attack_fr16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 52}, {280, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{-48, -21}</string>
+			<key>spriteSize</key>
+			<string>{280, 203}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {280, 203}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_attack_fr17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 65}, {278, 189}}</string>
+			<key>spriteOffset</key>
+			<string>{-47, -27}</string>
+			<key>spriteSize</key>
+			<string>{278, 189}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{562, 0}, {278, 189}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_attack_fr18.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{101, 84}, {212, 171}}</string>
+			<key>spriteOffset</key>
+			<string>{17, -37}</string>
+			<key>spriteSize</key>
+			<string>{212, 171}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1398, 728}, {212, 171}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_attack_fr19.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{94, 87}, {228, 167}}</string>
+			<key>spriteOffset</key>
+			<string>{18, -38}</string>
+			<key>spriteSize</key>
+			<string>{228, 167}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{238, 547}, {228, 167}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_attack_fr20.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{102, 82}, {212, 173}}</string>
+			<key>spriteOffset</key>
+			<string>{18, -36}</string>
+			<key>spriteSize</key>
+			<string>{212, 173}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{214, 1199}, {212, 173}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_defeat_fr01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{99, 67}, {198, 185}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -27}</string>
+			<key>spriteSize</key>
+			<string>{198, 185}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1856}, {198, 185}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_defeat_fr02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{149, 55}, {192, 197}}</string>
+			<key>spriteOffset</key>
+			<string>{55, -21}</string>
+			<key>spriteSize</key>
+			<string>{192, 197}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1854, 0}, {192, 197}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_defeat_fr03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{173, 35}, {202, 217}}</string>
+			<key>spriteOffset</key>
+			<string>{84, -11}</string>
+			<key>spriteSize</key>
+			<string>{202, 217}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1442}, {202, 217}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_defeat_fr04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{170, 22}, {210, 231}}</string>
+			<key>spriteOffset</key>
+			<string>{85, -5}</string>
+			<key>spriteSize</key>
+			<string>{210, 231}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{668, 1088}, {210, 231}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_defeat_fr05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{169, 7}, {210, 245}}</string>
+			<key>spriteOffset</key>
+			<string>{84, 3}</string>
+			<key>spriteSize</key>
+			<string>{210, 245}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{898, 953}, {210, 245}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_defeat_fr06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{117, 13}, {240, 241}}</string>
+			<key>spriteOffset</key>
+			<string>{47, -1}</string>
+			<key>spriteSize</key>
+			<string>{240, 241}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1354, 179}, {240, 241}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_defeat_fr07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{98, 31}, {220, 223}}</string>
+			<key>spriteOffset</key>
+			<string>{18, -10}</string>
+			<key>spriteSize</key>
+			<string>{220, 223}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{956, 535}, {220, 223}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_defeat_fr08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{104, 61}, {200, 193}}</string>
+			<key>spriteOffset</key>
+			<string>{14, -25}</string>
+			<key>spriteSize</key>
+			<string>{200, 193}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1661}, {200, 193}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_defeat_fr09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{94, 78}, {206, 175}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -33}</string>
+			<key>spriteSize</key>
+			<string>{206, 175}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{214, 1374}, {206, 175}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_defeat_loop_fr01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{61, 78}, {240, 175}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, -33}</string>
+			<key>spriteSize</key>
+			<string>{240, 175}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1060, 358}, {240, 175}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_defeat_loop_fr02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{61, 78}, {240, 175}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, -33}</string>
+			<key>spriteSize</key>
+			<string>{240, 175}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1104, 181}, {240, 175}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_defeat_loop_fr03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{61, 78}, {240, 175}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, -33}</string>
+			<key>spriteSize</key>
+			<string>{240, 175}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{818, 197}, {240, 175}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_enter_exit_fr01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{94, 64}, {218, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{13, -27}</string>
+			<key>spriteSize</key>
+			<string>{218, 191}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1178, 599}, {218, 191}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_enter_exit_fr02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{94, 64}, {218, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{13, -27}</string>
+			<key>spriteSize</key>
+			<string>{218, 191}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1748, 722}, {218, 191}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_enter_exit_fr03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{94, 64}, {218, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{13, -27}</string>
+			<key>spriteSize</key>
+			<string>{218, 191}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{678, 895}, {218, 191}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_escape_fr01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{102, 82}, {212, 173}}</string>
+			<key>spriteOffset</key>
+			<string>{18, -36}</string>
+			<key>spriteSize</key>
+			<string>{212, 173}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1267}, {212, 173}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_escape_fr02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{97, 90}, {224, 165}}</string>
+			<key>spriteOffset</key>
+			<string>{19, -40}</string>
+			<key>spriteSize</key>
+			<string>{224, 165}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{230, 716}, {224, 165}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_escape_fr03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{91, 98}, {236, 157}}</string>
+			<key>spriteOffset</key>
+			<string>{19, -44}</string>
+			<key>spriteSize</key>
+			<string>{236, 157}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{748, 374}, {236, 157}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_escape_fr04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 117}, {254, 137}}</string>
+			<key>spriteOffset</key>
+			<string>{19, -53}</string>
+			<key>spriteSize</key>
+			<string>{254, 137}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{562, 191}, {254, 137}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_escape_fr05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{104, 82}, {208, 173}}</string>
+			<key>spriteOffset</key>
+			<string>{18, -36}</string>
+			<key>spriteSize</key>
+			<string>{208, 173}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{428, 1207}, {208, 173}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_idle_fr01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{97, 78}, {224, 177}}</string>
+			<key>spriteOffset</key>
+			<string>{19, -34}</string>
+			<key>spriteSize</key>
+			<string>{224, 177}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{468, 674}, {224, 177}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_idle_fr02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{98, 79}, {222, 175}}</string>
+			<key>spriteOffset</key>
+			<string>{19, -34}</string>
+			<key>spriteSize</key>
+			<string>{222, 175}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1302, 422}, {222, 175}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_idle_fr03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{98, 79}, {220, 175}}</string>
+			<key>spriteOffset</key>
+			<string>{18, -34}</string>
+			<key>spriteSize</key>
+			<string>{220, 175}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{456, 853}, {220, 175}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_idle_fr04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{99, 80}, {220, 175}}</string>
+			<key>spriteOffset</key>
+			<string>{19, -35}</string>
+			<key>spriteSize</key>
+			<string>{220, 175}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1526, 551}, {220, 175}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_idle_fr05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{100, 80}, {218, 175}}</string>
+			<key>spriteOffset</key>
+			<string>{19, -35}</string>
+			<key>spriteSize</key>
+			<string>{218, 175}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{448, 1030}, {218, 175}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_idle_fr06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{99, 80}, {220, 175}}</string>
+			<key>spriteOffset</key>
+			<string>{19, -35}</string>
+			<key>spriteSize</key>
+			<string>{220, 175}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{226, 883}, {220, 175}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_idle_fr07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{98, 79}, {220, 175}}</string>
+			<key>spriteOffset</key>
+			<string>{18, -34}</string>
+			<key>spriteSize</key>
+			<string>{220, 175}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 915}, {220, 175}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_idle_fr08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{98, 79}, {222, 175}}</string>
+			<key>spriteOffset</key>
+			<string>{19, -34}</string>
+			<key>spriteSize</key>
+			<string>{222, 175}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1820, 374}, {222, 175}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_land_fr01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{94, 64}, {218, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{13, -27}</string>
+			<key>spriteSize</key>
+			<string>{218, 191}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{916, 760}, {218, 191}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_land_fr02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{91, 98}, {236, 167}}</string>
+			<key>spriteOffset</key>
+			<string>{19, -49}</string>
+			<key>spriteSize</key>
+			<string>{236, 167}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 410}, {236, 167}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_land_fr03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{97, 90}, {224, 165}}</string>
+			<key>spriteOffset</key>
+			<string>{19, -40}</string>
+			<key>spriteSize</key>
+			<string>{224, 165}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 748}, {224, 165}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_land_fr04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{102, 58}, {246, 197}}</string>
+			<key>spriteOffset</key>
+			<string>{35, -24}</string>
+			<key>spriteSize</key>
+			<string>{246, 197}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1604, 175}, {246, 197}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_land_fr05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{81, 52}, {278, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{30, -21}</string>
+			<key>spriteSize</key>
+			<string>{278, 203}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{282, 0}, {278, 203}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_land_fr06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{67, 51}, {252, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -20}</string>
+			<key>spriteSize</key>
+			<string>{252, 203}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 205}, {252, 203}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_land_fr07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{98, 79}, {220, 175}}</string>
+			<key>spriteOffset</key>
+			<string>{18, -34}</string>
+			<key>spriteSize</key>
+			<string>{220, 175}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{694, 718}, {220, 175}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boss8_land_fr08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{98, 79}, {222, 175}}</string>
+			<key>spriteOffset</key>
+			<string>{19, -34}</string>
+			<key>spriteSize</key>
+			<string>{222, 175}</string>
+			<key>spriteSourceSize</key>
+			<string>{380, 265}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1596, 374}, {222, 175}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.5</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>name</key>
+		<string>rockyRhino</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>rockyRhino_default</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>rockyRhino_default</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

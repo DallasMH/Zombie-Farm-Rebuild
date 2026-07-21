@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>solarsystem_00.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{105, 132}, {61, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -63}</string>
+			<key>spriteSize</key>
+			<string>{61, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{275, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{193, 452}, {61, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>solarsystem_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{32, 41}, {239, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{14, 3}</string>
+			<key>spriteSize</key>
+			<string>{239, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{275, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {239, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>solarsystem_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{48, 56}, {201, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{11, -0}</string>
+			<key>spriteSize</key>
+			<string>{201, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{275, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{305, 152}, {201, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>solarsystem_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{73, 49}, {135, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -7}</string>
+			<key>spriteSize</key>
+			<string>{135, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{275, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{272, 216}, {135, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>solarsystem_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{104, 37}, {85, 122}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -11}</string>
+			<key>spriteSize</key>
+			<string>{85, 122}</string>
+			<key>spriteSourceSize</key>
+			<string>{275, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{218, 88}, {85, 122}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>solarsystem_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{80, 28}, {103, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -13}</string>
+			<key>spriteSize</key>
+			<string>{103, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{275, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 88}, {103, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>solarsystem_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{32, 28}, {183, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{-14, -11}</string>
+			<key>spriteSize</key>
+			<string>{183, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{275, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 234}, {183, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>solarsystem_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 44}, {231, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-18, -0}</string>
+			<key>spriteSize</key>
+			<string>{231, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{275, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{241, 0}, {231, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>solarsystem_08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 56}, {203, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, -0}</string>
+			<key>spriteSize</key>
+			<string>{203, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{275, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{305, 88}, {203, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>solarsystem_09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{72, 28}, {131, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 13}</string>
+			<key>spriteSize</key>
+			<string>{131, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{275, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{193, 358}, {131, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>solarsystem_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{104, 10}, {85, 126}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 14}</string>
+			<key>spriteSize</key>
+			<string>{85, 126}</string>
+			<key>spriteSourceSize</key>
+			<string>{275, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{185, 230}, {85, 126}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>solarsystem_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{92, 4}, {111, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{10, 13}</string>
+			<key>spriteSize</key>
+			<string>{111, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{275, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{105, 88}, {111, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>solarsystem_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{59, 9}, {191, 134}}</string>
+			<key>spriteOffset</key>
+			<string>{17, 11}</string>
+			<key>spriteSize</key>
+			<string>{191, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{275, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 376}, {191, 134}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>solarSystem</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>target</key>
+		<dict>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>coordinatesFileName</key>
+			<string>default</string>
+			<key>name</key>
+			<string>default</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>textureFileName</key>
+			<string>default</string>
+		</dict>
+		<key>version</key>
+		<string>1.5 GM</string>
+	</dict>
+</dict>
+</plist>
