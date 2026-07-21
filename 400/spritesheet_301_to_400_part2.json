@@ -1,0 +1,296 @@
+{
+  "sheet_file": "spritesheet_301_to_400_part2.png",
+  "cell_size_px": 400,
+  "grid_columns": 5,
+  "grid_rows": 4,
+  "sprites": {
+    "ZF2 Epic Boss 12": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 360,
+        "h": 240
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 80
+      }
+    },
+    "ZF2 Epic Boss 13": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 400,
+        "y": 0,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 360,
+        "h": 240
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 80
+      }
+    },
+    "ZF2 Epic Boss 14": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 0,
+        "x": 800,
+        "y": 0,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 360,
+        "h": 240
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 80
+      }
+    },
+    "ZF2 Epic Boss 2": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 0,
+        "x": 1200,
+        "y": 0,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 360,
+        "h": 240
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 80
+      }
+    },
+    "ZF2 Epic Boss 3": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 0,
+        "x": 1600,
+        "y": 0,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 360,
+        "h": 240
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 80
+      }
+    },
+    "ZF2 Epic Boss 4": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 400,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 360,
+        "h": 240
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 80
+      }
+    },
+    "ZF2 Epic Boss 5": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 400,
+        "y": 400,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 360,
+        "h": 240
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 80
+      }
+    },
+    "ZF2 Epic Boss 6": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 1,
+        "x": 800,
+        "y": 400,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 360,
+        "h": 240
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 80
+      }
+    },
+    "ZF2 Epic Boss 7": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 1,
+        "x": 1200,
+        "y": 400,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 360,
+        "h": 240
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 80
+      }
+    },
+    "ZF2 Epic Boss 8": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 1,
+        "x": 1600,
+        "y": 400,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 360,
+        "h": 240
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 80
+      }
+    },
+    "ZF2 Epic Boss 9": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 2,
+        "x": 0,
+        "y": 800,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 360,
+        "h": 240
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 80
+      }
+    },
+    "ZF2 Skittles Promotion 2": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 2,
+        "x": 400,
+        "y": 800,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 360,
+        "h": 239
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 80
+      }
+    },
+    "ZF2 Skittles Promotion": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 2,
+        "x": 800,
+        "y": 800,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 360,
+        "h": 240
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 80
+      }
+    },
+    "Zombie Life Quest 1": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 2,
+        "x": 1200,
+        "y": 800,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 320,
+        "h": 213
+      },
+      "offset_inside_cell": {
+        "x": 40,
+        "y": 93
+      }
+    },
+    "Zombie_Artwork": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 2,
+        "x": 1600,
+        "y": 800,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 302,
+        "h": 326
+      },
+      "offset_inside_cell": {
+        "x": 49,
+        "y": 37
+      }
+    },
+    "Zombie_Pot": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 3,
+        "x": 0,
+        "y": 1200,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 342,
+        "h": 162
+      },
+      "offset_inside_cell": {
+        "x": 29,
+        "y": 119
+      }
+    }
+  }
+}

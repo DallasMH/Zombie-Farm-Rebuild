@@ -1,0 +1,170 @@
+{
+  "sheet_file": "spritesheet_501_to_600_part7.png",
+  "cell_size_px": 600,
+  "grid_columns": 3,
+  "grid_rows": 3,
+  "sprites": {
+    "St Patrick's Day": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 576,
+        "h": 384
+      },
+      "offset_inside_cell": {
+        "x": 12,
+        "y": 108
+      }
+    },
+    "stPatricksFountain": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 600,
+        "y": 0,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 256,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 172,
+        "y": 44
+      }
+    },
+    "tameMamba_default": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 0,
+        "x": 1200,
+        "y": 0,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 256,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 172,
+        "y": 44
+      }
+    },
+    "V084": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 600,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    },
+    "Valentine 2012 1": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 600,
+        "y": 600,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 504,
+        "h": 324
+      },
+      "offset_inside_cell": {
+        "x": 48,
+        "y": 138
+      }
+    },
+    "Valentine 2012": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 1,
+        "x": 1200,
+        "y": 600,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 560,
+        "h": 360
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 120
+      }
+    },
+    "Valentines Pony": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 2,
+        "x": 0,
+        "y": 1200,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 504,
+        "h": 335
+      },
+      "offset_inside_cell": {
+        "x": 48,
+        "y": 132
+      }
+    },
+    "Ver0_86": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 2,
+        "x": 600,
+        "y": 1200,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    },
+    "waterMill_default": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 2,
+        "x": 1200,
+        "y": 1200,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    }
+  }
+}

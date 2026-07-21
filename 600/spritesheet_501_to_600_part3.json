@@ -1,0 +1,170 @@
+{
+  "sheet_file": "spritesheet_501_to_600_part3.png",
+  "cell_size_px": 600,
+  "grid_columns": 3,
+  "grid_rows": 3,
+  "sprites": {
+    "Icon-0_77": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    },
+    "Icon-0_78": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 600,
+        "y": 0,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    },
+    "Icon-0_79": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 0,
+        "x": 1200,
+        "y": 0,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    },
+    "Icon-0_80": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 600,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    },
+    "Icon-0_82": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 600,
+        "y": 600,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    },
+    "Icon-0_86-CN": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 1,
+        "x": 1200,
+        "y": 600,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    },
+    "Icon-0_870": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 2,
+        "x": 0,
+        "y": 1200,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    },
+    "Icon-0_880": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 2,
+        "x": 600,
+        "y": 1200,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    },
+    "Icon-1_09": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 2,
+        "x": 1200,
+        "y": 1200,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    }
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "sheet_file": "spritesheet_401_to_500_part8.png",
+  "cell_size_px": 500,
+  "grid_columns": 4,
+  "grid_rows": 4,
+  "sprites": {
+    "Mutated Cupid 2": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Mutated Cupid": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 500,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Mythology Items": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 0,
+        "x": 1000,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "New-loot": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 0,
+        "x": 1500,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 500,
+        "h": 288
+      },
+      "offset_inside_cell": {
+        "x": 0,
+        "y": 106
+      }
+    },
+    "News_Screen_Iphone_base": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 409,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 90
+      }
+    },
+    "Ninjas 0.77": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 500,
+        "y": 500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Ninjas Background": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 1,
+        "x": 1000,
+        "y": 500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Ninjas_Background_2": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 1,
+        "x": 1500,
+        "y": 500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Old McDonnell Background 2": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 2,
+        "x": 0,
+        "y": 1000,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Old McDonnell Background": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 2,
+        "x": 500,
+        "y": 1000,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Old McDonnell's Farm (Version 0.86)": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 2,
+        "x": 1000,
+        "y": 1000,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Old McDonnell's Farm 1": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 2,
+        "x": 1500,
+        "y": 1000,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Old McDonnell's Farm 3": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 3,
+        "x": 0,
+        "y": 1500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "OldMcdonald (christmas)": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 3,
+        "x": 500,
+        "y": 1500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Old_Mcdonnell_robot": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 3,
+        "x": 1000,
+        "y": 1500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 439,
+        "h": 268
+      },
+      "offset_inside_cell": {
+        "x": 30,
+        "y": 116
+      }
+    },
+    "Omega Dr. Zombie Prize 5454": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 3,
+        "x": 1500,
+        "y": 1500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 403,
+        "h": 469
+      },
+      "offset_inside_cell": {
+        "x": 48,
+        "y": 15
+      }
+    }
+  }
+}

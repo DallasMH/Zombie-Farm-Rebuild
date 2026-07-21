@@ -1,0 +1,242 @@
+{
+  "sheet_file": "spritesheet_0_to_100_part2.png",
+  "cell_size_px": 100,
+  "grid_columns": 13,
+  "grid_rows": 1,
+  "sprites": {
+    "Zombielocks_LightGreen": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sprite_dimensions": {
+        "w": 98,
+        "h": 98
+      },
+      "offset_inside_cell": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "Zombielocks_Orange": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 100,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sprite_dimensions": {
+        "w": 98,
+        "h": 98
+      },
+      "offset_inside_cell": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "Zombielocks_Purple": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 0,
+        "x": 200,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sprite_dimensions": {
+        "w": 98,
+        "h": 98
+      },
+      "offset_inside_cell": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "Zombielocks_Teal": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 0,
+        "x": 300,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sprite_dimensions": {
+        "w": 98,
+        "h": 98
+      },
+      "offset_inside_cell": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "Zombie_Camera_2": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 0,
+        "x": 400,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sprite_dimensions": {
+        "w": 62,
+        "h": 82
+      },
+      "offset_inside_cell": {
+        "x": 19,
+        "y": 9
+      }
+    },
+    "Zombie_Snowman": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 0,
+        "x": 500,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sprite_dimensions": {
+        "w": 65,
+        "h": 84
+      },
+      "offset_inside_cell": {
+        "x": 17,
+        "y": 8
+      }
+    },
+    "ZomBotanist_1": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 0,
+        "x": 600,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sprite_dimensions": {
+        "w": 58,
+        "h": 81
+      },
+      "offset_inside_cell": {
+        "x": 21,
+        "y": 9
+      }
+    },
+    "ZomBruiser_1": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 0,
+        "x": 700,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sprite_dimensions": {
+        "w": 98,
+        "h": 98
+      },
+      "offset_inside_cell": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "ZomBrute": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 0,
+        "x": 800,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sprite_dimensions": {
+        "w": 98,
+        "h": 98
+      },
+      "offset_inside_cell": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "ZomBrute1": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 0,
+        "x": 900,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sprite_dimensions": {
+        "w": 98,
+        "h": 98
+      },
+      "offset_inside_cell": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "ZomBumpkin": {
+      "cell_bounds": {
+        "col": 10,
+        "row": 0,
+        "x": 1000,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sprite_dimensions": {
+        "w": 80,
+        "h": 99
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 0
+      }
+    },
+    "ZOMTAR_machine_Icon_MarketItems": {
+      "cell_bounds": {
+        "col": 11,
+        "row": 0,
+        "x": 1100,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sprite_dimensions": {
+        "w": 58,
+        "h": 58
+      },
+      "offset_inside_cell": {
+        "x": 21,
+        "y": 21
+      }
+    },
+    "Zyborg_1": {
+      "cell_bounds": {
+        "col": 12,
+        "row": 0,
+        "x": 1200,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sprite_dimensions": {
+        "w": 53,
+        "h": 81
+      },
+      "offset_inside_cell": {
+        "x": 23,
+        "y": 9
+      }
+    }
+  }
+}

@@ -1,0 +1,458 @@
+{
+  "sheet_file": "spritesheet_301_to_400_part1.png",
+  "cell_size_px": 400,
+  "grid_columns": 5,
+  "grid_rows": 5,
+  "sprites": {
+    "4th July Blowout Sale 2012": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 360,
+        "h": 240
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 80
+      }
+    },
+    "Cleopatra_barge": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 400,
+        "y": 0,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 335,
+        "h": 273
+      },
+      "offset_inside_cell": {
+        "x": 32,
+        "y": 63
+      }
+    },
+    "Crazy_Zombie_Artwork": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 0,
+        "x": 800,
+        "y": 0,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 259,
+        "h": 324
+      },
+      "offset_inside_cell": {
+        "x": 70,
+        "y": 38
+      }
+    },
+    "Download": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 0,
+        "x": 1200,
+        "y": 0,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 382,
+        "h": 70
+      },
+      "offset_inside_cell": {
+        "x": 9,
+        "y": 165
+      }
+    },
+    "Egyptian_Temple": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 0,
+        "x": 1600,
+        "y": 0,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 343,
+        "h": 373
+      },
+      "offset_inside_cell": {
+        "x": 28,
+        "y": 13
+      }
+    },
+    "fightBGCircus_car": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 400,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 349,
+        "h": 346
+      },
+      "offset_inside_cell": {
+        "x": 25,
+        "y": 27
+      }
+    },
+    "fightBGCircus_car_overlay": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 400,
+        "y": 400,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 119,
+        "h": 346
+      },
+      "offset_inside_cell": {
+        "x": 140,
+        "y": 27
+      }
+    },
+    "Fishing_Dock": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 1,
+        "x": 800,
+        "y": 400,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 338,
+        "h": 196
+      },
+      "offset_inside_cell": {
+        "x": 31,
+        "y": 102
+      }
+    },
+    "General Larvaelus Battle": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 1,
+        "x": 1200,
+        "y": 400,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 360,
+        "h": 240
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 80
+      }
+    },
+    "Golden_Dice_Select": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 1,
+        "x": 1600,
+        "y": 400,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 330,
+        "h": 157
+      },
+      "offset_inside_cell": {
+        "x": 35,
+        "y": 121
+      }
+    },
+    "Happy Dragon Promotion": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 2,
+        "x": 0,
+        "y": 800,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 360,
+        "h": 256
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 72
+      }
+    },
+    "Hula Zombie SS": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 2,
+        "x": 400,
+        "y": 800,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 395,
+        "h": 236
+      },
+      "offset_inside_cell": {
+        "x": 2,
+        "y": 82
+      }
+    },
+    "LAKE_floating_dockWithDuck": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 2,
+        "x": 800,
+        "y": 800,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 338,
+        "h": 171
+      },
+      "offset_inside_cell": {
+        "x": 31,
+        "y": 114
+      }
+    },
+    "Loading screen": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 2,
+        "x": 1200,
+        "y": 800,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 320,
+        "h": 213
+      },
+      "offset_inside_cell": {
+        "x": 40,
+        "y": 93
+      }
+    },
+    "PlayforgeGame5": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 2,
+        "x": 1600,
+        "y": 800,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 360,
+        "h": 228
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 86
+      }
+    },
+    "Screen_shot_2011-09-19_at_12_50_54": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 3,
+        "x": 0,
+        "y": 1200,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 311,
+        "h": 159
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 120
+      }
+    },
+    "SkittlesZombie": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 3,
+        "x": 400,
+        "y": 1200,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 321,
+        "h": 226
+      },
+      "offset_inside_cell": {
+        "x": 39,
+        "y": 87
+      }
+    },
+    "SWAMP_TREE": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 3,
+        "x": 800,
+        "y": 1200,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 179,
+        "h": 324
+      },
+      "offset_inside_cell": {
+        "x": 110,
+        "y": 38
+      }
+    },
+    "Tophat": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 3,
+        "x": 1200,
+        "y": 1200,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 250,
+        "h": 335
+      },
+      "offset_inside_cell": {
+        "x": 75,
+        "y": 32
+      }
+    },
+    "Trapeze_Girl": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 3,
+        "x": 1600,
+        "y": 1200,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 70,
+        "h": 358
+      },
+      "offset_inside_cell": {
+        "x": 165,
+        "y": 21
+      }
+    },
+    "Trex-sprite": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 4,
+        "x": 0,
+        "y": 1600,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 312,
+        "h": 243
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 78
+      }
+    },
+    "ZF2 Blowout Sale": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 4,
+        "x": 400,
+        "y": 1600,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 360,
+        "h": 226
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 87
+      }
+    },
+    "ZF2 Epic Boss 1": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 4,
+        "x": 800,
+        "y": 1600,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 360,
+        "h": 240
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 80
+      }
+    },
+    "ZF2 Epic Boss 10": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 4,
+        "x": 1200,
+        "y": 1600,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 360,
+        "h": 240
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 80
+      }
+    },
+    "ZF2 Epic Boss 11": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 4,
+        "x": 1600,
+        "y": 1600,
+        "w": 400,
+        "h": 400
+      },
+      "sprite_dimensions": {
+        "w": 360,
+        "h": 240
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 80
+      }
+    }
+  }
+}

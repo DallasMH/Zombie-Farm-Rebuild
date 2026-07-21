@@ -1,0 +1,296 @@
+{
+  "sheet_file": "spritesheet_401_to_500_part4.png",
+  "cell_size_px": 500,
+  "grid_columns": 4,
+  "grid_rows": 4,
+  "sprites": {
+    "Ancient Egyptian Farm Contest 2nd Place": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 500,
+        "h": 375
+      },
+      "offset_inside_cell": {
+        "x": 0,
+        "y": 62
+      }
+    },
+    "Ancient Egyptian Farm Contest 3rd Place": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 500,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 500,
+        "h": 375
+      },
+      "offset_inside_cell": {
+        "x": 0,
+        "y": 62
+      }
+    },
+    "Barren_and_Plowed_Land": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 0,
+        "x": 1000,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 418,
+        "h": 98
+      },
+      "offset_inside_cell": {
+        "x": 41,
+        "y": 201
+      }
+    },
+    "Brock Coley Promo": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 0,
+        "x": 1500,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 441,
+        "h": 297
+      },
+      "offset_inside_cell": {
+        "x": 29,
+        "y": 101
+      }
+    },
+    "Bully Frog Return": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Bully Frog Screen": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 500,
+        "y": 500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "ChoreHeroScreenshot": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 1,
+        "x": 1000,
+        "y": 500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 320,
+        "h": 480
+      },
+      "offset_inside_cell": {
+        "x": 90,
+        "y": 10
+      }
+    },
+    "Christmas2012 LoadingSCRNS Iphone": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 1,
+        "x": 1500,
+        "y": 500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "ChristmasGhostZombie": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 2,
+        "x": 0,
+        "y": 1000,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 439,
+        "h": 177
+      },
+      "offset_inside_cell": {
+        "x": 30,
+        "y": 161
+      }
+    },
+    "Cinco De Mayo Items": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 2,
+        "x": 500,
+        "y": 1000,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Circus Background": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 2,
+        "x": 1000,
+        "y": 1000,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Corgi pet-slider": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 2,
+        "x": 1500,
+        "y": 1000,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 500,
+        "h": 288
+      },
+      "offset_inside_cell": {
+        "x": 0,
+        "y": 106
+      }
+    },
+    "Cupid free": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 3,
+        "x": 0,
+        "y": 1500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 287
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 106
+      }
+    },
+    "Dairy Background": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 3,
+        "x": 500,
+        "y": 1500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Day of the Dead items": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 3,
+        "x": 1000,
+        "y": 1500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Dead_Crops_and_Dead_Zombie": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 3,
+        "x": 1500,
+        "y": 1500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 438,
+        "h": 145
+      },
+      "offset_inside_cell": {
+        "x": 31,
+        "y": 177
+      }
+    }
+  }
+}

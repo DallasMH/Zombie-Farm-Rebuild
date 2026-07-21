@@ -1,0 +1,296 @@
+{
+  "sheet_file": "spritesheet_401_to_500_part5.png",
+  "cell_size_px": 500,
+  "grid_columns": 4,
+  "grid_rows": 4,
+  "sprites": {
+    "Dr. Groundhog Return": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 432,
+        "h": 296
+      },
+      "offset_inside_cell": {
+        "x": 34,
+        "y": 102
+      }
+    },
+    "Dr. Zombie Prize 1544": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 500,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 317,
+        "h": 406
+      },
+      "offset_inside_cell": {
+        "x": 91,
+        "y": 47
+      }
+    },
+    "Earth Day Items": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 0,
+        "x": 1000,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 432,
+        "h": 324
+      },
+      "offset_inside_cell": {
+        "x": 34,
+        "y": 88
+      }
+    },
+    "Easter 2012": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 0,
+        "x": 1500,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Easter Background": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Easter Items 2013": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 500,
+        "y": 500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Easter Screen": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 1,
+        "x": 1000,
+        "y": 500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Egyptian Items": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 1,
+        "x": 1500,
+        "y": 500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 432,
+        "h": 302
+      },
+      "offset_inside_cell": {
+        "x": 34,
+        "y": 99
+      }
+    },
+    "Epic Boss Background": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 2,
+        "x": 0,
+        "y": 1000,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "fightBGFarm_barn": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 2,
+        "x": 500,
+        "y": 1000,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 232,
+        "h": 467
+      },
+      "offset_inside_cell": {
+        "x": 134,
+        "y": 16
+      }
+    },
+    "fightBGNinja_front": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 2,
+        "x": 1000,
+        "y": 1000,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 286,
+        "h": 447
+      },
+      "offset_inside_cell": {
+        "x": 107,
+        "y": 26
+      }
+    },
+    "fightBGRobot_BG": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 2,
+        "x": 1500,
+        "y": 1000,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "fightBGRobot_FLOOR": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 3,
+        "x": 0,
+        "y": 1500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "fightBGRobot_PLATFORMwlight": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 3,
+        "x": 500,
+        "y": 1500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Foul Owl Screen": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 3,
+        "x": 1000,
+        "y": 1500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "FoulOwlInvasion1": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 3,
+        "x": 1500,
+        "y": 1500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 483,
+        "h": 321
+      },
+      "offset_inside_cell": {
+        "x": 8,
+        "y": 89
+      }
+    }
+  }
+}

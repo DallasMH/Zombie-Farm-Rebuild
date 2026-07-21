@@ -1,0 +1,80 @@
+{
+  "sheet_file": "spritesheet_901_to_1000_part11.png",
+  "cell_size_px": 1000,
+  "grid_columns": 2,
+  "grid_rows": 2,
+  "sprites": {
+    "Deputy": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 1000,
+        "h": 1000
+      },
+      "sprite_dimensions": {
+        "w": 960,
+        "h": 640
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 180
+      }
+    },
+    "Diver": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 1000,
+        "y": 0,
+        "w": 1000,
+        "h": 1000
+      },
+      "sprite_dimensions": {
+        "w": 960,
+        "h": 640
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 180
+      }
+    },
+    "Easter Invasion CN": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 1000,
+        "w": 1000,
+        "h": 1000
+      },
+      "sprite_dimensions": {
+        "w": 960,
+        "h": 640
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 180
+      }
+    },
+    "February": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 1000,
+        "y": 1000,
+        "w": 1000,
+        "h": 1000
+      },
+      "sprite_dimensions": {
+        "w": 640,
+        "h": 960
+      },
+      "offset_inside_cell": {
+        "x": 180,
+        "y": 20
+      }
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "sheet_file": "spritesheet_201_to_300_part4.png",
+  "cell_size_px": 300,
+  "grid_columns": 6,
+  "grid_rows": 2,
+  "sprites": {
+    "Zen_Garden": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 222,
+        "h": 169
+      },
+      "offset_inside_cell": {
+        "x": 39,
+        "y": 65
+      }
+    },
+    "ZF Xmas icon": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 300,
+        "y": 0,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 250,
+        "h": 134
+      },
+      "offset_inside_cell": {
+        "x": 25,
+        "y": 83
+      }
+    },
+    "Zombeach_Bum_Artwork": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 0,
+        "x": 600,
+        "y": 0,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 252,
+        "h": 261
+      },
+      "offset_inside_cell": {
+        "x": 24,
+        "y": 19
+      }
+    },
+    "Zombiebox": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 0,
+        "x": 900,
+        "y": 0,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 208,
+        "h": 230
+      },
+      "offset_inside_cell": {
+        "x": 46,
+        "y": 35
+      }
+    },
+    "Zombie_Dojo": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 0,
+        "x": 1200,
+        "y": 0,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 256,
+        "h": 256
+      },
+      "offset_inside_cell": {
+        "x": 22,
+        "y": 22
+      }
+    },
+    "Zombie_Farm_Wiki": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 0,
+        "x": 1500,
+        "y": 0,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 250,
+        "h": 65
+      },
+      "offset_inside_cell": {
+        "x": 25,
+        "y": 117
+      }
+    },
+    "ZOMBUG_default": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 300,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 256,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 22,
+        "y": 86
+      }
+    },
+    "Zula_Girl_Artwork": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 300,
+        "y": 300,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 211,
+        "h": 259
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 20
+      }
+    }
+  }
+}

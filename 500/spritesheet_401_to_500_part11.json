@@ -1,0 +1,296 @@
+{
+  "sheet_file": "spritesheet_401_to_500_part11.png",
+  "cell_size_px": 500,
+  "grid_columns": 4,
+  "grid_rows": 4,
+  "sprites": {
+    "Version 1.0 SS 3": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Version 1.0 SS 4": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 500,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Version2.04-zf2": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 0,
+        "x": 1000,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 500,
+        "h": 288
+      },
+      "offset_inside_cell": {
+        "x": 0,
+        "y": 106
+      }
+    },
+    "Viking Items": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 0,
+        "x": 1500,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Vortex Promotion": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 432,
+        "h": 319
+      },
+      "offset_inside_cell": {
+        "x": 34,
+        "y": 90
+      }
+    },
+    "Vortexx": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 500,
+        "y": 500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 482,
+        "h": 114
+      },
+      "offset_inside_cell": {
+        "x": 9,
+        "y": 193
+      }
+    },
+    "Wikia-Visualization-Main,zombiefarm": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 1,
+        "x": 1000,
+        "y": 500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Wikia-Visualization-Main": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 1,
+        "x": 1500,
+        "y": 500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "XmasGamelogo": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 2,
+        "x": 0,
+        "y": 1000,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 500,
+        "h": 318
+      },
+      "offset_inside_cell": {
+        "x": 0,
+        "y": 91
+      }
+    },
+    "ZF Battles 1": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 2,
+        "x": 500,
+        "y": 1000,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 360
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 70
+      }
+    },
+    "ZF Battles 2": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 2,
+        "x": 1000,
+        "y": 1000,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 360
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 70
+      }
+    },
+    "ZF Battles 3": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 2,
+        "x": 1500,
+        "y": 1000,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 360
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 70
+      }
+    },
+    "ZF Battles 4": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 3,
+        "x": 0,
+        "y": 1500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 360
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 70
+      }
+    },
+    "ZF Battles 5": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 3,
+        "x": 500,
+        "y": 1500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 360
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 70
+      }
+    },
+    "ZF Beta Screenshot 1": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 3,
+        "x": 1000,
+        "y": 1500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "ZF Beta Screenshot 2": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 3,
+        "x": 1500,
+        "y": 1500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    }
+  }
+}

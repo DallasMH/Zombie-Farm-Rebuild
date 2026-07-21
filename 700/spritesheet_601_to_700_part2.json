@@ -1,0 +1,80 @@
+{
+  "sheet_file": "spritesheet_601_to_700_part2.png",
+  "cell_size_px": 700,
+  "grid_columns": 2,
+  "grid_rows": 2,
+  "sprites": {
+    "Broccoli_stages": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 700
+      },
+      "sprite_dimensions": {
+        "w": 666,
+        "h": 133
+      },
+      "offset_inside_cell": {
+        "x": 17,
+        "y": 283
+      }
+    },
+    "Candy_Corn_stages": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 700
+      },
+      "sprite_dimensions": {
+        "w": 664,
+        "h": 185
+      },
+      "offset_inside_cell": {
+        "x": 18,
+        "y": 257
+      }
+    },
+    "Carrot_stages": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 700,
+        "w": 700,
+        "h": 700
+      },
+      "sprite_dimensions": {
+        "w": 666,
+        "h": 134
+      },
+      "offset_inside_cell": {
+        "x": 17,
+        "y": 283
+      }
+    },
+    "Cauliflower_stages": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 700,
+        "y": 700,
+        "w": 700,
+        "h": 700
+      },
+      "sprite_dimensions": {
+        "w": 664,
+        "h": 134
+      },
+      "offset_inside_cell": {
+        "x": 18,
+        "y": 283
+      }
+    }
+  }
+}

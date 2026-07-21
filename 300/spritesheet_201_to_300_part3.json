@@ -1,0 +1,656 @@
+{
+  "sheet_file": "spritesheet_201_to_300_part3.png",
+  "cell_size_px": 300,
+  "grid_columns": 6,
+  "grid_rows": 6,
+  "sprites": {
+    "Mystical_Mamba_s_Wish_Machine": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 108,
+        "h": 241
+      },
+      "offset_inside_cell": {
+        "x": 96,
+        "y": 29
+      }
+    },
+    "New_invasion_reward_system": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 300,
+        "y": 0,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 216,
+        "h": 195
+      },
+      "offset_inside_cell": {
+        "x": 42,
+        "y": 52
+      }
+    },
+    "pagoda": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 0,
+        "x": 600,
+        "y": 0,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 256,
+        "h": 256
+      },
+      "offset_inside_cell": {
+        "x": 22,
+        "y": 22
+      }
+    },
+    "Party_Balloons_2013": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 0,
+        "x": 900,
+        "y": 0,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 89,
+        "h": 225
+      },
+      "offset_inside_cell": {
+        "x": 105,
+        "y": 37
+      }
+    },
+    "Photo 10-04-12 12 52 08 PM": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 0,
+        "x": 1200,
+        "y": 0,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 209,
+        "h": 210
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Photo 31-03-12 7 47 45 PM": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 0,
+        "x": 1500,
+        "y": 0,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 239,
+        "h": 185
+      },
+      "offset_inside_cell": {
+        "x": 30,
+        "y": 57
+      }
+    },
+    "Photo1": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 300,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 300,
+        "h": 225
+      },
+      "offset_inside_cell": {
+        "x": 0,
+        "y": 37
+      }
+    },
+    "Photo2": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 300,
+        "y": 300,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 300,
+        "h": 200
+      },
+      "offset_inside_cell": {
+        "x": 0,
+        "y": 50
+      }
+    },
+    "Poppy_s_House": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 1,
+        "x": 600,
+        "y": 300,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 121,
+        "h": 206
+      },
+      "offset_inside_cell": {
+        "x": 89,
+        "y": 47
+      }
+    },
+    "POSEIDON_ZOMBIE_default": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 1,
+        "x": 900,
+        "y": 300,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 256,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 22,
+        "y": 86
+      }
+    },
+    "Pumpkin_Man": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 1,
+        "x": 1200,
+        "y": 300,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 193,
+        "h": 219
+      },
+      "offset_inside_cell": {
+        "x": 53,
+        "y": 40
+      }
+    },
+    "Pumpkin_Man_2": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 1,
+        "x": 1500,
+        "y": 300,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 195,
+        "h": 223
+      },
+      "offset_inside_cell": {
+        "x": 52,
+        "y": 38
+      }
+    },
+    "rainbowCrop": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 2,
+        "x": 0,
+        "y": 600,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 256,
+        "h": 256
+      },
+      "offset_inside_cell": {
+        "x": 22,
+        "y": 22
+      }
+    },
+    "rocketship": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 2,
+        "x": 300,
+        "y": 600,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 100,
+        "h": 203
+      },
+      "offset_inside_cell": {
+        "x": 100,
+        "y": 48
+      }
+    },
+    "Rose_Reception_Desk": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 2,
+        "x": 600,
+        "y": 600,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 202,
+        "h": 190
+      },
+      "offset_inside_cell": {
+        "x": 49,
+        "y": 55
+      }
+    },
+    "Skunkarella_s_Home": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 2,
+        "x": 900,
+        "y": 600,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 210,
+        "h": 241
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 29
+      }
+    },
+    "Small_Dragon_Boat": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 2,
+        "x": 1200,
+        "y": 600,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 226,
+        "h": 170
+      },
+      "offset_inside_cell": {
+        "x": 37,
+        "y": 65
+      }
+    },
+    "Snow_Man": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 2,
+        "x": 1500,
+        "y": 600,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 167,
+        "h": 207
+      },
+      "offset_inside_cell": {
+        "x": 66,
+        "y": 46
+      }
+    },
+    "St Patrick's": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 3,
+        "x": 0,
+        "y": 900,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 214,
+        "h": 160
+      },
+      "offset_inside_cell": {
+        "x": 43,
+        "y": 70
+      }
+    },
+    "starFruitCrop": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 3,
+        "x": 300,
+        "y": 900,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 256,
+        "h": 256
+      },
+      "offset_inside_cell": {
+        "x": 22,
+        "y": 22
+      }
+    },
+    "Street_Light": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 3,
+        "x": 600,
+        "y": 900,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 102,
+        "h": 227
+      },
+      "offset_inside_cell": {
+        "x": 99,
+        "y": 36
+      }
+    },
+    "Telephone_Pole": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 3,
+        "x": 900,
+        "y": 900,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 100,
+        "h": 261
+      },
+      "offset_inside_cell": {
+        "x": 100,
+        "y": 19
+      }
+    },
+    "tex1091": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 3,
+        "x": 1200,
+        "y": 900,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 256
+      },
+      "offset_inside_cell": {
+        "x": 86,
+        "y": 22
+      }
+    },
+    "tex2000": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 3,
+        "x": 1500,
+        "y": 900,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 256,
+        "h": 256
+      },
+      "offset_inside_cell": {
+        "x": 22,
+        "y": 22
+      }
+    },
+    "Three_Coffins": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 4,
+        "x": 0,
+        "y": 1200,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 300,
+        "h": 100
+      },
+      "offset_inside_cell": {
+        "x": 0,
+        "y": 100
+      }
+    },
+    "Tim_Statue": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 4,
+        "x": 300,
+        "y": 1200,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 104,
+        "h": 218
+      },
+      "offset_inside_cell": {
+        "x": 98,
+        "y": 41
+      }
+    },
+    "Treehouse": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 4,
+        "x": 600,
+        "y": 1200,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 222,
+        "h": 298
+      },
+      "offset_inside_cell": {
+        "x": 39,
+        "y": 1
+      }
+    },
+    "Umbrella_Tree": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 4,
+        "x": 900,
+        "y": 1200,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 157,
+        "h": 220
+      },
+      "offset_inside_cell": {
+        "x": 71,
+        "y": 40
+      }
+    },
+    "ValentineHedge2011": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 4,
+        "x": 1200,
+        "y": 1200,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 227,
+        "h": 194
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 53
+      }
+    },
+    "ValentineHedge2011B": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 4,
+        "x": 1500,
+        "y": 1200,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 227,
+        "h": 202
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 49
+      }
+    },
+    "ValentineTopiary2011": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 5,
+        "x": 0,
+        "y": 1500,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 241,
+        "h": 283
+      },
+      "offset_inside_cell": {
+        "x": 29,
+        "y": 8
+      }
+    },
+    "Viking_Hall": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 5,
+        "x": 300,
+        "y": 1500,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 267,
+        "h": 289
+      },
+      "offset_inside_cell": {
+        "x": 16,
+        "y": 5
+      }
+    },
+    "viking_hall_343": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 5,
+        "x": 600,
+        "y": 1500,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 267,
+        "h": 289
+      },
+      "offset_inside_cell": {
+        "x": 16,
+        "y": 5
+      }
+    },
+    "viking_ship": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 5,
+        "x": 900,
+        "y": 1500,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 234,
+        "h": 241
+      },
+      "offset_inside_cell": {
+        "x": 33,
+        "y": 29
+      }
+    },
+    "Willow_Tree": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 5,
+        "x": 1200,
+        "y": 1500,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 195,
+        "h": 227
+      },
+      "offset_inside_cell": {
+        "x": 52,
+        "y": 36
+      }
+    },
+    "Windmill": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 5,
+        "x": 1500,
+        "y": 1500,
+        "w": 300,
+        "h": 300
+      },
+      "sprite_dimensions": {
+        "w": 103,
+        "h": 207
+      },
+      "offset_inside_cell": {
+        "x": 98,
+        "y": 46
+      }
+    }
+  }
+}

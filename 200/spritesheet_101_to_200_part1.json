@@ -1,0 +1,1808 @@
+{
+  "sheet_file": "spritesheet_101_to_200_part1.png",
+  "cell_size_px": 200,
+  "grid_columns": 10,
+  "grid_rows": 10,
+  "sprites": {
+    "136104386841683": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 130
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 35
+      }
+    },
+    "136232665461612": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 200,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 179,
+        "h": 100
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 50
+      }
+    },
+    "2012_Banner_1": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 0,
+        "x": 400,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 107,
+        "h": 155
+      },
+      "offset_inside_cell": {
+        "x": 46,
+        "y": 22
+      }
+    },
+    "2012_Banner_2": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 0,
+        "x": 600,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 107,
+        "h": 155
+      },
+      "offset_inside_cell": {
+        "x": 46,
+        "y": 22
+      }
+    },
+    "4_leaf_clover_tree": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 0,
+        "x": 800,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 143,
+        "h": 190
+      },
+      "offset_inside_cell": {
+        "x": 28,
+        "y": 5
+      }
+    },
+    "525187 481703535221473 314273697 n": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 0,
+        "x": 1000,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 89,
+        "h": 174
+      },
+      "offset_inside_cell": {
+        "x": 55,
+        "y": 13
+      }
+    },
+    "544617 479064112152082 686332988 n": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 0,
+        "x": 1200,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 192,
+        "h": 139
+      },
+      "offset_inside_cell": {
+        "x": 4,
+        "y": 30
+      }
+    },
+    "564954_423704237688070_2088801251_n": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 0,
+        "x": 1400,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 116,
+        "h": 125
+      },
+      "offset_inside_cell": {
+        "x": 42,
+        "y": 37
+      }
+    },
+    "644735 479380068787153 1278766834 n": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 0,
+        "x": 1600,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 191,
+        "h": 93
+      },
+      "offset_inside_cell": {
+        "x": 4,
+        "y": 53
+      }
+    },
+    "830PX-~1": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 0,
+        "x": 1800,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 105,
+        "h": 96
+      },
+      "offset_inside_cell": {
+        "x": 47,
+        "y": 52
+      }
+    },
+    "Achievement": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 180,
+        "h": 180
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 10
+      }
+    },
+    "Admiral_Zombie": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 200,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 137,
+        "h": 147
+      },
+      "offset_inside_cell": {
+        "x": 31,
+        "y": 26
+      }
+    },
+    "Alien Bug02": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 1,
+        "x": 400,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 90,
+        "h": 127
+      },
+      "offset_inside_cell": {
+        "x": 55,
+        "y": 36
+      }
+    },
+    "Alien_Banner": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 1,
+        "x": 600,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 54,
+        "h": 124
+      },
+      "offset_inside_cell": {
+        "x": 73,
+        "y": 38
+      }
+    },
+    "Alien_Boss": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 1,
+        "x": 800,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 84,
+        "h": 172
+      },
+      "offset_inside_cell": {
+        "x": 58,
+        "y": 14
+      }
+    },
+    "Alien_Boss_Icon": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 1,
+        "x": 1000,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 80,
+        "h": 118
+      },
+      "offset_inside_cell": {
+        "x": 60,
+        "y": 41
+      }
+    },
+    "Alien_Boss_UFO": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 1,
+        "x": 1200,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 143,
+        "h": 134
+      },
+      "offset_inside_cell": {
+        "x": 28,
+        "y": 33
+      }
+    },
+    "Amazombie": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 1,
+        "x": 1400,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Amazombie_0_77": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 1,
+        "x": 1600,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Amazombie_2": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 1,
+        "x": 1800,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Amiable_Tree": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 2,
+        "x": 0,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 118,
+        "h": 196
+      },
+      "offset_inside_cell": {
+        "x": 41,
+        "y": 2
+      }
+    },
+    "Angry_Pumpkin": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 2,
+        "x": 200,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 120,
+        "h": 109
+      },
+      "offset_inside_cell": {
+        "x": 40,
+        "y": 45
+      }
+    },
+    "Angry_Pumpkin_2": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 2,
+        "x": 400,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 125,
+        "h": 117
+      },
+      "offset_inside_cell": {
+        "x": 37,
+        "y": 41
+      }
+    },
+    "Aqueduct": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 2,
+        "x": 600,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 135,
+        "h": 172
+      },
+      "offset_inside_cell": {
+        "x": 32,
+        "y": 14
+      }
+    },
+    "Arrrrnold": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 2,
+        "x": 800,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 153,
+        "h": 163
+      },
+      "offset_inside_cell": {
+        "x": 23,
+        "y": 18
+      }
+    },
+    "Attachment-1": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 2,
+        "x": 1000,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 67,
+        "h": 112
+      },
+      "offset_inside_cell": {
+        "x": 66,
+        "y": 44
+      }
+    },
+    "autumn_patiotable": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 2,
+        "x": 1200,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 132,
+        "h": 108
+      },
+      "offset_inside_cell": {
+        "x": 34,
+        "y": 46
+      }
+    },
+    "Badge-3123-0": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 2,
+        "x": 1400,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3123-1": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 2,
+        "x": 1600,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3123-2": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 2,
+        "x": 1800,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3123-3": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 3,
+        "x": 0,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3123-4": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 3,
+        "x": 200,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3123-5": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 3,
+        "x": 400,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3123-6": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 3,
+        "x": 600,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3123-7": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 3,
+        "x": 800,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3124-0": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 3,
+        "x": 1000,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3130-0": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 3,
+        "x": 1200,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3130-1": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 3,
+        "x": 1400,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3130-2": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 3,
+        "x": 1600,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3130-3": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 3,
+        "x": 1800,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3130-4": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 4,
+        "x": 0,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3130-5": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 4,
+        "x": 200,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3130-6": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 4,
+        "x": 400,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3130-7": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 4,
+        "x": 600,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3134-0": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 4,
+        "x": 800,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3134-1": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 4,
+        "x": 1000,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3134-2": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 4,
+        "x": 1200,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3134-3": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 4,
+        "x": 1400,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3134-4": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 4,
+        "x": 1600,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3134-5": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 4,
+        "x": 1800,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3134-6": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 5,
+        "x": 0,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3134-7": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 5,
+        "x": 200,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3140-0": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 5,
+        "x": 400,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3140-1": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 5,
+        "x": 600,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3140-2": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 5,
+        "x": 800,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3140-3": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 5,
+        "x": 1000,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3140-4": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 5,
+        "x": 1200,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3140-5": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 5,
+        "x": 1400,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3140-6": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 5,
+        "x": 1600,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3140-7": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 5,
+        "x": 1800,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3141-0": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 6,
+        "x": 0,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3143-0": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 6,
+        "x": 200,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3143-1": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 6,
+        "x": 400,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3143-2": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 6,
+        "x": 600,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3143-3": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 6,
+        "x": 800,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3143-4": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 6,
+        "x": 1000,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3143-5": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 6,
+        "x": 1200,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3143-6": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 6,
+        "x": 1400,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-3143-7": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 6,
+        "x": 1600,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-5550-0": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 6,
+        "x": 1800,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-5550-1": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 7,
+        "x": 0,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-5550-2": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 7,
+        "x": 200,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-5550-3": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 7,
+        "x": 400,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-5550-4": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 7,
+        "x": 600,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-5550-5": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 7,
+        "x": 800,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-5550-6": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 7,
+        "x": 1000,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-5550-7": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 7,
+        "x": 1200,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-edit-0": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 7,
+        "x": 1400,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-edit-1": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 7,
+        "x": 1600,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-edit-2": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 7,
+        "x": 1800,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-edit-3": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 8,
+        "x": 0,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-edit-4": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 8,
+        "x": 200,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-edit-5": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 8,
+        "x": 400,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-edit-6": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 8,
+        "x": 600,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-edit-7": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 8,
+        "x": 800,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-luckyedit": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 8,
+        "x": 1000,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Badge-welcome": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 8,
+        "x": 1200,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Bandido_Zombie": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 8,
+        "x": 1400,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 118
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 41
+      }
+    },
+    "Beach_Bed": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 8,
+        "x": 1600,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 141,
+        "h": 148
+      },
+      "offset_inside_cell": {
+        "x": 29,
+        "y": 26
+      }
+    },
+    "Beach_chill_spot": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 8,
+        "x": 1800,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 106,
+        "h": 145
+      },
+      "offset_inside_cell": {
+        "x": 47,
+        "y": 27
+      }
+    },
+    "Beach_Lounge": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 9,
+        "x": 0,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 106,
+        "h": 145
+      },
+      "offset_inside_cell": {
+        "x": 47,
+        "y": 27
+      }
+    },
+    "Beach_Male_zombie_default": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 9,
+        "x": 200,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 64
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 68
+      }
+    },
+    "Beach_mini_cabana": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 9,
+        "x": 400,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 141,
+        "h": 148
+      },
+      "offset_inside_cell": {
+        "x": 29,
+        "y": 26
+      }
+    },
+    "Beach_tile_corner1": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 9,
+        "x": 600,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 164,
+        "h": 85
+      },
+      "offset_inside_cell": {
+        "x": 18,
+        "y": 57
+      }
+    },
+    "Beach_tile_corner2": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 9,
+        "x": 800,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 164,
+        "h": 85
+      },
+      "offset_inside_cell": {
+        "x": 18,
+        "y": 57
+      }
+    },
+    "Beach_tile_corner3": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 9,
+        "x": 1000,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 166,
+        "h": 85
+      },
+      "offset_inside_cell": {
+        "x": 17,
+        "y": 57
+      }
+    },
+    "Beach_tile_corner4": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 9,
+        "x": 1200,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 166,
+        "h": 83
+      },
+      "offset_inside_cell": {
+        "x": 17,
+        "y": 58
+      }
+    },
+    "Beach_tile_SIDE_A1": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 9,
+        "x": 1400,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 167,
+        "h": 84
+      },
+      "offset_inside_cell": {
+        "x": 16,
+        "y": 58
+      }
+    },
+    "Beach_tile_SIDE_A2": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 9,
+        "x": 1600,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 167,
+        "h": 84
+      },
+      "offset_inside_cell": {
+        "x": 16,
+        "y": 58
+      }
+    },
+    "Beach_tile_SIDE_B1": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 9,
+        "x": 1800,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 167,
+        "h": 85
+      },
+      "offset_inside_cell": {
+        "x": 16,
+        "y": 57
+      }
+    }
+  }
+}

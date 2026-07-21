@@ -1,0 +1,1808 @@
+{
+  "sheet_file": "spritesheet_101_to_200_part7.png",
+  "cell_size_px": 200,
+  "grid_columns": 10,
+  "grid_rows": 10,
+  "sprites": {
+    "Tomato_Mutation_2": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Totem_Pole": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 200,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 60,
+        "h": 129
+      },
+      "offset_inside_cell": {
+        "x": 70,
+        "y": 35
+      }
+    },
+    "Totem_Pole_2": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 0,
+        "x": 400,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 57,
+        "h": 130
+      },
+      "offset_inside_cell": {
+        "x": 71,
+        "y": 35
+      }
+    },
+    "Treasure_Chest": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 0,
+        "x": 600,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 129,
+        "h": 108
+      },
+      "offset_inside_cell": {
+        "x": 35,
+        "y": 46
+      }
+    },
+    "Tree World Invasion Small": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 0,
+        "x": 800,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 174,
+        "h": 135
+      },
+      "offset_inside_cell": {
+        "x": 13,
+        "y": 32
+      }
+    },
+    "Trees": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 0,
+        "x": 1000,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 120,
+        "h": 32
+      },
+      "offset_inside_cell": {
+        "x": 40,
+        "y": 84
+      }
+    },
+    "Trojan_Horse": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 0,
+        "x": 1200,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 109,
+        "h": 143
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 28
+      }
+    },
+    "Turnip_Mutation": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 0,
+        "x": 1400,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Turnip_Mutation_2": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 0,
+        "x": 1600,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "UFO": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 0,
+        "x": 1800,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 140,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 30,
+        "y": 36
+      }
+    },
+    "underwater_mermaid": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 67,
+        "h": 112
+      },
+      "offset_inside_cell": {
+        "x": 66,
+        "y": 44
+      }
+    },
+    "underwater_ship": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 200,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 119,
+        "h": 141
+      },
+      "offset_inside_cell": {
+        "x": 40,
+        "y": 29
+      }
+    },
+    "V073": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 1,
+        "x": 400,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 177,
+        "h": 177
+      },
+      "offset_inside_cell": {
+        "x": 11,
+        "y": 11
+      }
+    },
+    "V082": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 1,
+        "x": 600,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 174,
+        "h": 174
+      },
+      "offset_inside_cell": {
+        "x": 13,
+        "y": 13
+      }
+    },
+    "V083": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 1,
+        "x": 800,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 140,
+        "h": 140
+      },
+      "offset_inside_cell": {
+        "x": 30,
+        "y": 30
+      }
+    },
+    "Vagabond_Zombie": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 1,
+        "x": 1000,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 115
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 42
+      }
+    },
+    "Venti_Cactus_Bunch": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 1,
+        "x": 1200,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 139,
+        "h": 167
+      },
+      "offset_inside_cell": {
+        "x": 30,
+        "y": 16
+      }
+    },
+    "Venus_Flytrap_Mutation": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 1,
+        "x": 1400,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 135,
+        "h": 132
+      },
+      "offset_inside_cell": {
+        "x": 32,
+        "y": 34
+      }
+    },
+    "Ver0870": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 1,
+        "x": 1600,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 175,
+        "h": 175
+      },
+      "offset_inside_cell": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    "Veteran_s_Day_Achievement": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 1,
+        "x": 1800,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 180,
+        "h": 180
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 10
+      }
+    },
+    "Viking_Fence": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 2,
+        "x": 0,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 87,
+        "h": 104
+      },
+      "offset_inside_cell": {
+        "x": 56,
+        "y": 48
+      }
+    },
+    "viking_fence_342": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 2,
+        "x": 200,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 87,
+        "h": 104
+      },
+      "offset_inside_cell": {
+        "x": 56,
+        "y": 48
+      }
+    },
+    "Viking_Home": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 2,
+        "x": 400,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 200,
+        "h": 195
+      },
+      "offset_inside_cell": {
+        "x": 0,
+        "y": 2
+      }
+    },
+    "viking_home_344": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 2,
+        "x": 600,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 200,
+        "h": 195
+      },
+      "offset_inside_cell": {
+        "x": 0,
+        "y": 2
+      }
+    },
+    "VIKING_water_tile_CENTER": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 2,
+        "x": 800,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 163,
+        "h": 81
+      },
+      "offset_inside_cell": {
+        "x": 18,
+        "y": 59
+      }
+    },
+    "VIKING_water_tile_corner1": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 2,
+        "x": 1000,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 160,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 45
+      }
+    },
+    "VIKING_water_tile_corner2": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 2,
+        "x": 1200,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 167,
+        "h": 100
+      },
+      "offset_inside_cell": {
+        "x": 16,
+        "y": 50
+      }
+    },
+    "VIKING_water_tile_corner3": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 2,
+        "x": 1400,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 163,
+        "h": 81
+      },
+      "offset_inside_cell": {
+        "x": 18,
+        "y": 59
+      }
+    },
+    "VIKING_water_tile_corner4": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 2,
+        "x": 1600,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 161,
+        "h": 129
+      },
+      "offset_inside_cell": {
+        "x": 19,
+        "y": 35
+      }
+    },
+    "VIKING_water_tile_SIDE_A": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 2,
+        "x": 1800,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 163,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 18,
+        "y": 45
+      }
+    },
+    "VIKING_water_tile_SIDE_A2": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 3,
+        "x": 0,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 163,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 18,
+        "y": 45
+      }
+    },
+    "VIKING_water_tile_SIDE_B": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 3,
+        "x": 200,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 163,
+        "h": 84
+      },
+      "offset_inside_cell": {
+        "x": 18,
+        "y": 58
+      }
+    },
+    "VIKING_water_tile_SIDE_B2": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 3,
+        "x": 400,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 163,
+        "h": 84
+      },
+      "offset_inside_cell": {
+        "x": 18,
+        "y": 58
+      }
+    },
+    "VIKING_ZOMBIE_HOLGA_default": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 3,
+        "x": 600,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "WATER_LILLY_CROP_1": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 3,
+        "x": 800,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 194,
+        "h": 91
+      },
+      "offset_inside_cell": {
+        "x": 3,
+        "y": 54
+      }
+    },
+    "WATER_LILLY_CROP_2": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 3,
+        "x": 1000,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 195,
+        "h": 130
+      },
+      "offset_inside_cell": {
+        "x": 2,
+        "y": 35
+      }
+    },
+    "Water_Otter": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 3,
+        "x": 1200,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 181,
+        "h": 99
+      },
+      "offset_inside_cell": {
+        "x": 9,
+        "y": 50
+      }
+    },
+    "Weaver_Girl_Statue": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 3,
+        "x": 1400,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 74,
+        "h": 178
+      },
+      "offset_inside_cell": {
+        "x": 63,
+        "y": 11
+      }
+    },
+    "Wiki-wordmark": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 3,
+        "x": 1600,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 168,
+        "h": 65
+      },
+      "offset_inside_cell": {
+        "x": 16,
+        "y": 67
+      }
+    },
+    "Wiki": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 3,
+        "x": 1800,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 155,
+        "h": 155
+      },
+      "offset_inside_cell": {
+        "x": 22,
+        "y": 22
+      }
+    },
+    "winter2012_snowman": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 4,
+        "x": 0,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 89,
+        "h": 115
+      },
+      "offset_inside_cell": {
+        "x": 55,
+        "y": 42
+      }
+    },
+    "winter2012_snowwoman": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 4,
+        "x": 200,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 73,
+        "h": 105
+      },
+      "offset_inside_cell": {
+        "x": 63,
+        "y": 47
+      }
+    },
+    "Wood_Hut": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 4,
+        "x": 400,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 182,
+        "h": 166
+      },
+      "offset_inside_cell": {
+        "x": 9,
+        "y": 17
+      }
+    },
+    "XFarmhand": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 4,
+        "x": 600,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 153,
+        "h": 141
+      },
+      "offset_inside_cell": {
+        "x": 23,
+        "y": 29
+      }
+    },
+    "XLumberjack": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 4,
+        "x": 800,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 126,
+        "h": 137
+      },
+      "offset_inside_cell": {
+        "x": 37,
+        "y": 31
+      }
+    },
+    "Xmas_McDonnell_Icon": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 4,
+        "x": 1000,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 104,
+        "h": 87
+      },
+      "offset_inside_cell": {
+        "x": 48,
+        "y": 56
+      }
+    },
+    "XMcDonnell": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 4,
+        "x": 1200,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 154
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 23
+      }
+    },
+    "yellowSatchet": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 4,
+        "x": 1400,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Yellow_Satchet": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 4,
+        "x": 1600,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Zanta_Clause": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 4,
+        "x": 1800,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zanta_Clause_2": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 5,
+        "x": 0,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zastronaut": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 5,
+        "x": 200,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zastronaut_2": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 5,
+        "x": 400,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zcarecrow": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 5,
+        "x": 600,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zcarecrow_2": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 5,
+        "x": 800,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "ZF V-Day Icon 2011": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 5,
+        "x": 1000,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 167,
+        "h": 161
+      },
+      "offset_inside_cell": {
+        "x": 16,
+        "y": 19
+      }
+    },
+    "Zf2-template": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 5,
+        "x": 1200,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 120,
+        "h": 120
+      },
+      "offset_inside_cell": {
+        "x": 40,
+        "y": 40
+      }
+    },
+    "ZF_Xmas_icon_jpg": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 5,
+        "x": 1400,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 175,
+        "h": 176
+      },
+      "offset_inside_cell": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    "Zmurf_0_77": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 5,
+        "x": 1600,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zmurf_2": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 5,
+        "x": 1800,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombarian": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 6,
+        "x": 0,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 106,
+        "h": 114
+      },
+      "offset_inside_cell": {
+        "x": 47,
+        "y": 43
+      }
+    },
+    "Zombarian_Blue_2": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 6,
+        "x": 200,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombarian_Gray_2": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 6,
+        "x": 400,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombarian_Green_2": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 6,
+        "x": 600,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombarian_Magenta_2": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 6,
+        "x": 800,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombarian_Orange_2": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 6,
+        "x": 1000,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombarian_Purple_2": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 6,
+        "x": 1200,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombarian_Teal_2": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 6,
+        "x": 1400,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombeach_Bum": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 6,
+        "x": 1600,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 117
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 41
+      }
+    },
+    "ZomBeauty_0_77": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 6,
+        "x": 1800,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "ZomBeauty_2": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 7,
+        "x": 0,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombee_Blue_2": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 7,
+        "x": 200,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombee_Gray": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 7,
+        "x": 400,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombee_Gray_2": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 7,
+        "x": 600,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombee_Green_2": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 7,
+        "x": 800,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombee_Magenta_2": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 7,
+        "x": 1000,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombee_Orange_2": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 7,
+        "x": 1200,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombee_Purple_2": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 7,
+        "x": 1400,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombee_Teal_2": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 7,
+        "x": 1600,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombelly_Dancer": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 7,
+        "x": 1800,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombelly_Dancer_2": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 8,
+        "x": 0,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "ZomBetty": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 8,
+        "x": 200,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 112
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 44
+      }
+    },
+    "Zombielocks_Blue_2": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 8,
+        "x": 400,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombielocks_Gray": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 8,
+        "x": 600,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombielocks_Gray_2": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 8,
+        "x": 800,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombielocks_Green_2": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 8,
+        "x": 1000,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombielocks_Orange_2": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 8,
+        "x": 1200,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombielocks_Purple_2": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 8,
+        "x": 1400,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombielocks_Teal_2": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 8,
+        "x": 1600,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombies-1-": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 8,
+        "x": 1800,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 100,
+        "h": 158
+      },
+      "offset_inside_cell": {
+        "x": 50,
+        "y": 21
+      }
+    },
+    "Zombies": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 9,
+        "x": 0,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 100,
+        "h": 158
+      },
+      "offset_inside_cell": {
+        "x": 50,
+        "y": 21
+      }
+    },
+    "Zombie_0_77": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 9,
+        "x": 200,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombie_2": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 9,
+        "x": 400,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombie_Bot": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 9,
+        "x": 600,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 116
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 42
+      }
+    },
+    "Zombie_Camera": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 9,
+        "x": 800,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 86,
+        "h": 127
+      },
+      "offset_inside_cell": {
+        "x": 57,
+        "y": 36
+      }
+    },
+    "Zombie_Colossus": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 9,
+        "x": 1000,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 106,
+        "h": 181
+      },
+      "offset_inside_cell": {
+        "x": 47,
+        "y": 9
+      }
+    },
+    "Zombie_Monolith": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 9,
+        "x": 1200,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 79,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 60,
+        "y": 36
+      }
+    },
+    "Zombie_Monolith_2": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 9,
+        "x": 1400,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 72,
+        "h": 140
+      },
+      "offset_inside_cell": {
+        "x": 64,
+        "y": 30
+      }
+    },
+    "Zombie_Original": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 9,
+        "x": 1600,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Zombie_Patch": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 9,
+        "x": 1800,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 186,
+        "h": 91
+      },
+      "offset_inside_cell": {
+        "x": 7,
+        "y": 54
+      }
+    }
+  }
+}

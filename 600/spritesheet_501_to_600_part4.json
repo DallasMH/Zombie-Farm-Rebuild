@@ -1,0 +1,170 @@
+{
+  "sheet_file": "spritesheet_501_to_600_part4.png",
+  "cell_size_px": 600,
+  "grid_columns": 3,
+  "grid_rows": 3,
+  "sprites": {
+    "Icon-2_0": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    },
+    "Icon-2_07": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 600,
+        "y": 0,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    },
+    "Icon-2_10": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 0,
+        "x": 1200,
+        "y": 0,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    },
+    "Icon-2_12": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 600,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    },
+    "Icon-2_14": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 600,
+        "y": 600,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    },
+    "Icon-2_15": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 1,
+        "x": 1200,
+        "y": 600,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    },
+    "Icon-Battles": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 2,
+        "x": 0,
+        "y": 1200,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    },
+    "Icon-Bubbles-1_0": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 2,
+        "x": 600,
+        "y": 1200,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    },
+    "Icon-Bubbles-1_0_5": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 2,
+        "x": 1200,
+        "y": 1200,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    }
+  }
+}

@@ -1,0 +1,1808 @@
+{
+  "sheet_file": "spritesheet_101_to_200_part2.png",
+  "cell_size_px": 200,
+  "grid_columns": 10,
+  "grid_rows": 10,
+  "sprites": {
+    "Beach_tile_SIDE_B2": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 167,
+        "h": 85
+      },
+      "offset_inside_cell": {
+        "x": 16,
+        "y": 57
+      }
+    },
+    "Bean_Mutation": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 200,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Bean_Mutation_2": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 0,
+        "x": 400,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Big_Cactus_Bunch": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 0,
+        "x": 600,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 139,
+        "h": 167
+      },
+      "offset_inside_cell": {
+        "x": 30,
+        "y": 16
+      }
+    },
+    "Bike": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 0,
+        "x": 800,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 103,
+        "h": 101
+      },
+      "offset_inside_cell": {
+        "x": 48,
+        "y": 49
+      }
+    },
+    "Birdhouse": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 0,
+        "x": 1000,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 60,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 70,
+        "y": 36
+      }
+    },
+    "Black_Grave": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 0,
+        "x": 1200,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 72,
+        "h": 103
+      },
+      "offset_inside_cell": {
+        "x": 64,
+        "y": 48
+      }
+    },
+    "Black_Hedge": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 0,
+        "x": 1400,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 149,
+        "h": 112
+      },
+      "offset_inside_cell": {
+        "x": 25,
+        "y": 44
+      }
+    },
+    "blueSatchet": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 0,
+        "x": 1600,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Blue_Grave": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 0,
+        "x": 1800,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 72,
+        "h": 103
+      },
+      "offset_inside_cell": {
+        "x": 64,
+        "y": 48
+      }
+    },
+    "Blue_Grave_older": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 72,
+        "h": 107
+      },
+      "offset_inside_cell": {
+        "x": 64,
+        "y": 46
+      }
+    },
+    "Blue_Outhouse": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 200,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 140,
+        "h": 157
+      },
+      "offset_inside_cell": {
+        "x": 30,
+        "y": 21
+      }
+    },
+    "Blue_Satchet": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 1,
+        "x": 400,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Blue_Tent": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 1,
+        "x": 600,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 153,
+        "h": 139
+      },
+      "offset_inside_cell": {
+        "x": 23,
+        "y": 30
+      }
+    },
+    "Bombie": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 1,
+        "x": 800,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Bombie_2": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 1,
+        "x": 1000,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Bone_Hut": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 1,
+        "x": 1200,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 187,
+        "h": 171
+      },
+      "offset_inside_cell": {
+        "x": 6,
+        "y": 14
+      }
+    },
+    "Boss_Farmer_Snowman": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 1,
+        "x": 1400,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 115,
+        "h": 109
+      },
+      "offset_inside_cell": {
+        "x": 42,
+        "y": 45
+      }
+    },
+    "Boulder": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 1,
+        "x": 1600,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 134,
+        "h": 93
+      },
+      "offset_inside_cell": {
+        "x": 33,
+        "y": 53
+      }
+    },
+    "Boulder_2": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 1,
+        "x": 1800,
+        "y": 200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Brain": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 2,
+        "x": 0,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 101
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 49
+      }
+    },
+    "Brainbot": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 2,
+        "x": 200,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 152
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 24
+      }
+    },
+    "Brobot": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 2,
+        "x": 400,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 157,
+        "h": 165
+      },
+      "offset_inside_cell": {
+        "x": 21,
+        "y": 17
+      }
+    },
+    "Broccoli_Mutation": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 2,
+        "x": 600,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Broccoli_Mutation_2": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 2,
+        "x": 800,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Brock_Coley": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 2,
+        "x": 1000,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 112
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 44
+      }
+    },
+    "BROCK_COLEY_ZOMBIE_BATTLES_default": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 2,
+        "x": 1200,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 64
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 68
+      }
+    },
+    "Broken_Monolith": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 2,
+        "x": 1400,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 85,
+        "h": 109
+      },
+      "offset_inside_cell": {
+        "x": 57,
+        "y": 45
+      }
+    },
+    "Broken_Tractor": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 2,
+        "x": 1600,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 198,
+        "h": 161
+      },
+      "offset_inside_cell": {
+        "x": 1,
+        "y": 19
+      }
+    },
+    "Broken_Wagon": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 2,
+        "x": 1800,
+        "y": 400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 176,
+        "h": 175
+      },
+      "offset_inside_cell": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    "Bully_Frog_Banner": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 3,
+        "x": 0,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 56,
+        "h": 101
+      },
+      "offset_inside_cell": {
+        "x": 72,
+        "y": 49
+      }
+    },
+    "Bully_Frog_s_Carnivorous_Plants": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 3,
+        "x": 200,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 165,
+        "h": 197
+      },
+      "offset_inside_cell": {
+        "x": 17,
+        "y": 1
+      }
+    },
+    "Bully_Frog_s_Mossy_Couch": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 3,
+        "x": 400,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 137,
+        "h": 121
+      },
+      "offset_inside_cell": {
+        "x": 31,
+        "y": 39
+      }
+    },
+    "Bully_Frog_s_Muddy_Pool": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 3,
+        "x": 600,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 139,
+        "h": 98
+      },
+      "offset_inside_cell": {
+        "x": 30,
+        "y": 51
+      }
+    },
+    "Bully_Frog_s_Squirmy_Worms": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 3,
+        "x": 800,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 103,
+        "h": 101
+      },
+      "offset_inside_cell": {
+        "x": 48,
+        "y": 49
+      }
+    },
+    "Butter_Churn": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 3,
+        "x": 1000,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 33,
+        "h": 118
+      },
+      "offset_inside_cell": {
+        "x": 83,
+        "y": 41
+      }
+    },
+    "Candelabra": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 3,
+        "x": 1200,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 54,
+        "h": 120
+      },
+      "offset_inside_cell": {
+        "x": 73,
+        "y": 40
+      }
+    },
+    "Cannon": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 3,
+        "x": 1400,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 120,
+        "h": 85
+      },
+      "offset_inside_cell": {
+        "x": 40,
+        "y": 57
+      }
+    },
+    "Captain_Zombie": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 3,
+        "x": 1600,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 111,
+        "h": 120
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 40
+      }
+    },
+    "Carecrow": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 3,
+        "x": 1800,
+        "y": 600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 126,
+        "h": 119
+      },
+      "offset_inside_cell": {
+        "x": 37,
+        "y": 40
+      }
+    },
+    "Carecrow_2": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 4,
+        "x": 0,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 120,
+        "h": 124
+      },
+      "offset_inside_cell": {
+        "x": 40,
+        "y": 38
+      }
+    },
+    "Carrot_Mutation": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 4,
+        "x": 200,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Carrot_Mutation_2": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 4,
+        "x": 400,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Carrot_Wall": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 4,
+        "x": 600,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 36
+      }
+    },
+    "Cattails": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 4,
+        "x": 800,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 172,
+        "h": 158
+      },
+      "offset_inside_cell": {
+        "x": 14,
+        "y": 21
+      }
+    },
+    "Cauli_Mutation": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 4,
+        "x": 1000,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Cauli_Mutation_2": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 4,
+        "x": 1200,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Celery_Mutation": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 4,
+        "x": 1400,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Celery_Mutation_2": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 4,
+        "x": 1600,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "chinesenewyear2012-dragonstatue": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 4,
+        "x": 1800,
+        "y": 800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 117,
+        "h": 117
+      },
+      "offset_inside_cell": {
+        "x": 41,
+        "y": 41
+      }
+    },
+    "chinesenewyear2012-tree": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 5,
+        "x": 0,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 133,
+        "h": 181
+      },
+      "offset_inside_cell": {
+        "x": 33,
+        "y": 9
+      }
+    },
+    "Chinese_Dragon": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 5,
+        "x": 200,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 117,
+        "h": 117
+      },
+      "offset_inside_cell": {
+        "x": 41,
+        "y": 41
+      }
+    },
+    "Choco_Bunny": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 5,
+        "x": 400,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 61,
+        "h": 102
+      },
+      "offset_inside_cell": {
+        "x": 69,
+        "y": 49
+      }
+    },
+    "christmas2011_gingerbreadhouse": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 5,
+        "x": 600,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 122,
+        "h": 116
+      },
+      "offset_inside_cell": {
+        "x": 39,
+        "y": 42
+      }
+    },
+    "Christmas_Arch": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 5,
+        "x": 800,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 94,
+        "h": 150
+      },
+      "offset_inside_cell": {
+        "x": 53,
+        "y": 25
+      }
+    },
+    "Christmas_Arch_2": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 5,
+        "x": 1000,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 93,
+        "h": 170
+      },
+      "offset_inside_cell": {
+        "x": 53,
+        "y": 15
+      }
+    },
+    "Christmas_Ghost_Zombie": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 5,
+        "x": 1200,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 118
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 41
+      }
+    },
+    "Christmas_Tree": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 5,
+        "x": 1400,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 124,
+        "h": 184
+      },
+      "offset_inside_cell": {
+        "x": 38,
+        "y": 8
+      }
+    },
+    "Christmas_Tree_2": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 5,
+        "x": 1600,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 117,
+        "h": 188
+      },
+      "offset_inside_cell": {
+        "x": 41,
+        "y": 6
+      }
+    },
+    "Circus_Bear": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 5,
+        "x": 1800,
+        "y": 1000,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 123,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 38,
+        "y": 36
+      }
+    },
+    "City_Lamp": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 6,
+        "x": 0,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 41,
+        "h": 198
+      },
+      "offset_inside_cell": {
+        "x": 79,
+        "y": 1
+      }
+    },
+    "City_Lamp_2": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 6,
+        "x": 200,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 53,
+        "h": 180
+      },
+      "offset_inside_cell": {
+        "x": 73,
+        "y": 10
+      }
+    },
+    "Clay_Monolith": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 6,
+        "x": 400,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 79,
+        "h": 128
+      },
+      "offset_inside_cell": {
+        "x": 60,
+        "y": 36
+      }
+    },
+    "Clay_Monolith_2": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 6,
+        "x": 600,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 72,
+        "h": 140
+      },
+      "offset_inside_cell": {
+        "x": 64,
+        "y": 30
+      }
+    },
+    "Coat_of_Arms": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 6,
+        "x": 800,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 114,
+        "h": 138
+      },
+      "offset_inside_cell": {
+        "x": 43,
+        "y": 31
+      }
+    },
+    "Coconut_Tree": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 6,
+        "x": 1000,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 161,
+        "h": 191
+      },
+      "offset_inside_cell": {
+        "x": 19,
+        "y": 4
+      }
+    },
+    "Coconut_Tree_2": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 6,
+        "x": 1200,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 152,
+        "h": 198
+      },
+      "offset_inside_cell": {
+        "x": 24,
+        "y": 1
+      }
+    },
+    "Coffee_Mutation_2": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 6,
+        "x": 1400,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Coffin_3": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 6,
+        "x": 1600,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 72,
+        "h": 107
+      },
+      "offset_inside_cell": {
+        "x": 64,
+        "y": 46
+      }
+    },
+    "Combine_Zombies": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 6,
+        "x": 1800,
+        "y": 1200,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 128,
+        "h": 70
+      },
+      "offset_inside_cell": {
+        "x": 36,
+        "y": 65
+      }
+    },
+    "CorporateVille_Boss": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 7,
+        "x": 0,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 165,
+        "h": 160
+      },
+      "offset_inside_cell": {
+        "x": 17,
+        "y": 20
+      }
+    },
+    "Corporate_banner": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 7,
+        "x": 200,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 63,
+        "h": 133
+      },
+      "offset_inside_cell": {
+        "x": 68,
+        "y": 33
+      }
+    },
+    "Cotton_Candy_Tree": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 7,
+        "x": 400,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 187,
+        "h": 200
+      },
+      "offset_inside_cell": {
+        "x": 6,
+        "y": 0
+      }
+    },
+    "Couple_s_Gravestone": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 7,
+        "x": 600,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 103,
+        "h": 101
+      },
+      "offset_inside_cell": {
+        "x": 48,
+        "y": 49
+      }
+    },
+    "Crashed_UFO": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 7,
+        "x": 800,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 134,
+        "h": 106
+      },
+      "offset_inside_cell": {
+        "x": 33,
+        "y": 47
+      }
+    },
+    "Crater": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 7,
+        "x": 1000,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 120,
+        "h": 84
+      },
+      "offset_inside_cell": {
+        "x": 40,
+        "y": 58
+      }
+    },
+    "crater_46": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 7,
+        "x": 1200,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 120,
+        "h": 84
+      },
+      "offset_inside_cell": {
+        "x": 40,
+        "y": 58
+      }
+    },
+    "Crazed_Worker": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 7,
+        "x": 1400,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 161
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 19
+      }
+    },
+    "Crazy_Zombie_2": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 7,
+        "x": 1600,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Cuddle_Bear": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 7,
+        "x": 1800,
+        "y": 1400,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 99,
+        "h": 119
+      },
+      "offset_inside_cell": {
+        "x": 50,
+        "y": 40
+      }
+    },
+    "Cupid_Statue_A": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 8,
+        "x": 0,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 88,
+        "h": 141
+      },
+      "offset_inside_cell": {
+        "x": 56,
+        "y": 29
+      }
+    },
+    "Cupid_Statue_B": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 8,
+        "x": 200,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 95,
+        "h": 150
+      },
+      "offset_inside_cell": {
+        "x": 52,
+        "y": 25
+      }
+    },
+    "Cupid_Topiary": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 8,
+        "x": 400,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 116,
+        "h": 129
+      },
+      "offset_inside_cell": {
+        "x": 42,
+        "y": 35
+      }
+    },
+    "Cupid_Zombie": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 8,
+        "x": 600,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Cupid_Zombie_2": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 8,
+        "x": 800,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Cupid_Zombie_no_background": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 8,
+        "x": 1000,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 109,
+        "h": 108
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 46
+      }
+    },
+    "Cursed_Chest": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 8,
+        "x": 1200,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 102,
+        "h": 98
+      },
+      "offset_inside_cell": {
+        "x": 49,
+        "y": 51
+      }
+    },
+    "Cypress_Tree": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 8,
+        "x": 1400,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 121,
+        "h": 195
+      },
+      "offset_inside_cell": {
+        "x": 39,
+        "y": 2
+      }
+    },
+    "Dairy_King": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 8,
+        "x": 1600,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 85,
+        "h": 146
+      },
+      "offset_inside_cell": {
+        "x": 57,
+        "y": 27
+      }
+    },
+    "Dapper_Zombie": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 8,
+        "x": 1800,
+        "y": 1600,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Dapper_Zombie_2": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 9,
+        "x": 0,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    },
+    "Decors": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 9,
+        "x": 200,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 121,
+        "h": 32
+      },
+      "offset_inside_cell": {
+        "x": 39,
+        "y": 84
+      }
+    },
+    "Deputy_Zombie": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 9,
+        "x": 400,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 125
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 37
+      }
+    },
+    "dinosaur_fern": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 9,
+        "x": 600,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 148,
+        "h": 90
+      },
+      "offset_inside_cell": {
+        "x": 26,
+        "y": 55
+      }
+    },
+    "dinosaur_footprint": {
+      "cell_bounds": {
+        "col": 4,
+        "row": 9,
+        "x": 800,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 119,
+        "h": 85
+      },
+      "offset_inside_cell": {
+        "x": 40,
+        "y": 57
+      }
+    },
+    "dinosaur_jeep": {
+      "cell_bounds": {
+        "col": 5,
+        "row": 9,
+        "x": 1000,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 150,
+        "h": 134
+      },
+      "offset_inside_cell": {
+        "x": 25,
+        "y": 33
+      }
+    },
+    "dinosaur_raptor": {
+      "cell_bounds": {
+        "col": 6,
+        "row": 9,
+        "x": 1200,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 140,
+        "h": 136
+      },
+      "offset_inside_cell": {
+        "x": 30,
+        "y": 32
+      }
+    },
+    "dinosaur_skull": {
+      "cell_bounds": {
+        "col": 7,
+        "row": 9,
+        "x": 1400,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 124,
+        "h": 101
+      },
+      "offset_inside_cell": {
+        "x": 38,
+        "y": 49
+      }
+    },
+    "Diva_Zombie": {
+      "cell_bounds": {
+        "col": 8,
+        "row": 9,
+        "x": 1600,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 118
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 41
+      }
+    },
+    "Diver_Zombie": {
+      "cell_bounds": {
+        "col": 9,
+        "row": 9,
+        "x": 1800,
+        "y": 1800,
+        "w": 200,
+        "h": 200
+      },
+      "sprite_dimensions": {
+        "w": 110,
+        "h": 110
+      },
+      "offset_inside_cell": {
+        "x": 45,
+        "y": 45
+      }
+    }
+  }
+}

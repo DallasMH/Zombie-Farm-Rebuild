@@ -1,0 +1,80 @@
+{
+  "sheet_file": "spritesheet_801_to_900_part8.png",
+  "cell_size_px": 900,
+  "grid_columns": 2,
+  "grid_rows": 2,
+  "sprites": {
+    "Tiny_Clowns_Battles": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 900,
+        "h": 900
+      },
+      "sprite_dimensions": {
+        "w": 806,
+        "h": 806
+      },
+      "offset_inside_cell": {
+        "x": 47,
+        "y": 47
+      }
+    },
+    "ZF Bubbles Banner": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 900,
+        "y": 0,
+        "w": 900,
+        "h": 900
+      },
+      "sprite_dimensions": {
+        "w": 851,
+        "h": 315
+      },
+      "offset_inside_cell": {
+        "x": 24,
+        "y": 292
+      }
+    },
+    "ZF2 Flower Glitch": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 900,
+        "w": 900,
+        "h": 900
+      },
+      "sprite_dimensions": {
+        "w": 720,
+        "h": 812
+      },
+      "offset_inside_cell": {
+        "x": 90,
+        "y": 44
+      }
+    },
+    "Zombie_Battles": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 900,
+        "y": 900,
+        "w": 900,
+        "h": 900
+      },
+      "sprite_dimensions": {
+        "w": 806,
+        "h": 806
+      },
+      "offset_inside_cell": {
+        "x": 47,
+        "y": 47
+      }
+    }
+  }
+}

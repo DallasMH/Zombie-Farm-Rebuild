@@ -1,0 +1,80 @@
+{
+  "sheet_file": "spritesheet_901_to_1000_part12.png",
+  "cell_size_px": 1000,
+  "grid_columns": 2,
+  "grid_rows": 2,
+  "sprites": {
+    "Full Army of Cupids": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 1000,
+        "h": 1000
+      },
+      "sprite_dimensions": {
+        "w": 960,
+        "h": 640
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 180
+      }
+    },
+    "Going Away Message": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 1000,
+        "y": 0,
+        "w": 1000,
+        "h": 1000
+      },
+      "sprite_dimensions": {
+        "w": 960,
+        "h": 640
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 180
+      }
+    },
+    "Green Flower Zombie Descripton": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 1000,
+        "w": 1000,
+        "h": 1000
+      },
+      "sprite_dimensions": {
+        "w": 960,
+        "h": 444
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 278
+      }
+    },
+    "Happy 2 Birthday Loading Screen": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 1000,
+        "y": 1000,
+        "w": 1000,
+        "h": 1000
+      },
+      "sprite_dimensions": {
+        "w": 960,
+        "h": 640
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 180
+      }
+    }
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "sheet_file": "spritesheet_401_to_500_part7.png",
+  "cell_size_px": 500,
+  "grid_columns": 4,
+  "grid_rows": 4,
+  "sprites": {
+    "Invasion McDonnell Christmas": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Invasion McDonnell": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 500,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Invasion Ninjas 2": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 0,
+        "x": 1000,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Invasion Ninjas": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 0,
+        "x": 1500,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Invasion Pirates 2": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Invasion Pirates": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 500,
+        "y": 500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Invasion Seasonal Easter": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 1,
+        "x": 1000,
+        "y": 500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Invasion Seasonal Spring Break": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 1,
+        "x": 1500,
+        "y": 500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "IPad Promo": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 2,
+        "x": 0,
+        "y": 1000,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 360
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 70
+      }
+    },
+    "IZombieFarmer_s_Farm": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 2,
+        "x": 500,
+        "y": 1000,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Lake Items": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 2,
+        "x": 1000,
+        "y": 1000,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Lawyers Background 2": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 2,
+        "x": 1500,
+        "y": 1000,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Lawyers Background": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 3,
+        "x": 0,
+        "y": 1500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Loading Screen 10": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 3,
+        "x": 500,
+        "y": 1500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Loco Locust Screen": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 3,
+        "x": 1000,
+        "y": 1500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 480,
+        "h": 320
+      },
+      "offset_inside_cell": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    "Menu087": {
+      "cell_bounds": {
+        "col": 3,
+        "row": 3,
+        "x": 1500,
+        "y": 1500,
+        "w": 500,
+        "h": 500
+      },
+      "sprite_dimensions": {
+        "w": 478,
+        "h": 317
+      },
+      "offset_inside_cell": {
+        "x": 11,
+        "y": 91
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "sheet_file": "spritesheet_601_to_700_part3.png",
+  "cell_size_px": 700,
+  "grid_columns": 2,
+  "grid_rows": 2,
+  "sprites": {
+    "Celery_stages": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 700
+      },
+      "sprite_dimensions": {
+        "w": 669,
+        "h": 140
+      },
+      "offset_inside_cell": {
+        "x": 15,
+        "y": 280
+      }
+    },
+    "Coffee_stages": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 700
+      },
+      "sprite_dimensions": {
+        "w": 666,
+        "h": 140
+      },
+      "offset_inside_cell": {
+        "x": 17,
+        "y": 280
+      }
+    },
+    "Corn_stages": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 700,
+        "w": 700,
+        "h": 700
+      },
+      "sprite_dimensions": {
+        "w": 666,
+        "h": 187
+      },
+      "offset_inside_cell": {
+        "x": 17,
+        "y": 256
+      }
+    },
+    "Corpse_Flower_stages": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 700,
+        "y": 700,
+        "w": 700,
+        "h": 700
+      },
+      "sprite_dimensions": {
+        "w": 666,
+        "h": 166
+      },
+      "offset_inside_cell": {
+        "x": 17,
+        "y": 267
+      }
+    }
+  }
+}

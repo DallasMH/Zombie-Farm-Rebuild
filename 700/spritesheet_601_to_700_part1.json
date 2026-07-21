@@ -1,0 +1,80 @@
+{
+  "sheet_file": "spritesheet_601_to_700_part1.png",
+  "cell_size_px": 700,
+  "grid_columns": 2,
+  "grid_rows": 2,
+  "sprites": {
+    "0.79 1": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 700
+      },
+      "sprite_dimensions": {
+        "w": 620,
+        "h": 413
+      },
+      "offset_inside_cell": {
+        "x": 40,
+        "y": 143
+      }
+    },
+    "Birthday Message": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 700
+      },
+      "sprite_dimensions": {
+        "w": 674,
+        "h": 504
+      },
+      "offset_inside_cell": {
+        "x": 13,
+        "y": 98
+      }
+    },
+    "Blue grave info": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 700,
+        "w": 700,
+        "h": 700
+      },
+      "sprite_dimensions": {
+        "w": 631,
+        "h": 457
+      },
+      "offset_inside_cell": {
+        "x": 34,
+        "y": 121
+      }
+    },
+    "Breadfruit_stages": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 700,
+        "y": 700,
+        "w": 700,
+        "h": 700
+      },
+      "sprite_dimensions": {
+        "w": 666,
+        "h": 140
+      },
+      "offset_inside_cell": {
+        "x": 17,
+        "y": 280
+      }
+    }
+  }
+}

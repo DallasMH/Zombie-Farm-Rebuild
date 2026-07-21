@@ -1,0 +1,170 @@
+{
+  "sheet_file": "spritesheet_501_to_600_part1.png",
+  "cell_size_px": 600,
+  "grid_columns": 3,
+  "grid_rows": 3,
+  "sprites": {
+    "Ancient Egyptian Farm Contest": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 560,
+        "h": 360
+      },
+      "offset_inside_cell": {
+        "x": 20,
+        "y": 120
+      }
+    },
+    "baldEagle_default": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 600,
+        "y": 0,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 256
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 172
+      }
+    },
+    "Brain Wheel Success": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 0,
+        "x": 1200,
+        "y": 0,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 600,
+        "h": 400
+      },
+      "offset_inside_cell": {
+        "x": 0,
+        "y": 100
+      }
+    },
+    "bruceTheShark_default": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 600,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 256
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 172
+      }
+    },
+    "Comic1": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 600,
+        "y": 600,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 592,
+        "h": 265
+      },
+      "offset_inside_cell": {
+        "x": 4,
+        "y": 167
+      }
+    },
+    "Comic2": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 1,
+        "x": 1200,
+        "y": 600,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 563,
+        "h": 260
+      },
+      "offset_inside_cell": {
+        "x": 18,
+        "y": 170
+      }
+    },
+    "direwolf_brown_default": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 2,
+        "x": 0,
+        "y": 1200,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    },
+    "direwolf_white_default": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 2,
+        "x": 600,
+        "y": 1200,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 512,
+        "h": 512
+      },
+      "offset_inside_cell": {
+        "x": 44,
+        "y": 44
+      }
+    },
+    "Dr. Groundhog Screen": {
+      "cell_bounds": {
+        "col": 2,
+        "row": 2,
+        "x": 1200,
+        "y": 1200,
+        "w": 600,
+        "h": 600
+      },
+      "sprite_dimensions": {
+        "w": 600,
+        "h": 430
+      },
+      "offset_inside_cell": {
+        "x": 0,
+        "y": 85
+      }
+    }
+  }
+}

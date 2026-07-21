@@ -1,0 +1,80 @@
+{
+  "sheet_file": "spritesheet_701_to_800_part3.png",
+  "cell_size_px": 800,
+  "grid_columns": 2,
+  "grid_rows": 2,
+  "sprites": {
+    "Tree World Invasion": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 0,
+        "x": 0,
+        "y": 0,
+        "w": 800,
+        "h": 800
+      },
+      "sprite_dimensions": {
+        "w": 796,
+        "h": 614
+      },
+      "offset_inside_cell": {
+        "x": 2,
+        "y": 93
+      }
+    },
+    "TreeWorldInvasion": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 0,
+        "x": 800,
+        "y": 0,
+        "w": 800,
+        "h": 800
+      },
+      "sprite_dimensions": {
+        "w": 796,
+        "h": 614
+      },
+      "offset_inside_cell": {
+        "x": 2,
+        "y": 93
+      }
+    },
+    "Turnip mutation level icon (16 bits 500 res)": {
+      "cell_bounds": {
+        "col": 0,
+        "row": 1,
+        "x": 0,
+        "y": 800,
+        "w": 800,
+        "h": 800
+      },
+      "sprite_dimensions": {
+        "w": 36,
+        "h": 16
+      },
+      "offset_inside_cell": {
+        "x": 382,
+        "y": 392
+      }
+    },
+    "VinceMcDonnell_1": {
+      "cell_bounds": {
+        "col": 1,
+        "row": 1,
+        "x": 800,
+        "y": 800,
+        "w": 800,
+        "h": 800
+      },
+      "sprite_dimensions": {
+        "w": 717,
+        "h": 584
+      },
+      "offset_inside_cell": {
+        "x": 41,
+        "y": 108
+      }
+    }
+  }
+}
